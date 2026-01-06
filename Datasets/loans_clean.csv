@@ -1,0 +1,554 @@
+Loan_ID,Customer_ID,Account_ID,Branch,Loan_Type,Loan_Amount,Interest_Rate,Loan_Term_Months,Start_Date,End_Date,Loan_Status
+1,1559,2090,Perez Ltd Branch,Personal,259805,12.43,60,2017-07-03,2022-06-07,Active
+2,1028,2575,Harris-Marshall Branch,Business,3589336,6.75,24,2017-06-14,2019-06-04,Active
+3,1164,2433,"Taylor, David and Brown Branch",Auto,4621300,9.86,240,2021-08-10,2041-04-27,Closed
+4,1100,2368,Robertson and Sons Branch,Home,2380953,7.74,120,2016-02-23,2026-01-01,Approved
+5,1081,2566,"Parrish, Hall and Adams Branch",Home,2268961,12.96,240,2021-01-05,2040-09-22,Approved
+6,1082,2239,Evans-Mercado Branch,Home,3083614,11.12,24,2015-07-07,2017-06-26,Active
+7,1215,2274,Watson Group Branch,Personal,3238729,8.72,120,2016-10-28,2026-09-06,Closed
+8,1277,2571,Garcia Inc Branch,Personal,1485615,10.77,60,2016-10-31,2021-10-05,Defaulted
+9,1411,2275,"Edwards, Dunlap and Fernandez Branch",Auto,2770280,13.24,12,2017-07-27,2018-07-22,Approved
+10,1470,2147,Delgado Ltd Branch,Personal,1819852,13.81,120,2017-05-20,2027-03-29,Defaulted
+11,1371,2225,Wilson PLC Branch,Home,1221304,8.47,84,2023-05-18,2030-04-11,Defaulted
+12,1433,2066,Lyons-Hart Branch,Auto,4324216,10.45,12,2016-03-25,2017-03-20,Active
+13,1118,2550,"Lopez, Tucker and Collins Branch",Education,3251254,11.27,240,2020-12-07,2040-08-24,Closed
+14,1270,2513,Garcia Group Branch,Home,2903598,7.39,180,2016-10-09,2031-07-23,Defaulted
+15,1383,2166,Black Group Branch,Auto,4308742,13.8,84,2022-03-02,2029-01-24,Active
+16,1372,2315,Chambers-Marquez Branch,Business,4498929,13.85,120,2020-06-24,2030-05-03,Approved
+17,1546,2129,Fleming-Washington Branch,Auto,535911,8.43,24,2015-12-17,2017-12-06,Defaulted
+18,1553,2206,"Powers, Thomas and Webb Branch",Auto,4036957,14.07,36,2017-12-21,2020-12-05,Defaulted
+19,1254,2231,Martin and Sons Branch,Home,3396989,14.46,120,2019-11-30,2029-10-08,Defaulted
+20,1073,2061,"Cruz, Jones and Sweeney Branch",Personal,2886067,6.67,60,2021-08-07,2026-07-12,Active
+21,1498,2220,Moore-Schaefer Branch,Auto,615394,13.74,120,2015-10-18,2025-08-26,Active
+22,1195,2097,Bruce-Kidd Branch,Business,1159912,12.29,240,2017-09-22,2037-06-09,Defaulted
+23,1063,2413,"King, Cain and Brown Branch",Personal,3665919,9.33,180,2020-03-27,2035-01-08,Approved
+24,1433,2188,"Choi, Hebert and Bush Branch",Home,966615,8.49,60,2021-01-05,2025-12-10,Defaulted
+25,1554,2016,Taylor PLC Branch,Home,3930805,8.5,24,2019-12-21,2021-12-10,Approved
+26,1061,2169,"Acosta, Murphy and Rojas Branch",Personal,2032894,7.83,240,2020-05-25,2040-02-10,Active
+27,1434,2570,Hess-Miller Branch,Education,68080,14.38,84,2023-10-17,2030-09-10,Defaulted
+28,1059,2052,Ramsey-Carr Branch,Education,1348529,8.02,60,2015-08-28,2020-08-01,Approved
+29,1071,2070,Mcgee and Sons Branch,Business,4049591,10.52,36,2015-08-21,2018-08-05,Approved
+30,1430,2598,Johnson Group Branch,Auto,3437114,7.46,60,2021-06-29,2026-06-03,Approved
+31,1272,2406,"Bell, Parker and Owen Branch",Business,4435419,9.03,84,2017-04-16,2024-03-10,Closed
+32,1076,2551,Warner-Shelton Branch,Auto,2566557,10.16,24,2015-02-08,2017-01-28,Defaulted
+33,1292,2162,Richards-Morgan Branch,Auto,4293668,8.62,120,2015-10-09,2025-08-17,Active
+34,1138,2271,Mcclain Inc Branch,Education,4606842,12.13,12,2022-06-28,2023-06-23,Closed
+35,1352,2209,"Ryan, Williams and Bowen Branch",Personal,947882,12.44,36,2018-01-20,2021-01-04,Closed
+36,1046,2004,"Wheeler, Henderson and Weeks Branch",Home,4289678,10.41,12,2016-01-14,2017-01-08,Defaulted
+37,1575,2010,Chapman PLC Branch,Home,1147394,11.6,84,2016-10-23,2023-09-17,Defaulted
+38,1597,2566,Richards-Morgan Branch,Personal,681191,14.06,36,2021-02-12,2024-01-28,Approved
+39,1216,2256,Smith PLC Branch,Auto,3655312,7.52,84,2019-02-02,2025-12-27,Approved
+40,1167,2182,Murray LLC Branch,Personal,3016871,12.74,180,2021-12-17,2036-09-29,Active
+41,1274,2164,Martin-Hardy Branch,Education,257923,7.93,120,2023-10-10,2033-08-18,Defaulted
+42,1359,2313,Jarvis-Williams Branch,Personal,3258992,13.48,240,2017-06-30,2037-03-17,Active
+43,1072,2286,Moore-Schaefer Branch,Auto,1920018,6.69,60,2019-06-21,2024-05-25,Closed
+44,1183,2595,Miller and Sons Branch,Home,4323204,9.7,120,2015-04-24,2025-03-02,Approved
+45,1524,2119,"Thompson, Cooper and King Branch",Home,370924,7.37,180,2018-11-16,2033-08-29,Closed
+46,1533,2552,Crawford-Torres Branch,Education,4886771,8.02,12,2022-12-13,2023-12-08,Defaulted
+47,1308,2520,"Stafford, Oneal and Williams Branch",Auto,3105311,9.95,120,2021-12-27,2031-11-05,Closed
+48,1431,2389,"Jackson, Sanders and Webb Branch",Home,3475848,9.11,84,2021-03-20,2028-02-12,Active
+49,1441,2594,"Ryan, Williams and Bowen Branch",Auto,4824000,8.91,12,2018-05-29,2019-05-24,Closed
+50,1174,2087,Mullen-Obrien Branch,Business,2753222,10.22,240,2022-07-30,2042-04-16,Active
+51,1231,2204,Anderson-Dunn Branch,Home,4373924,11.81,120,2016-01-18,2025-11-26,Active
+52,1425,2590,Ramirez-Cochran Branch,Auto,254895,6.87,240,2021-11-08,2041-07-26,Approved
+53,1436,2225,"Ramirez, Jackson and Flores Branch",Auto,3271044,10.46,60,2016-08-27,2021-08-01,Approved
+54,1476,2544,Flores Ltd Branch,Auto,4394944,10.22,60,2016-05-12,2021-04-16,Defaulted
+55,1163,2487,"Morse, Foley and Johnson Branch",Business,2711688,14.1,240,2021-11-14,2041-08-01,Defaulted
+56,1282,2451,"Bell, Parker and Owen Branch",Education,2224256,12.51,84,2023-08-03,2030-06-27,Defaulted
+57,1155,2237,Chavez and Sons Branch,Personal,2446861,8.38,120,2018-08-02,2028-06-10,Approved
+58,1556,2478,Moreno PLC Branch,Education,1331823,12.15,24,2019-08-27,2021-08-16,Defaulted
+59,1489,2007,Robertson and Sons Branch,Education,572322,8.15,180,2019-05-15,2034-02-25,Approved
+60,1225,2280,King LLC Branch,Home,2554944,12.53,180,2021-01-13,2035-10-27,Active
+61,1479,2131,"Mathews, Rodriguez and Lambert Branch",Education,4123860,6.73,120,2022-07-02,2032-05-10,Defaulted
+62,1439,2139,Powell-Schwartz Branch,Business,4530553,6.72,180,2021-08-21,2036-06-03,Approved
+63,1335,2346,Clark Inc Branch,Education,1574453,6.9,180,2018-09-02,2033-06-15,Active
+64,1020,2553,Robinson-Stokes Branch,Education,2384185,12.52,180,2017-10-30,2032-08-12,Approved
+65,1254,2205,"Holmes, Nguyen and French Branch",Personal,2985680,8.29,24,2023-10-05,2025-09-24,Approved
+66,1477,2263,Henderson Inc Branch,Personal,1328275,8.41,240,2022-07-05,2042-03-22,Approved
+67,1111,2593,Ho Inc Branch,Home,1457517,11.35,24,2023-09-21,2025-09-10,Active
+68,1249,2105,"Hernandez, Stewart and Lee Branch",Personal,2666887,11.11,180,2019-06-13,2034-03-26,Active
+69,1071,2519,Sullivan and Sons Branch,Home,1065483,12.87,12,2018-11-23,2019-11-18,Defaulted
+70,1471,2157,"Chambers, Lindsey and Ramos Branch",Home,156133,13.3,240,2016-03-08,2035-11-24,Defaulted
+71,1447,2275,Sellers-Cunningham Branch,Education,1527543,12.37,84,2021-11-27,2028-10-21,Defaulted
+72,1476,2584,Woodward LLC Branch,Home,2109362,13.15,24,2018-02-16,2020-02-06,Defaulted
+73,1218,2364,King LLC Branch,Business,3229192,9.19,240,2018-08-24,2038-05-11,Active
+74,1088,2248,Peterson-Graves Branch,Home,2904969,8.74,84,2021-03-26,2028-02-18,Approved
+75,1459,2018,Bright Group Branch,Education,4148488,10.94,60,2022-09-29,2027-09-03,Defaulted
+76,1567,2544,Mullen-Obrien Branch,Personal,2518226,8.27,60,2018-06-08,2023-05-13,Closed
+77,1314,2258,Hall PLC Branch,Home,3619384,14.47,120,2018-12-12,2028-10-20,Defaulted
+78,1222,2496,"Jackson, Sanders and Webb Branch",Auto,1062134,12.27,120,2016-05-04,2026-03-13,Active
+79,1233,2370,"Johnson, Arias and Kramer Branch",Home,4995813,14.31,84,2016-02-16,2023-01-10,Active
+80,1567,2300,Barton PLC Branch,Auto,2585604,6.61,36,2018-01-28,2021-01-12,Approved
+81,1491,2452,"Smith, Mcdonald and Johnson Branch",Auto,4167788,7.32,12,2021-06-09,2022-06-04,Closed
+82,1411,2504,"Rodriguez, Cabrera and Alvarez Branch",Home,1596554,14.22,84,2020-05-10,2027-04-04,Approved
+83,1088,2255,Rogers Group Branch,Personal,4890404,11.54,12,2016-09-13,2017-09-08,Active
+84,1454,2305,"Moore, Brown and Brown Branch",Personal,4731455,12.62,60,2023-09-13,2028-08-17,Defaulted
+85,1217,2271,"Francis, Page and Morales Branch",Business,3647285,8.94,12,2021-11-02,2022-10-28,Approved
+86,1462,2482,Carroll-Robinson Branch,Personal,1367490,8.42,24,2016-10-03,2018-09-23,Approved
+87,1240,2271,Molina-Potts Branch,Home,323802,8.35,84,2022-11-19,2029-10-13,Defaulted
+88,1146,2074,"Smith, Reed and Huang Branch",Business,1709427,9.9,60,2022-04-06,2027-03-11,Active
+89,1312,2413,Morris Ltd Branch,Personal,1441861,12.84,84,2019-12-04,2026-10-28,Approved
+90,1331,2257,Wells-Gutierrez Branch,Home,4248264,10.82,240,2015-11-26,2035-08-13,Approved
+91,1180,2482,Garcia Group Branch,Personal,816105,8.33,12,2023-07-30,2024-07-24,Closed
+92,1094,2482,Scott LLC Branch,Business,3759689,13.83,36,2021-07-25,2024-07-09,Defaulted
+93,1508,2296,"Zavala, Ferguson and Williams Branch",Home,3475472,9.17,24,2016-10-20,2018-10-10,Closed
+94,1119,2414,Moore-Soto Branch,Education,4664544,6.79,24,2018-07-12,2020-07-01,Closed
+95,1531,2371,Garcia-Kane Branch,Business,59655,11.76,240,2019-08-20,2039-05-07,Approved
+96,1295,2449,"Mcbride, Leonard and Brown Branch",Business,4231663,11.5,12,2017-04-13,2018-04-08,Closed
+97,1565,2015,Ho Inc Branch,Education,1068595,6.73,60,2022-12-17,2027-11-21,Active
+98,1511,2299,Berry-Cabrera Branch,Business,3472473,7.25,24,2020-03-05,2022-02-23,Approved
+99,1565,2149,"Austin, Rogers and Ayala Branch",Business,2343654,9.82,240,2020-04-18,2040-01-04,Active
+100,1349,2520,Vega-Valentine Branch,Education,1648955,13.87,36,2015-10-13,2018-09-27,Closed
+101,1458,2552,Martinez-Bell Branch,Home,71518,8.76,84,2021-08-01,2028-06-25,Defaulted
+102,1245,2586,Smith and Sons Branch,Education,2945109,9.16,180,2020-02-09,2034-11-22,Closed
+103,1391,2396,Mullen-Obrien Branch,Education,2009263,13.35,180,2015-06-28,2030-04-10,Closed
+104,1451,2103,Warner-Shelton Branch,Auto,4205117,14.22,36,2020-08-19,2023-08-04,Closed
+105,1481,2272,"Fitzgerald, Day and Goodwin Branch",Business,3882990,6.62,36,2019-08-07,2022-07-22,Active
+106,1500,2555,Gray Ltd Branch,Home,3384331,11.7,120,2022-07-25,2032-06-02,Defaulted
+107,1101,2103,Rodriguez LLC Branch,Personal,623954,8.38,84,2017-07-20,2024-06-13,Approved
+108,1301,2368,Bennett and Sons Branch,Education,1445568,12.05,12,2015-07-08,2016-07-02,Closed
+109,1180,2081,Gordon LLC Branch,Home,3662862,7.66,180,2021-05-07,2036-02-18,Active
+110,1473,2261,"Camacho, Brown and Terry Branch",Business,3259014,11.46,60,2020-07-31,2025-07-05,Active
+111,1453,2354,Lopez Ltd Branch,Education,2191835,11.83,240,2018-03-24,2037-12-09,Active
+112,1310,2204,"Austin, Rogers and Ayala Branch",Business,2559487,11.61,180,2022-09-28,2037-07-11,Closed
+113,1303,2023,Bright Inc Branch,Education,4103443,7.35,180,2021-05-31,2036-03-13,Closed
+114,1236,2361,"Bird, Weber and Cain Branch",Education,2352508,6.56,12,2021-10-19,2022-10-14,Defaulted
+115,1317,2452,Olsen and Sons Branch,Auto,1644942,11.47,36,2022-01-17,2025-01-01,Approved
+116,1426,2180,"Powell, Jones and Hamilton Branch",Personal,4911817,9.42,36,2016-01-05,2018-12-20,Closed
+117,1264,2494,Choi PLC Branch,Auto,1158636,12.79,120,2020-12-14,2030-10-23,Closed
+118,1407,2571,Brown-Roberts Branch,Home,2891349,12.93,240,2015-11-05,2035-07-23,Active
+119,1378,2269,Clark Inc Branch,Home,807515,12.83,12,2017-12-19,2018-12-14,Approved
+120,1026,2575,"Burns, Patterson and White Branch",Business,3246273,13.08,120,2016-03-19,2026-01-26,Active
+121,1120,2144,Carroll-Robinson Branch,Home,1906962,11.68,240,2022-11-11,2042-07-29,Closed
+122,1551,2139,Flores PLC Branch,Personal,362157,8.93,240,2016-04-20,2036-01-06,Approved
+123,1102,2502,Vega-Valentine Branch,Education,3855439,9.47,180,2021-08-02,2036-05-15,Active
+124,1455,2456,Rogers-Quinn Branch,Business,3473524,14.01,84,2015-05-15,2022-04-08,Closed
+125,1408,2283,"Ramirez, Ray and Harvey Branch",Auto,3092431,7.29,120,2021-02-08,2030-12-18,Closed
+126,1052,2342,"Jordan, Stokes and Mayer Branch",Auto,1074749,14.09,240,2016-01-11,2035-09-28,Active
+127,1239,2337,"Brooks, Jackson and Hicks Branch",Auto,1106326,12.8,60,2015-10-09,2020-09-12,Active
+128,1113,2027,Simpson-Boyle Branch,Auto,73786,8.72,36,2016-06-16,2019-06-01,Closed
+129,1179,2272,Wolf-Harmon Branch,Auto,174657,9.37,60,2021-08-08,2026-07-13,Closed
+130,1460,2371,Simmons and Sons Branch,Personal,1113327,12.43,24,2023-05-13,2025-05-02,Approved
+131,1470,2032,"Steele, Marsh and Richardson Branch",Business,964811,10.12,60,2021-11-24,2026-10-29,Approved
+132,1455,2076,Bright Group Branch,Personal,4067991,13.28,180,2022-09-11,2037-06-24,Approved
+133,1391,2544,"Solis, Simpson and Martin Branch",Personal,2752069,11.37,24,2016-05-31,2018-05-21,Closed
+134,1441,2463,Gibson LLC Branch,Home,3856040,10.54,180,2016-02-11,2030-11-24,Approved
+135,1321,2438,Lozano-Wilson Branch,Auto,3521319,9.21,240,2019-06-22,2039-03-09,Defaulted
+136,1094,2088,"Horne, Gomez and Zavala Branch",Home,2188170,9.49,36,2022-09-14,2025-08-29,Defaulted
+137,1126,2421,Orozco PLC Branch,Personal,3672842,7.27,120,2016-06-16,2026-04-25,Approved
+138,1107,2592,Douglas and Sons Branch,Home,3597851,13.44,12,2018-03-24,2019-03-19,Closed
+139,1570,2377,Ward and Sons Branch,Business,1834582,7.74,240,2017-07-07,2037-03-24,Approved
+140,1030,2185,Newman-Peterson Branch,Personal,2386799,11.09,180,2021-04-16,2036-01-28,Approved
+141,1580,2411,Keller PLC Branch,Home,2641951,13.87,120,2015-01-26,2024-12-04,Active
+142,1430,2465,Davis-Long Branch,Personal,1240130,12.43,12,2016-01-11,2017-01-05,Active
+143,1160,2162,Richardson-Morales Branch,Home,1370444,9.46,120,2023-09-17,2033-07-26,Approved
+144,1453,2425,"Coffey, Curtis and Garrison Branch",Business,467438,11.89,84,2019-12-20,2026-11-13,Defaulted
+145,1291,2499,Perez and Sons Branch,Home,1858323,12.54,24,2018-11-14,2020-11-03,Defaulted
+146,1210,2309,"Cruz, Jones and Sweeney Branch",Business,2637209,6.86,180,2021-09-20,2036-07-03,Approved
+147,1510,2441,"Cruz, Jones and Sweeney Branch",Auto,1201208,12.61,84,2018-09-05,2025-07-30,Approved
+148,1407,2044,Duncan Group Branch,Auto,1133688,9.54,60,2020-08-11,2025-07-16,Closed
+149,1428,2297,Martinez-Lee Branch,Education,207215,10.18,24,2018-07-06,2020-06-25,Defaulted
+150,1091,2448,"Chambers, Lindsey and Ramos Branch",Personal,3447657,6.67,120,2016-12-04,2026-10-13,Defaulted
+151,1318,2348,Delgado Ltd Branch,Personal,2091086,9.99,180,2020-11-16,2035-08-30,Approved
+152,1358,2360,"Liu, Medina and Garza Branch",Auto,2843982,12.73,24,2020-09-21,2022-09-11,Approved
+153,1078,2182,Black Group Branch,Auto,2031966,7.32,84,2017-03-19,2024-02-11,Active
+154,1155,2451,"Edwards, Dunlap and Fernandez Branch",Education,3941920,12.54,240,2022-08-21,2042-05-08,Closed
+155,1361,2520,Bennett and Sons Branch,Personal,3983595,10.04,84,2023-12-06,2030-10-30,Closed
+156,1079,2093,"Bird, Weber and Cain Branch",Personal,2653889,10.19,12,2015-08-22,2016-08-16,Closed
+157,1488,2514,Byrd Ltd Branch,Business,4303593,9.58,12,2020-01-17,2021-01-11,Active
+158,1177,2041,Brooks Group Branch,Auto,569034,10.1,120,2023-01-04,2032-11-12,Approved
+159,1397,2419,Friedman-Martin Branch,Auto,3722182,14.43,36,2019-01-30,2022-01-14,Closed
+160,1572,2396,"Potts, Gutierrez and Hancock Branch",Home,489273,12.81,120,2015-09-27,2025-08-05,Closed
+161,1359,2318,"Gutierrez, Richards and Pace Branch",Home,2163893,12.29,36,2018-09-27,2021-09-11,Approved
+162,1131,2540,Thompson-Griffin Branch,Education,1131724,11.26,24,2018-06-22,2020-06-11,Defaulted
+163,1220,2350,Harris Ltd Branch,Personal,3601790,10.57,12,2019-01-25,2020-01-20,Closed
+164,1104,2520,Bright Inc Branch,Education,1660656,8.31,36,2016-09-26,2019-09-11,Approved
+165,1158,2167,Davis-Long Branch,Business,4466867,6.8,120,2023-08-05,2033-06-13,Active
+166,1455,2292,Richardson and Sons Branch,Auto,1438643,12.27,12,2019-08-10,2020-08-04,Closed
+167,1377,2585,"Liu, Medina and Garza Branch",Education,2012958,10.77,84,2023-10-18,2030-09-11,Defaulted
+168,1205,2142,Johnson Group Branch,Education,3922852,12.66,180,2020-08-21,2035-06-04,Defaulted
+169,1292,2086,"Stafford, Oneal and Williams Branch",Home,487715,11.63,120,2021-03-21,2031-01-28,Approved
+170,1462,2358,Elliott-Dennis Branch,Auto,2338339,10.09,36,2019-11-27,2022-11-11,Approved
+171,1384,2230,Johnson Group Branch,Personal,3530407,6.93,120,2017-08-23,2027-07-02,Defaulted
+172,1040,2294,Pearson-Roberts Branch,Personal,2723322,13.95,120,2023-11-16,2033-09-24,Active
+173,1020,2263,Morris PLC Branch,Education,1214277,12.57,240,2020-01-12,2039-09-29,Approved
+174,1309,2125,Richardson and Sons Branch,Auto,1304261,10.89,180,2016-03-31,2031-01-12,Closed
+175,1549,2017,James Group Branch,Personal,2050175,9.86,240,2015-09-15,2035-06-02,Approved
+176,1362,2247,Crawford-Torres Branch,Business,4873847,8.44,36,2018-04-08,2021-03-23,Defaulted
+177,1539,2558,Lewis-Travis Branch,Business,3544422,8.0,24,2020-11-14,2022-11-04,Closed
+178,1383,2260,Thomas PLC Branch,Business,4308246,10.93,180,2020-04-09,2035-01-21,Approved
+179,1137,2046,Aguirre-Bowman Branch,Personal,3045520,12.81,120,2017-09-14,2027-07-24,Approved
+180,1187,2139,Vaughn Ltd Branch,Home,4630295,9.21,36,2023-09-27,2026-09-11,Defaulted
+181,1324,2318,Chung-Black Branch,Personal,3889294,6.8,60,2015-06-29,2020-06-02,Active
+182,1293,2366,Peterson-Graves Branch,Business,3390545,14.41,240,2017-11-03,2037-07-21,Approved
+183,1396,2348,Edwards PLC Branch,Personal,2834386,8.69,120,2019-11-25,2029-10-03,Defaulted
+184,1435,2081,"Williams, Green and Dunlap Branch",Auto,4212454,12.04,120,2023-12-10,2033-10-18,Closed
+185,1303,2314,Nguyen Inc Branch,Education,1563778,10.86,120,2016-02-25,2026-01-03,Approved
+186,1362,2446,"Cunningham, Lee and Fleming Branch",Education,3624520,7.83,240,2018-12-10,2038-08-27,Defaulted
+187,1147,2449,"Holmes, Nguyen and French Branch",Home,531154,7.1,180,2019-01-28,2033-11-10,Active
+188,1158,2461,Lynch Ltd Branch,Personal,1108894,7.04,120,2019-01-23,2028-12-01,Defaulted
+189,1408,2322,Burke-Barr Branch,Home,3170674,10.05,24,2021-06-08,2023-05-29,Active
+190,1531,2397,James Group Branch,Home,2143894,14.18,12,2023-04-02,2024-03-27,Active
+191,1293,2503,Santiago and Sons Branch,Business,1037850,8.59,84,2022-11-23,2029-10-17,Defaulted
+192,1090,2328,"Jones, Wilson and Myers Branch",Auto,1078757,7.59,24,2020-01-26,2022-01-15,Active
+193,1371,2521,Simpson-Boyle Branch,Home,594748,10.9,84,2018-05-13,2025-04-06,Active
+194,1370,2568,Wood-Bell Branch,Auto,1068062,14.38,36,2017-08-27,2020-08-11,Defaulted
+195,1317,2408,Rose-Macias Branch,Business,3144651,10.24,36,2021-11-11,2024-10-26,Approved
+196,1325,2076,"Garcia, Bradford and Thomas Branch",Education,4459854,9.79,180,2021-06-12,2036-03-25,Approved
+197,1444,2515,Chen-Ramos Branch,Education,3957692,11.94,120,2016-06-09,2026-04-18,Active
+198,1231,2355,Green-Noble Branch,Personal,1091538,10.64,84,2016-11-05,2023-09-30,Active
+199,1311,2547,"Garcia, Bradford and Thomas Branch",Business,2432769,13.27,84,2017-03-15,2024-02-07,Closed
+200,1030,2084,Chung-Black Branch,Personal,4265889,11.63,36,2016-12-02,2019-11-17,Closed
+201,1510,2559,"Holmes, Nguyen and French Branch",Personal,4888307,8.62,60,2023-08-08,2028-07-12,Defaulted
+202,1062,2162,Hopkins-Johnston Branch,Home,2584149,10.36,180,2018-05-03,2033-02-13,Defaulted
+203,1327,2354,"Smith, Stewart and Howell Branch",Education,3536487,10.37,60,2018-10-25,2023-09-29,Active
+204,1126,2274,Martin Ltd Branch,Education,1146945,12.59,24,2018-07-31,2020-07-20,Active
+205,1255,2164,Mercado-Adkins Branch,Education,2129694,7.63,12,2018-04-03,2019-03-29,Defaulted
+206,1528,2479,Steele-Phillips Branch,Home,4895990,12.27,60,2023-07-23,2028-06-26,Active
+207,1221,2598,Evans Ltd Branch,Education,2638225,10.48,24,2019-05-30,2021-05-19,Defaulted
+208,1550,2009,Hess-Miller Branch,Home,458174,6.9,240,2021-09-13,2041-05-31,Defaulted
+209,1375,2047,Bullock-Martinez Branch,Personal,3664884,7.57,84,2023-02-27,2030-01-21,Closed
+210,1396,2517,Lopez Ltd Branch,Education,479141,11.06,60,2019-01-24,2023-12-29,Closed
+211,1383,2348,Adams LLC Branch,Education,4662535,8.74,24,2016-06-11,2018-06-01,Approved
+212,1042,2047,Frazier and Sons Branch,Business,3116928,12.54,60,2021-10-03,2026-09-07,Defaulted
+213,1528,2144,Martinez-Bell Branch,Personal,1199544,12.21,240,2020-10-28,2040-07-15,Defaulted
+214,1522,2546,Beltran-Nelson Branch,Home,2722023,7.8,84,2021-08-28,2028-07-22,Closed
+215,1427,2598,Torres-Green Branch,Education,4772150,8.9,12,2019-02-17,2020-02-12,Closed
+216,1598,2492,"Vargas, Vang and Murphy Branch",Home,273532,11.28,84,2022-05-09,2029-04-02,Active
+217,1587,2113,"Solis, Ibarra and Gamble Branch",Auto,4447579,11.53,180,2016-08-28,2031-06-11,Active
+218,1421,2514,Mckinney-Ramirez Branch,Auto,208858,10.03,180,2016-09-12,2031-06-26,Defaulted
+219,1575,2333,"Francis, Page and Morales Branch",Business,4006113,13.48,12,2022-11-30,2023-11-25,Active
+220,1271,2496,Tapia-Flynn Branch,Education,4458021,9.51,36,2020-02-26,2023-02-10,Closed
+221,1213,2501,"Booth, Jones and Burke Branch",Auto,2117952,8.73,84,2017-07-10,2024-06-03,Closed
+222,1405,2354,Garcia Inc Branch,Home,4074882,9.29,84,2018-03-24,2025-02-15,Approved
+223,1491,2220,"Allen, Martin and Mosley Branch",Auto,2486493,6.84,24,2018-11-19,2020-11-08,Defaulted
+224,1249,2052,Weaver-Clarke Branch,Auto,4567919,8.67,84,2016-07-16,2023-06-10,Approved
+225,1484,2103,Moreno PLC Branch,Business,1943070,11.6,12,2016-02-15,2017-02-09,Defaulted
+226,1205,2295,Johnson-Hunter Branch,Auto,93465,14.22,36,2019-07-25,2022-07-09,Defaulted
+227,1180,2428,Thomas LLC Branch,Home,2444237,11.67,24,2022-04-25,2024-04-14,Active
+228,1297,2039,Mcgee and Sons Branch,Auto,354840,14.48,180,2023-11-02,2038-08-15,Defaulted
+229,1557,2537,Clark Inc Branch,Personal,2553095,11.04,24,2018-10-04,2020-09-23,Closed
+230,1339,2167,Garcia-Watkins Branch,Education,1175750,13.31,240,2018-01-22,2037-10-09,Active
+231,1582,2198,Bright Inc Branch,Education,2208094,12.25,12,2023-04-06,2024-03-31,Closed
+232,1190,2144,Lozano-Wilson Branch,Auto,3451499,13.12,120,2015-12-22,2025-10-30,Defaulted
+233,1458,2274,Smith Inc Branch,Education,2764567,13.99,12,2017-12-04,2018-11-29,Defaulted
+234,1064,2122,Smith Inc Branch,Home,2582905,11.16,12,2017-12-07,2018-12-02,Closed
+235,1377,2227,Bright Inc Branch,Education,2623678,7.78,84,2022-09-28,2029-08-22,Approved
+236,1563,2483,"Miller, Hill and Leonard Branch",Auto,1170456,10.33,240,2023-05-21,2043-02-05,Closed
+237,1080,2578,"Chambers, Lindsey and Ramos Branch",Business,1882169,12.59,24,2020-11-22,2022-11-12,Defaulted
+238,1336,2533,Choi PLC Branch,Personal,568064,13.13,60,2021-06-03,2026-05-08,Active
+239,1465,2136,Daniels-Arellano Branch,Education,1025091,11.94,240,2016-01-08,2035-09-25,Defaulted
+240,1023,2406,"Warren, Tanner and Combs Branch",Business,3534833,10.15,12,2021-04-07,2022-04-02,Defaulted
+241,1066,2555,Stevens-Braun Branch,Home,75295,12.47,24,2015-07-05,2017-06-24,Defaulted
+242,1185,2139,Carroll-Robinson Branch,Personal,628974,14.39,240,2015-05-10,2035-01-25,Closed
+243,1083,2553,Rosales-Anderson Branch,Education,3191205,14.44,180,2020-01-12,2034-10-25,Defaulted
+244,1004,2024,"Compton, Patterson and Sanchez Branch",Auto,2967305,7.45,180,2020-12-06,2035-09-19,Active
+245,1254,2472,"Phillips, Hamilton and Campos Branch",Home,3933958,11.89,180,2020-12-18,2035-10-01,Defaulted
+246,1247,2212,Wolf-Harmon Branch,Home,1351252,8.71,24,2015-05-12,2017-05-01,Defaulted
+247,1046,2412,Owen-Miller Branch,Personal,896382,11.25,240,2021-09-14,2041-06-01,Approved
+248,1590,2327,Velez LLC Branch,Education,2015780,10.82,12,2016-07-27,2017-07-22,Closed
+249,1308,2282,Smith-Jacobson Branch,Business,2739933,8.4,36,2022-05-28,2025-05-12,Active
+250,1049,2353,"Ortiz, Peck and Meza Branch",Personal,4720090,14.09,36,2022-01-08,2024-12-23,Defaulted
+251,1386,2189,Clark-Smith Branch,Education,4449515,9.05,180,2019-07-31,2034-05-13,Active
+252,1060,2576,Beasley-Kirk Branch,Business,4022163,8.43,60,2018-05-16,2023-04-20,Active
+253,1209,2339,Smith LLC Branch,Education,3543921,10.96,36,2019-05-10,2022-04-24,Active
+254,1275,2387,"Vargas, Vang and Murphy Branch",Personal,3823085,13.28,24,2021-01-02,2022-12-23,Active
+255,1214,2341,Vaughn Ltd Branch,Business,381748,13.49,60,2023-07-17,2028-06-20,Active
+256,1249,2210,Vaughn Ltd Branch,Home,178628,8.19,60,2023-04-26,2028-03-30,Approved
+257,1316,2268,"Holmes, Harrell and Woods Branch",Education,2057653,10.92,84,2019-04-09,2026-03-03,Defaulted
+258,1209,2380,Marshall-Carey Branch,Home,4351816,13.56,240,2016-02-08,2035-10-26,Defaulted
+259,1268,2567,Wolf-Harmon Branch,Home,3522297,6.87,60,2023-04-25,2028-03-29,Active
+260,1236,2389,Orozco PLC Branch,Business,4908202,12.26,84,2016-09-16,2023-08-11,Active
+261,1472,2173,Bright Group Branch,Business,2111332,10.49,120,2017-11-20,2027-09-29,Defaulted
+262,1077,2050,"Taylor, Hopkins and Morales Branch",Home,1469903,7.62,240,2017-01-23,2036-10-10,Approved
+263,1224,2518,"Williams, Johnson and Williams Branch",Personal,3509396,7.6,60,2015-10-06,2020-09-09,Active
+264,1007,2545,Wolf-Harmon Branch,Education,3180634,6.98,240,2022-05-24,2042-02-08,Defaulted
+265,1515,2441,"Reyes, Campbell and Walton Branch",Business,3500557,6.59,84,2021-01-03,2027-11-28,Closed
+266,1363,2274,Williamson-Hubbard Branch,Auto,947718,13.84,36,2017-09-14,2020-08-29,Active
+267,1308,2083,Brown-Roberts Branch,Education,712861,9.48,180,2020-02-24,2034-12-07,Active
+268,1010,2176,Bennett and Sons Branch,Personal,834339,9.74,180,2021-03-13,2035-12-25,Defaulted
+269,1236,2217,"Cunningham, Lee and Fleming Branch",Personal,4243116,13.26,120,2021-05-06,2031-03-15,Approved
+270,1184,2323,Lynch Ltd Branch,Business,4038785,8.67,24,2022-09-04,2024-08-24,Closed
+271,1578,2247,Garrett-Rubio Branch,Personal,1787768,11.2,180,2015-11-12,2030-08-25,Closed
+272,1513,2355,"Nguyen, Skinner and Le Branch",Business,3314482,11.92,120,2019-04-22,2029-02-28,Active
+273,1031,2280,"Powell, Jones and Hamilton Branch",Personal,869447,10.0,24,2018-10-27,2020-10-16,Defaulted
+274,1088,2303,Robertson and Sons Branch,Education,4165480,8.33,180,2019-11-04,2034-08-17,Active
+275,1325,2370,Smith Ltd Branch,Auto,666618,7.16,36,2019-04-06,2022-03-21,Active
+276,1105,2136,Cook PLC Branch,Personal,817729,6.54,84,2019-12-27,2026-11-20,Closed
+277,1363,2568,"Edwards, Dixon and Lopez Branch",Personal,1621956,9.95,180,2016-02-28,2030-12-11,Approved
+278,1087,2573,"Wong, Turner and Gordon Branch",Personal,2771518,13.41,12,2018-04-10,2019-04-05,Defaulted
+279,1309,2275,Chapman-Goodman Branch,Auto,4847951,10.67,180,2016-11-25,2031-09-08,Active
+280,1496,2079,"Hill, Ramos and Brennan Branch",Education,1274190,7.01,180,2018-02-04,2032-11-17,Defaulted
+281,1110,2139,Peck LLC Branch,Home,2161410,14.05,240,2021-08-29,2041-05-16,Active
+282,1451,2343,Orozco PLC Branch,Home,106768,14.09,120,2021-12-15,2031-10-24,Defaulted
+283,1408,2327,Welch and Sons Branch,Education,1191894,8.9,60,2020-05-16,2025-04-20,Closed
+284,1403,2374,Jones LLC Branch,Home,4168867,14.24,60,2018-08-27,2023-08-01,Defaulted
+285,1215,2449,"Nelson, Hardy and Fox Branch",Personal,4779920,8.1,36,2022-08-24,2025-08-08,Approved
+286,1311,2248,Chen Ltd Branch,Home,630144,13.05,180,2022-07-19,2037-05-01,Defaulted
+287,1597,2411,Vaughn Ltd Branch,Home,1343047,12.22,180,2015-10-30,2030-08-12,Defaulted
+288,1550,2088,Johnson LLC Branch,Business,4299774,13.89,180,2021-02-04,2035-11-18,Approved
+289,1340,2441,Gonzales-Klein Branch,Personal,2132312,11.76,120,2016-11-12,2026-09-21,Approved
+290,1384,2401,"Morse, Foley and Johnson Branch",Personal,138481,7.29,60,2020-09-22,2025-08-27,Active
+291,1108,2303,"Lopez, Santana and Johnson Branch",Education,4987450,12.02,36,2018-11-13,2021-10-28,Approved
+292,1467,2212,Johnson-Wilson Branch,Education,770202,7.43,36,2018-11-27,2021-11-11,Closed
+293,1069,2308,Hartman-Vargas Branch,Business,4101076,9.29,24,2019-11-30,2021-11-19,Defaulted
+294,1250,2529,Choi PLC Branch,Personal,1015405,6.68,120,2022-04-08,2032-02-15,Approved
+295,1189,2191,Martinez-Lee Branch,Auto,4679759,7.78,180,2020-03-07,2034-12-19,Active
+296,1005,2220,Smith Ltd Branch,Education,3368385,6.73,60,2020-01-16,2024-12-20,Defaulted
+297,1375,2334,Thompson PLC Branch,Auto,2384925,12.52,24,2021-06-22,2023-06-12,Approved
+298,1402,2117,"Wong, Turner and Gordon Branch",Auto,3888211,7.41,240,2020-12-01,2040-08-18,Closed
+299,1138,2321,Young PLC Branch,Home,3002663,13.26,36,2022-07-22,2025-07-06,Closed
+300,1429,2142,"Wong, Turner and Gordon Branch",Personal,2051293,8.94,36,2019-03-10,2022-02-22,Active
+301,1502,2296,Huynh-Jones Branch,Business,3268792,9.88,240,2022-02-16,2041-11-03,Active
+302,1010,2497,"Holmes, Harrell and Woods Branch",Auto,1619496,9.02,240,2021-12-12,2041-08-29,Approved
+303,1455,2501,"Miller, Hill and Leonard Branch",Auto,1686856,13.02,240,2019-08-03,2039-04-20,Defaulted
+304,1231,2551,Myers-Hall Branch,Auto,743491,11.02,60,2018-04-11,2023-03-16,Approved
+305,1275,2557,"Suarez, Rhodes and Bolton Branch",Home,1461039,12.75,240,2021-03-01,2040-11-16,Approved
+306,1436,2105,Henderson Inc Branch,Home,4596989,13.08,12,2023-07-10,2024-07-04,Defaulted
+307,1090,2450,Chang-Lucas Branch,Auto,2547363,13.5,12,2020-01-17,2021-01-11,Closed
+308,1143,2212,"Mathews, Rodriguez and Lambert Branch",Personal,2037647,8.18,120,2022-12-21,2032-10-29,Defaulted
+309,1300,2297,Moore-Soto Branch,Auto,547929,11.06,84,2021-09-10,2028-08-04,Active
+310,1284,2130,Thomas-Calhoun Branch,Business,2292636,14.12,24,2016-07-09,2018-06-29,Defaulted
+311,1146,2592,Peters PLC Branch,Auto,2144444,7.67,120,2017-10-10,2027-08-19,Defaulted
+312,1528,2285,Bullock-Martinez Branch,Home,3524771,9.5,24,2022-02-08,2024-01-29,Approved
+313,1470,2367,Mason Group Branch,Home,3864263,14.1,120,2021-07-11,2031-05-20,Approved
+314,1331,2291,Brown Group Branch,Personal,4533077,9.68,180,2017-05-17,2032-02-28,Defaulted
+315,1048,2102,Simmons-Gardner Branch,Home,4641173,11.12,240,2023-11-03,2043-07-21,Closed
+316,1439,2208,"Wang, Mcdonald and Church Branch",Education,186577,7.49,36,2019-12-13,2022-11-27,Defaulted
+317,1085,2381,Graham PLC Branch,Auto,2582231,7.77,84,2016-01-18,2022-12-12,Closed
+318,1094,2098,Mckee-Moore Branch,Auto,484423,9.67,84,2023-02-21,2030-01-15,Active
+319,1010,2009,"Jones, Wilson and Myers Branch",Personal,1840306,10.31,36,2021-08-28,2024-08-12,Active
+320,1073,2235,Nguyen LLC Branch,Home,1061613,14.41,180,2022-10-13,2037-07-26,Active
+321,1307,2141,Hardin-Rodriguez Branch,Education,799363,12.35,24,2016-02-27,2018-02-16,Closed
+322,1451,2360,Choi PLC Branch,Education,1166911,11.63,36,2015-10-08,2018-09-22,Approved
+323,1144,2127,Warner-Shelton Branch,Auto,1319818,13.86,240,2017-06-08,2037-02-23,Approved
+324,1284,2087,Clark and Sons Branch,Business,3271493,9.31,180,2018-07-12,2033-04-24,Active
+325,1211,2531,"Steele, Marsh and Richardson Branch",Auto,4692227,11.31,84,2023-09-26,2030-08-20,Approved
+326,1507,2396,Weaver-Clarke Branch,Business,4324185,8.01,180,2018-04-25,2033-02-05,Approved
+327,1325,2136,"Roberts, Murphy and Lewis Branch",Personal,2072340,10.5,24,2020-12-03,2022-11-23,Approved
+328,1018,2070,Hopkins-Johnston Branch,Education,4817920,9.87,36,2023-07-22,2026-07-06,Defaulted
+329,1294,2514,"Meadows, Taylor and Butler Branch",Personal,2249369,8.23,12,2023-11-07,2024-11-01,Defaulted
+330,1086,2318,Miller Inc Branch,Education,3603206,12.11,24,2022-03-08,2024-02-26,Active
+331,1068,2318,Allen-Guzman Branch,Personal,4339134,13.87,36,2021-01-06,2023-12-22,Closed
+332,1057,2317,Hartman and Sons Branch,Education,2051835,6.96,24,2019-11-15,2021-11-04,Approved
+333,1509,2356,Townsend-Black Branch,Auto,1051960,6.6,36,2022-11-13,2025-10-28,Approved
+334,1276,2121,"Harris, Robles and Rogers Branch",Business,4388779,12.76,84,2016-11-14,2023-10-09,Closed
+335,1591,2079,Smith-Pineda Branch,Personal,2860276,12.96,84,2020-11-15,2027-10-10,Approved
+336,1162,2262,Hardin-Rodriguez Branch,Education,3868475,10.59,12,2020-08-08,2021-08-03,Active
+337,1013,2251,Burke-Moreno Branch,Personal,4864325,11.89,24,2017-07-24,2019-07-14,Approved
+338,1230,2330,Maldonado Ltd Branch,Personal,4007448,9.41,36,2017-01-03,2019-12-19,Approved
+339,1123,2515,Hurley-Reynolds Branch,Auto,3541813,13.83,120,2018-01-16,2027-11-25,Approved
+340,1290,2319,Sellers-Cunningham Branch,Personal,1554449,8.29,12,2019-07-01,2020-06-25,Approved
+341,1578,2312,Scott-Olson Branch,Home,774654,10.92,12,2019-02-20,2020-02-15,Active
+342,1155,2007,Walters-Lee Branch,Business,2084942,10.21,240,2023-08-31,2043-05-18,Active
+343,1002,2386,Andrews Ltd Branch,Education,250573,8.36,120,2022-02-17,2031-12-27,Approved
+344,1146,2287,Andrews-Marquez Branch,Home,921987,8.14,60,2019-09-16,2024-08-20,Defaulted
+345,1087,2595,James-Collier Branch,Personal,418262,13.87,180,2022-11-10,2037-08-23,Closed
+346,1134,2243,Peterson-Bishop Branch,Personal,4289835,7.57,180,2015-11-03,2030-08-16,Approved
+347,1464,2279,Shepherd-Rodriguez Branch,Home,2239350,13.31,180,2022-11-10,2037-08-23,Closed
+348,1109,2169,Duke-Keller Branch,Auto,676523,14.05,36,2023-09-30,2026-09-14,Approved
+349,1463,2316,"Francis, Page and Morales Branch",Education,3959553,9.01,24,2021-01-04,2022-12-25,Closed
+350,1221,2336,Garcia Group Branch,Education,2273047,13.32,24,2016-10-07,2018-09-27,Closed
+351,1267,2179,"Hill, Ramos and Brennan Branch",Auto,815149,12.19,120,2019-06-12,2029-04-20,Approved
+352,1144,2125,Perez Ltd Branch,Personal,3442287,13.34,60,2016-01-23,2020-12-27,Defaulted
+353,1382,2087,"Acosta, Murphy and Rojas Branch",Personal,567318,13.14,60,2016-06-19,2021-05-24,Active
+354,1455,2132,"Williams, Mcfarland and Alvarez Branch",Business,4966720,8.57,24,2015-03-31,2017-03-20,Approved
+355,1405,2509,Brooks-Valencia Branch,Personal,2831242,7.48,240,2015-07-27,2035-04-13,Active
+356,1282,2287,Thompson PLC Branch,Personal,3260567,11.97,36,2018-12-20,2021-12-04,Active
+357,1422,2564,Steele-Phillips Branch,Education,1296810,6.78,60,2022-04-05,2027-03-10,Closed
+358,1539,2256,"Peters, Mercer and Floyd Branch",Education,561529,7.2,180,2016-07-16,2031-04-29,Defaulted
+359,1580,2515,Stevens-Braun Branch,Business,213829,14.42,120,2020-05-18,2030-03-27,Defaulted
+360,1288,2060,"Huff, Bryant and Thomas Branch",Home,3307978,8.66,12,2018-07-30,2019-07-25,Active
+361,1247,2273,Clark and Sons Branch,Education,4491199,9.36,60,2016-10-15,2021-09-19,Approved
+362,1178,2181,Watson Group Branch,Business,518995,12.61,60,2021-06-16,2026-05-21,Defaulted
+363,1582,2578,Douglas and Sons Branch,Auto,2717613,12.95,120,2021-08-20,2031-06-29,Approved
+364,1503,2039,"Sullivan, Bradford and Becker Branch",Auto,4773699,14.09,240,2021-01-29,2040-10-16,Closed
+365,1340,2207,"Wang, Mcdonald and Church Branch",Personal,521171,8.36,60,2015-03-23,2020-02-25,Defaulted
+366,1146,2114,"Stout, Baker and Bowman Branch",Auto,2908494,12.24,120,2015-09-01,2025-07-10,Approved
+367,1345,2310,Richard-Lowe Branch,Business,3110917,14.18,120,2022-11-25,2032-10-03,Defaulted
+368,1179,2576,Gray Ltd Branch,Home,1194639,14.31,180,2023-11-18,2038-08-31,Defaulted
+369,1131,2182,Miller-Nelson Branch,Business,3043269,8.29,36,2019-03-30,2022-03-14,Closed
+370,1580,2107,"Miller, Baker and Owen Branch",Personal,4855286,9.63,12,2017-01-15,2018-01-10,Closed
+371,1172,2091,Marshall-Carey Branch,Education,1229802,9.15,24,2017-09-01,2019-08-22,Closed
+372,1263,2111,Ward and Sons Branch,Home,3796603,6.59,60,2017-10-19,2022-09-23,Approved
+373,1388,2360,Simmons-Cole Branch,Personal,453890,9.59,180,2016-11-12,2031-08-26,Defaulted
+374,1463,2076,Garrett-Rubio Branch,Business,3198643,7.31,240,2023-11-05,2043-07-23,Active
+375,1175,2385,"Griffin, White and Miller Branch",Personal,2523872,6.66,84,2016-03-04,2023-01-27,Approved
+376,1442,2169,"Holmes, Nguyen and French Branch",Auto,679165,10.88,24,2018-10-16,2020-10-05,Defaulted
+377,1420,2568,Davis-Hancock Branch,Business,3692336,7.76,24,2018-09-18,2020-09-07,Active
+378,1403,2586,Anderson-Barnes Branch,Business,2275202,11.78,84,2017-08-30,2024-07-24,Approved
+379,1302,2492,"Herrera, Rollins and Hill Branch",Business,4168372,7.73,120,2015-01-16,2024-11-24,Defaulted
+380,1485,2119,Johnson Group Branch,Auto,863585,6.71,36,2022-02-27,2025-02-11,Closed
+381,1380,2391,Sutton-Huang Branch,Home,3384197,10.27,84,2016-01-09,2022-12-03,Defaulted
+382,1232,2276,Smith-Pineda Branch,Home,1615171,10.07,84,2019-12-07,2026-10-31,Defaulted
+383,1233,2567,Smith-Jacobson Branch,Business,567068,7.71,24,2015-12-18,2017-12-07,Closed
+384,1488,2307,Smith Inc Branch,Personal,3297281,13.05,180,2021-01-02,2035-10-16,Defaulted
+385,1460,2178,Martin and Sons Branch,Personal,3361859,13.72,12,2020-08-18,2021-08-13,Active
+386,1446,2207,"Nguyen, Skinner and Le Branch",Auto,1827463,12.97,36,2015-06-24,2018-06-08,Defaulted
+387,1566,2334,Evans-Baker Branch,Auto,2213307,9.06,24,2015-12-23,2017-12-12,Defaulted
+388,1425,2154,Garcia-Watkins Branch,Home,4409460,10.17,12,2023-10-27,2024-10-21,Defaulted
+389,1549,2353,Hess-Miller Branch,Auto,4802934,11.2,24,2016-03-08,2018-02-26,Approved
+390,1177,2283,Thomas LLC Branch,Education,2265738,9.56,240,2021-06-01,2041-02-16,Defaulted
+391,1244,2051,Martin LLC Branch,Education,1256723,11.45,180,2015-06-08,2030-03-21,Defaulted
+392,1288,2504,Ho Inc Branch,Education,2303048,13.68,12,2018-10-15,2019-10-10,Closed
+393,1427,2092,Chapman-Goodman Branch,Personal,1962245,7.58,240,2023-09-06,2043-05-24,Closed
+394,1058,2528,Brown LLC Branch,Auto,3755387,8.19,180,2023-04-23,2038-02-03,Defaulted
+395,1198,2206,Ramirez-Brown Branch,Auto,600435,8.99,180,2016-07-09,2031-04-22,Approved
+396,1378,2476,"Nelson, Randall and Thornton Branch",Personal,2142876,6.76,12,2019-01-16,2020-01-11,Active
+397,1382,2501,"Solomon, Williams and White Branch",Business,3379793,11.58,24,2022-08-22,2024-08-11,Approved
+398,1168,2265,Stevens-Braun Branch,Business,3792186,7.92,240,2021-07-31,2041-04-17,Closed
+399,1231,2212,"Miller, Baker and Owen Branch",Personal,2441335,6.72,12,2016-10-29,2017-10-24,Active
+400,1009,2230,Ramirez-Brown Branch,Home,3485195,10.61,12,2020-04-25,2021-04-20,Active
+401,1471,2259,Winters-Rodriguez Branch,Home,2612381,12.2,84,2019-10-02,2026-08-26,Defaulted
+402,1524,2384,"Cruz, Jones and Sweeney Branch",Auto,3964946,8.92,180,2021-07-22,2036-05-04,Approved
+403,1284,2333,"Butler, Sullivan and Torres Branch",Business,2421265,8.89,24,2020-05-27,2022-05-17,Approved
+404,1059,2414,Evans Ltd Branch,Home,2240659,11.75,84,2017-02-10,2024-01-05,Active
+405,1415,2398,Mercado-Adkins Branch,Home,1223813,12.27,240,2018-04-25,2038-01-10,Closed
+406,1368,2520,Simmons and Sons Branch,Personal,4940757,12.16,60,2018-11-06,2023-10-11,Active
+407,1132,2265,"Burns, Patterson and White Branch",Home,1475951,13.23,36,2018-04-18,2021-04-02,Approved
+408,1364,2229,Elliott-Dennis Branch,Business,1585688,14.08,120,2022-05-04,2032-03-12,Approved
+409,1475,2121,Miller-Nelson Branch,Home,3577179,12.8,120,2019-03-03,2029-01-09,Closed
+410,1123,2391,Frazier and Sons Branch,Education,500274,13.43,24,2020-04-18,2022-04-08,Active
+411,1420,2584,"Griffin, White and Miller Branch",Business,2552789,9.8,36,2016-07-16,2019-07-01,Active
+412,1341,2182,King LLC Branch,Education,1251451,9.03,36,2023-09-26,2026-09-10,Approved
+413,1502,2091,"Woods, Patterson and Owens Branch",Home,536653,6.54,84,2017-05-07,2024-03-31,Active
+414,1005,2039,Russell LLC Branch,Auto,3688235,11.57,180,2019-10-24,2034-08-06,Defaulted
+415,1005,2255,Murphy-Johnston Branch,Business,1722807,12.35,12,2018-08-12,2019-08-07,Active
+416,1067,2047,Lee-Reyes Branch,Auto,2938615,9.0,24,2019-04-21,2021-04-10,Closed
+417,1502,2368,"Griffin, White and Miller Branch",Home,2489640,10.15,120,2019-11-12,2029-09-20,Active
+418,1135,2217,"Powell, Palmer and Martin Branch",Auto,1433143,14.08,180,2015-03-20,2029-12-31,Active
+419,1262,2548,Rosales-Anderson Branch,Personal,4996702,10.54,24,2019-02-10,2021-01-30,Approved
+420,1050,2119,Roberts-Silva Branch,Business,457576,11.25,12,2022-06-04,2023-05-30,Approved
+421,1010,2309,Bell PLC Branch,Education,3777178,9.54,84,2020-04-27,2027-03-22,Active
+422,1108,2524,Mercado-Adkins Branch,Education,897080,11.8,84,2021-12-25,2028-11-18,Active
+423,1270,2536,"Peters, Mercer and Floyd Branch",Business,1037629,8.76,24,2020-07-31,2022-07-21,Active
+424,1213,2493,Cortez-Brown Branch,Auto,3052465,12.13,84,2016-10-18,2023-09-12,Approved
+425,1093,2524,Martinez-Bell Branch,Home,2017172,6.52,24,2016-03-28,2018-03-18,Defaulted
+426,1476,2052,"Adams, Mitchell and Schneider Branch",Personal,899686,13.74,60,2020-02-14,2025-01-18,Closed
+427,1119,2098,Daniel-Dunn Branch,Personal,1515504,13.49,84,2019-01-15,2025-12-09,Closed
+428,1275,2096,Russell-Patel Branch,Personal,131137,13.32,36,2018-09-08,2021-08-23,Closed
+429,1395,2490,"Sloan, Williams and Adkins Branch",Home,2924966,7.96,180,2019-06-28,2034-04-10,Defaulted
+430,1495,2583,Merritt PLC Branch,Education,1449041,7.4,12,2016-10-14,2017-10-09,Approved
+431,1495,2500,Jones-Baker Branch,Education,1570523,11.39,120,2021-11-09,2031-09-18,Approved
+432,1538,2591,Hodges LLC Branch,Personal,3500102,10.03,24,2017-12-07,2019-11-27,Closed
+433,1255,2494,Brooks-Valencia Branch,Business,1928921,14.32,120,2020-10-27,2030-09-05,Approved
+434,1481,2508,Harris-Marshall Branch,Home,3278579,7.69,12,2015-02-17,2016-02-12,Active
+435,1052,2520,Miller Inc Branch,Auto,678015,12.51,120,2017-09-13,2027-07-23,Closed
+436,1455,2587,"Beck, Howe and Perry Branch",Auto,4667891,11.65,180,2017-08-20,2032-06-02,Approved
+437,1019,2106,Johnson-Wright Branch,Education,788364,13.35,240,2018-07-18,2038-04-04,Approved
+438,1468,2350,"Clark, Kaiser and Ray Branch",Education,3508946,6.79,12,2016-01-08,2017-01-02,Closed
+439,1464,2117,"Humphrey, Mitchell and Buck Branch",Home,505293,13.03,240,2018-09-21,2038-06-08,Defaulted
+440,1109,2047,Brown LLC Branch,Personal,1910149,6.52,120,2022-02-08,2031-12-18,Closed
+441,1193,2124,Oneal-White Branch,Auto,4180736,7.62,180,2016-03-14,2030-12-26,Closed
+442,1425,2048,Hebert Group Branch,Education,1858495,10.16,60,2023-01-14,2027-12-19,Closed
+443,1005,2544,Steele-Phillips Branch,Business,1083637,12.68,240,2020-02-17,2039-11-04,Active
+444,1132,2107,Ramirez-Brown Branch,Personal,4690798,13.98,240,2020-09-13,2040-05-31,Active
+445,1408,2352,"Nelson, Randall and Thornton Branch",Education,2749821,10.53,180,2019-09-11,2034-06-24,Active
+446,1567,2223,Ramsey-Carr Branch,Home,3848745,12.94,36,2019-08-18,2022-08-02,Closed
+447,1183,2516,"Flores, French and Freeman Branch",Auto,1809197,11.49,84,2022-09-13,2029-08-07,Closed
+448,1547,2293,Perez-Griffin Branch,Business,2754331,12.18,120,2021-04-22,2031-03-01,Defaulted
+449,1058,2205,Black Inc Branch,Education,157126,10.68,12,2019-04-10,2020-04-04,Active
+450,1209,2555,Bright Inc Branch,Home,1400023,14.37,84,2016-08-22,2023-07-17,Approved
+451,1244,2524,Smith Ltd Branch,Personal,3058846,13.01,24,2021-11-28,2023-11-18,Active
+452,1014,2258,Barton PLC Branch,Home,444095,13.91,180,2019-09-03,2034-06-16,Closed
+453,1302,2460,"Liu, Medina and Garza Branch",Auto,3766688,13.14,120,2023-06-20,2033-04-28,Active
+454,1042,2439,Massey-Reed Branch,Auto,674691,8.0,36,2023-03-30,2026-03-14,Approved
+455,1339,2478,Matthews Group Branch,Home,4719087,8.61,36,2021-07-20,2024-07-04,Closed
+456,1503,2587,"Steele, Marsh and Richardson Branch",Auto,385045,7.73,120,2021-09-10,2031-07-20,Approved
+457,1534,2070,"Glenn, Villa and Perry Branch",Business,3053839,7.08,120,2020-11-22,2030-10-01,Active
+458,1219,2340,"Miller, Baker and Owen Branch",Business,1386896,9.83,180,2016-01-12,2030-10-25,Closed
+459,1355,2457,"Schroeder, Lane and Arnold Branch",Home,3076591,8.85,240,2021-04-18,2041-01-03,Approved
+460,1263,2554,"Berry, Kelley and Hughes Branch",Auto,2095370,14.17,120,2019-04-12,2029-02-18,Approved
+461,1045,2304,Hutchinson Group Branch,Home,257246,13.79,120,2020-10-07,2030-08-16,Defaulted
+462,1216,2219,Rose-Macias Branch,Auto,2736978,10.61,24,2016-11-16,2018-11-06,Approved
+463,1025,2471,Berry-Cabrera Branch,Education,921801,8.14,180,2022-04-02,2037-01-13,Approved
+464,1589,2234,Molina-Potts Branch,Home,367813,7.2,12,2016-12-30,2017-12-25,Closed
+465,1399,2122,"Reyes, Campbell and Walton Branch",Home,3469471,9.6,180,2019-11-09,2034-08-22,Closed
+466,1367,2515,Hopkins-Johnston Branch,Business,99483,11.63,24,2023-06-24,2025-06-13,Approved
+467,1449,2391,Lin Inc Branch,Personal,2481325,12.8,84,2021-10-20,2028-09-13,Approved
+468,1148,2306,Bright Inc Branch,Education,308529,10.29,60,2016-07-12,2021-06-16,Defaulted
+469,1587,2404,Matthews Group Branch,Home,143534,10.93,36,2016-05-19,2019-05-04,Approved
+470,1423,2525,"Powers, Thomas and Webb Branch",Business,4642976,14.08,84,2017-05-10,2024-04-03,Closed
+471,1581,2056,Cunningham Inc Branch,Auto,1400183,7.97,84,2017-03-06,2024-01-29,Approved
+472,1101,2203,Graham PLC Branch,Business,3919372,11.66,24,2018-04-05,2020-03-25,Approved
+473,1292,2072,Warner-Shelton Branch,Business,4136849,14.11,120,2016-06-09,2026-04-18,Active
+474,1580,2581,Black Group Branch,Auto,2715781,10.39,120,2021-11-29,2031-10-08,Closed
+475,1227,2447,"Mason, Kelly and Marquez Branch",Home,2703594,14.17,36,2015-01-20,2018-01-04,Closed
+476,1368,2313,"Morse, Foley and Johnson Branch",Home,3065587,7.57,120,2020-05-19,2030-03-28,Defaulted
+477,1270,2079,Lewis LLC Branch,Education,4677758,7.37,24,2018-02-23,2020-02-13,Active
+478,1038,2565,"Lee, Escobar and Torres Branch",Personal,206282,13.3,12,2021-07-11,2022-07-06,Defaulted
+479,1402,2229,Hanson-Carter Branch,Home,4608951,13.65,240,2022-05-02,2042-01-17,Active
+480,1011,2245,"Martin, Flores and Miller Branch",Business,2491077,7.57,24,2019-06-14,2021-06-03,Closed
+481,1580,2580,Stone-Miller Branch,Business,1441196,12.56,36,2020-01-02,2022-12-17,Active
+482,1065,2271,"Camacho, Brown and Terry Branch",Auto,4105920,14.01,12,2017-06-15,2018-06-10,Defaulted
+483,1481,2466,"Wong, Turner and Gordon Branch",Home,2013090,6.84,60,2020-10-22,2025-09-26,Closed
+484,1593,2558,Smith-Pineda Branch,Personal,384744,14.34,120,2016-02-27,2026-01-05,Closed
+485,1386,2229,Brown PLC Branch,Business,1508357,9.51,180,2019-02-05,2033-11-18,Approved
+486,1514,2143,"Taylor, David and Brown Branch",Business,3454451,9.32,120,2020-06-17,2030-04-26,Defaulted
+487,1162,2371,Thompson PLC Branch,Education,1439202,8.34,84,2017-05-16,2024-04-09,Active
+488,1491,2491,Salazar Group Branch,Business,1042625,11.79,180,2018-09-14,2033-06-27,Approved
+489,1131,2588,Morales Group Branch,Auto,1402631,11.68,180,2015-04-02,2030-01-13,Active
+490,1171,2265,Bennett and Sons Branch,Business,1401649,7.58,12,2021-06-02,2022-05-28,Active
+491,1222,2460,Zimmerman PLC Branch,Auto,4383896,14.17,12,2023-01-26,2024-01-21,Closed
+492,1597,2187,Keller PLC Branch,Business,4004502,13.44,36,2017-06-17,2020-06-01,Defaulted
+493,1388,2395,"Phillips, Hamilton and Campos Branch",Business,4334942,8.62,120,2020-02-01,2029-12-10,Approved
+494,1488,2040,Welch and Sons Branch,Auto,960752,6.63,180,2016-09-04,2031-06-18,Approved
+495,1442,2535,Crawford-Torres Branch,Business,4272231,12.52,24,2020-05-29,2022-05-19,Active
+496,1359,2590,Herrera LLC Branch,Education,3156951,13.5,180,2017-07-28,2032-05-10,Defaulted
+497,1291,2557,Powell-Schwartz Branch,Personal,3619263,7.57,240,2023-08-03,2043-04-20,Active
+498,1385,2211,"Cruz, Jones and Sweeney Branch",Education,2212624,8.01,12,2021-06-25,2022-06-20,Approved
+499,1549,2434,Miller and Sons Branch,Home,3479641,9.4,36,2019-10-12,2022-09-26,Closed
+500,1566,2571,Smith-Jacobson Branch,Business,3117244,11.4,180,2023-06-20,2038-04-02,Active
+501,1408,2142,Stevens-Braun Branch,Education,1549208,9.46,240,2017-11-05,2037-07-23,Closed
+502,1347,2564,"Acosta, Murphy and Rojas Branch",Personal,1977461,10.07,36,2016-02-15,2019-01-30,Active
+503,1446,2091,"Burns, Patterson and White Branch",Business,486650,7.79,12,2016-01-09,2017-01-03,Active
+504,1411,2534,"Gonzales, Diaz and Green Branch",Personal,2256975,8.27,24,2021-10-30,2023-10-20,Approved
+505,1011,2207,Sanchez-Montes Branch,Home,532034,14.07,36,2022-03-07,2025-02-19,Defaulted
+506,1369,2245,"Pratt, Perkins and Garcia Branch",Business,2449196,8.06,60,2021-11-24,2026-10-29,Active
+507,1405,2416,"Higgins, Michael and Harris Branch",Personal,1370742,7.19,84,2023-09-29,2030-08-23,Defaulted
+508,1356,2284,Chang-Lucas Branch,Business,1730325,10.64,24,2016-01-05,2017-12-25,Closed
+509,1180,2417,Miller and Sons Branch,Auto,1681795,10.14,180,2021-06-12,2036-03-25,Approved
+510,1551,2589,Horton-Jimenez Branch,Business,943092,10.97,84,2018-10-24,2025-09-17,Approved
+511,1470,2472,Shepard Ltd Branch,Home,3764212,14.23,240,2023-08-20,2043-05-07,Active
+512,1236,2324,"Grant, Walters and Jordan Branch",Business,279434,10.36,84,2015-10-04,2022-08-28,Defaulted
+513,1295,2096,Martin-Hardy Branch,Education,3011986,10.63,12,2022-11-10,2023-11-05,Closed
+514,1224,2588,Tapia-Flynn Branch,Education,2918844,7.11,36,2020-05-05,2023-04-20,Closed
+515,1248,2272,Flores PLC Branch,Home,1583307,14.08,60,2020-08-05,2025-07-10,Active
+516,1110,2123,Duke-Keller Branch,Auto,1972732,8.12,60,2021-12-08,2026-11-12,Closed
+517,1505,2589,Lee-Brown Branch,Personal,4182772,11.41,12,2020-05-29,2021-05-24,Closed
+518,1056,2539,Robinson-Sweeney Branch,Home,4167173,7.96,84,2019-06-18,2026-05-12,Active
+519,1179,2469,Adams LLC Branch,Education,4062439,14.02,12,2020-08-20,2021-08-15,Closed
+520,1595,2104,Garcia Inc Branch,Personal,4397019,10.18,12,2015-02-18,2016-02-13,Active
+521,1276,2483,Murray LLC Branch,Home,3083340,11.4,84,2017-02-05,2023-12-31,Closed
+522,1382,2374,Maldonado Ltd Branch,Business,2928101,9.43,240,2019-10-03,2039-06-20,Active
+523,1277,2242,Warner-Shelton Branch,Education,2395702,10.11,36,2021-06-16,2024-05-31,Active
+524,1010,2181,Mullen-Obrien Branch,Business,3675713,13.35,60,2016-08-20,2021-07-25,Active
+525,1257,2576,Clark-Smith Branch,Education,4240930,7.58,120,2023-10-22,2033-08-30,Defaulted
+526,1488,2099,"Patterson, Deleon and Webb Branch",Business,450214,9.69,36,2015-09-03,2018-08-18,Active
+527,1021,2422,Stevens-Braun Branch,Education,2857302,8.58,120,2021-04-14,2031-02-21,Closed
+528,1364,2333,Gutierrez PLC Branch,Personal,2995160,13.44,60,2021-06-20,2026-05-25,Active
+529,1475,2149,"Bird, Weber and Cain Branch",Business,4139393,12.7,240,2015-11-18,2035-08-05,Defaulted
+530,1352,2234,Johnson Group Branch,Auto,2880218,9.87,180,2015-10-20,2030-08-02,Approved
+531,1456,2372,Hall PLC Branch,Home,2708167,11.72,84,2021-10-15,2028-09-08,Defaulted
+532,1129,2241,Green-Keith Branch,Business,4419925,14.22,180,2016-11-16,2031-08-30,Active
+533,1485,2562,Stewart-Jones Branch,Home,721631,8.18,180,2016-02-26,2030-12-09,Approved
+534,1087,2400,Duke-Keller Branch,Personal,271164,12.67,24,2016-03-01,2018-02-19,Closed
+535,1540,2175,"Mcbride, Leonard and Brown Branch",Home,1973977,8.48,84,2019-12-21,2026-11-14,Active
+536,1562,2456,"Sloan, Williams and Adkins Branch",Personal,344901,11.81,120,2020-05-04,2030-03-13,Defaulted
+537,1356,2494,Anderson-Dunn Branch,Auto,4573872,7.92,240,2022-01-28,2041-10-15,Defaulted
+538,1267,2160,"Patton, Maddox and Jackson Branch",Business,1955291,12.94,240,2018-06-15,2038-03-02,Closed
+539,1548,2009,"Smith, Mcdonald and Johnson Branch",Home,138548,6.5,36,2018-11-09,2021-10-24,Closed
+540,1008,2562,Barnes PLC Branch,Education,4051928,8.9,180,2023-12-13,2038-09-25,Closed
+541,1400,2388,Townsend-Black Branch,Home,1631848,9.79,180,2019-06-05,2034-03-18,Active
+542,1545,2276,Gutierrez PLC Branch,Auto,2256038,7.13,60,2020-10-17,2025-09-21,Closed
+543,1467,2464,Perez and Sons Branch,Education,1627063,13.33,36,2016-07-13,2019-06-28,Closed
+544,1191,2105,Walker-Murray Branch,Home,4177161,8.0,12,2016-09-15,2017-09-10,Approved
+545,1093,2155,Baldwin and Sons Branch,Home,2308172,7.5,240,2023-02-26,2042-11-13,Approved
+546,1475,2033,"Stewart, Wilson and Dalton Branch",Personal,4190445,8.24,180,2018-06-30,2033-04-12,Defaulted
+547,1074,2557,"Morrison, Morrison and Camacho Branch",Home,722960,13.25,36,2015-08-18,2018-08-02,Closed
+548,1255,2395,"Sanchez, Brennan and Ortega Branch",Education,1573402,8.04,84,2019-04-12,2026-03-06,Approved
+549,1534,2214,"Potts, Gutierrez and Hancock Branch",Education,2123346,12.4,12,2017-03-26,2018-03-21,Defaulted
+550,1563,2534,"Cunningham, Lee and Fleming Branch",Education,3314199,11.95,84,2018-08-16,2025-07-10,Active
+551,1224,2116,Richardson-Morales Branch,Personal,2174941,10.35,84,2017-03-24,2024-02-16,Closed
+552,1406,2249,"Ross, Hayes and Erickson Branch",Auto,3692011,9.1,36,2023-11-28,2026-11-12,Closed
+553,1092,2255,"Stewart, Wilson and Dalton Branch",Personal,402265,11.15,240,2022-09-20,2042-06-07,Active

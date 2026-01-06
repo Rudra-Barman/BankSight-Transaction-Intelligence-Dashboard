@@ -1,0 +1,557 @@
+Ticket_ID,Customer_ID,Account_ID,Loan_ID,Branch_Name,Issue_Category,Description,Date_Opened,Date_Closed,Priority,Status,Resolution_Remarks,Support_Agent,Channel,Customer_Rating,Resolution_Days
+T00001,C0478,A1825,,Gonzalez-Martin Branch,Loan Payment Delay,Client raised loan payment delay.,2017-09-30,2017-10-24,Low,Closed,Card replaced and activated.,Leena Apte,Email,1,24
+T00002,C0443,A3583,,Baldwin and Sons Branch,Loan Foreclosure,Client raised loan foreclosure.,2015-04-19,2015-05-12,Critical,In Progress,Card replaced and activated.,Owen Mahajan,In-person,1,23
+T00003,C0057,A2616,442,"Porter, Osborne and Mendez Branch",Interest Rate Dispute,Customer reported interest rate dispute.,2016-09-28,2016-10-23,High,Resolved,Loan schedule updated.,Wishi Chhabra,Email,4,25
+T00004,C0301,A8786,,"Stafford, Oneal and Williams Branch",Mismatch in Account Statement,Client raised mismatch in account statement.,2019-03-31,2019-04-10,High,Closed,Pending customer verification.,Gabriel Mutti,Email,1,10
+T00006,C0223,A4375,,Duncan Group Branch,Unauthorized Transaction,System detected unauthorized transaction.,2016-12-01,2016-12-09,Critical,Resolved,KYC documents verified.,Gabriel Mutti,Phone,3,8
+T00007,C0191,A0917,,Thompson-Holmes Branch,Account Access Issue,Client raised account access issue.,2018-07-16,2018-07-19,High,In Progress,KYC documents verified.,Veda Samra,Mobile App,4,3
+T00008,C0185,A2341,58,Alvarez-Hampton Branch,Interest Rate Dispute,System detected interest rate dispute.,2023-05-10,2023-05-19,Medium,In Progress,Loan schedule updated.,Veda Samra,Email,1,9
+T00009,C0397,A1797,,Black Group Branch,Loan Payment Delay,System detected loan payment delay.,2023-11-19,2023-12-09,Critical,Closed,Card replaced and activated.,Udyati Mody,In-person,5,20
+T00010,C0185,A0189,,"Schroeder, Lane and Arnold Branch",Loan Foreclosure,System detected loan foreclosure.,2021-01-08,2021-02-02,Low,Resolved,Card replaced and activated.,Chanakya Natt,Mobile App,1,25
+T00012,C0392,A2647,,"Wang, Mcdonald and Church Branch",Interest Rate Dispute,System detected interest rate dispute.,2020-06-24,2020-07-24,Medium,Open,Pending customer verification.,Triya Mukhopadhyay,Email,1,30
+T00013,C0158,A7963,,Fleming-Washington Branch,Loan Foreclosure,System detected loan foreclosure.,2020-12-21,2020-12-26,Medium,Resolved,Loan schedule updated.,Wriddhish Mangal,Mobile App,2,5
+T00015,C0011,A1050,296,Nguyen LLC Branch,Loan Payment Delay,Customer reported loan payment delay.,2021-03-18,2021-03-26,Low,Open,Refund processed.,Niharika Aggarwal,Email,5,8
+T00016,C0148,A3900,,Moore-Schaefer Branch,Account Closure Request,Client raised account closure request.,2017-05-27,2017-06-20,Critical,In Progress,Refund processed.,Veda Samra,Mobile App,2,24
+T00017,C0346,A1546,,Reyes-Kelley Branch,Mismatch in Account Statement,Client raised mismatch in account statement.,2018-12-22,2019-01-06,Low,Open,Issue resolved successfully.,Upkaar Bava,In-person,1,15
+T00018,C0460,A4074,528,"Jackson, Sanders and Webb Branch",Loan Payment Delay,System detected loan payment delay.,2020-01-12,2020-01-18,Low,Open,KYC documents verified.,Falguni Bhandari,Email,1,6
+T00019,C0431,A3873,,Huynh-Jones Branch,Account Closure Request,Customer reported account closure request.,2020-05-25,2020-06-07,Medium,Escalated,Issue resolved successfully.,Upkaar Bava,In-person,4,13
+T00020,C0239,A4674,,Smith Group Branch,Online Transfer Failed,Client raised online transfer failed.,2023-03-12,,Critical,In Progress,Pending customer verification.,Rehaan Balakrishnan,Phone,1,
+T00021,C0046,A9490,,"Ramirez, Ray and Harvey Branch",Online Transfer Failed,Client raised online transfer failed.,2015-08-23,2015-09-08,Medium,Open,Loan schedule updated.,Chaitaly Vaidya,Phone,1,16
+T00022,C0297,A9750,,Lewis-Travis Branch,Debit Card Delivery Delay,Customer reported debit card delivery delay.,2017-08-21,2017-09-19,Low,Closed,Issue resolved successfully.,Lavanya Hans,In-person,3,29
+T00023,C0103,A3347,364,Ramsey-Carr Branch,Loan Payment Delay,Customer reported loan payment delay.,2019-06-10,2019-07-01,Critical,Closed,Loan schedule updated.,Ekanta Devan,Email,5,21
+T00025,C0286,A4906,,Mcclain Inc Branch,Loan Payment Delay,Client raised loan payment delay.,2016-07-04,2016-08-02,Medium,Resolved,Escalated to technical team.,Vansha Sood,Phone,3,29
+T00026,C0190,A3336,,"Adams, Mitchell and Schneider Branch",Mismatch in Account Statement,Customer reported mismatch in account statement.,2017-10-25,,Low,Escalated,Refund processed.,Wishi Chhabra,Email,1,
+T00027,C0142,A5465,,Jones-Baker Branch,Online Transfer Failed,Client raised online transfer failed.,2017-12-08,2017-12-23,Critical,Closed,Issue resolved successfully.,Ekanta Devan,Email,2,15
+T00028,C0164,A8939,,"Pratt, Perkins and Garcia Branch",Unauthorized Transaction,Customer reported unauthorized transaction.,2021-07-13,2021-07-27,High,Resolved,Refund processed.,Wriddhish Mangal,Email,3,14
+T00029,C0349,A3442,,Moore-Hodges Branch,Mismatch in Account Statement,System detected mismatch in account statement.,2018-12-19,2019-01-17,Medium,In Progress,Refund processed.,Chanakya Natt,Phone,4,29
+T00030,C0243,A0407,,Stone-Miller Branch,UPI Payment Failed,Client raised upi payment failed.,2018-09-22,2018-10-06,Medium,Resolved,Pending customer verification.,Aarnav Sangha,Email,4,14
+T00031,C0418,A0635,297,Robinson-Stokes Branch,UPI Payment Failed,Customer reported upi payment failed.,2020-02-29,2020-03-27,Low,In Progress,Card replaced and activated.,Niharika Aggarwal,In-person,1,27
+T00032,C0101,A4574,,"Taylor, Mckay and Orozco Branch",Online Transfer Failed,System detected online transfer failed.,2019-06-26,2019-07-23,Low,Open,Escalated to technical team.,Chanakya Natt,In-person,1,27
+T00033,C0230,A1777,549,Rodriguez LLC Branch,EMI Auto-debit Failed,System detected emi auto-debit failed.,2023-10-27,2023-11-16,Low,Escalated,Issue resolved successfully.,Udyati Mody,Phone,3,20
+T00034,C0143,A7067,,Smith PLC Branch,Mismatch in Account Statement,Customer reported mismatch in account statement.,2018-09-14,2018-10-06,High,Closed,Escalated to technical team.,Gaurika Pillay,Mobile App,3,22
+T00035,C0153,A6593,,Bright Inc Branch,Loan Foreclosure,Client raised loan foreclosure.,2017-02-24,2017-03-09,Medium,Closed,Loan schedule updated.,Rehaan Balakrishnan,Mobile App,5,13
+T00036,C0174,A0007,234,Rogers Group Branch,Loan Foreclosure,System detected loan foreclosure.,2019-10-27,2019-11-16,Critical,Escalated,Card replaced and activated.,Gaurika Pillay,Phone,5,20
+T00037,C0420,A7753,,"Mack, Mcmillan and Campbell Branch",Debit Card Delivery Delay,System detected debit card delivery delay.,2018-03-08,2018-03-29,Low,In Progress,KYC documents verified.,Rehaan Balakrishnan,Phone,2,21
+T00038,C0451,A2415,234,Gonzalez-Martin Branch,Loan Payment Delay,System detected loan payment delay.,2020-04-30,2020-05-25,Critical,Closed,Pending customer verification.,Gabriel Mutti,Mobile App,4,25
+T00039,C0045,A6548,339,Woodward LLC Branch,Mismatch in Account Statement,Customer reported mismatch in account statement.,2022-09-17,2022-10-12,Critical,In Progress,Pending customer verification.,Aarnav Sangha,Mobile App,1,25
+T00040,C0177,A9133,,Moore-Hodges Branch,Account Frozen,Client raised account frozen.,2016-05-12,2016-06-07,High,Escalated,Loan schedule updated.,Advik Bhagat,Mobile App,5,26
+T00041,C0140,A7306,,"Woods, Patterson and Owens Branch",Account Access Issue,Client raised account access issue.,2020-04-28,2020-05-23,High,Closed,Card replaced and activated.,Wriddhish Sarraf,Phone,3,25
+T00042,C0163,A7207,,Fisher Ltd Branch,Account Closure Request,Client raised account closure request.,2017-08-18,2017-08-29,Low,In Progress,Pending customer verification.,Harish Anne,Mobile App,2,11
+T00043,C0077,A3506,,Stewart-Jones Branch,Card Not Working,Customer reported card not working.,2018-09-17,2018-10-01,Critical,Escalated,Refund processed.,Owen Mahajan,Email,5,14
+T00044,C0392,A6233,118,Johnson-Hunter Branch,Mismatch in Account Statement,System detected mismatch in account statement.,2018-12-11,2018-12-24,Medium,Escalated,Pending customer verification.,Wishi Chhabra,Mobile App,4,13
+T00045,C0449,A0476,231,Smith Ltd Branch,Unauthorized Transaction,Customer reported unauthorized transaction.,2022-08-13,2022-09-06,Low,Escalated,Loan schedule updated.,Owen Mahajan,Email,1,24
+T00046,C0221,A7023,,Wolf-Rollins Branch,Interest Rate Dispute,Customer reported interest rate dispute.,2017-01-14,2017-01-27,Critical,Resolved,Escalated to technical team.,Kashvi Doctor,Mobile App,3,13
+T00047,C0276,A6907,,Williamson-Hubbard Branch,Card Not Working,System detected card not working.,2020-04-10,2020-04-28,Medium,Open,Refund processed.,Wriddhish Sarraf,Email,1,18
+T00048,C0443,A4052,,"Peters, Mercer and Floyd Branch",Account Frozen,Client raised account frozen.,2021-12-19,2021-12-24,Low,Closed,Pending customer verification.,Bhavya Dutta,In-person,3,5
+T00050,C0325,A3250,,"Hernandez, Stewart and Lee Branch",UPI Payment Failed,System detected upi payment failed.,2022-01-13,2022-02-05,Low,Closed,Refund processed.,Leena Apte,In-person,5,23
+T00051,C0138,A7019,392,Sullivan and Sons Branch,KYC Update Required,Customer reported kyc update required.,2022-04-06,2022-05-04,Critical,Resolved,KYC documents verified.,Triya Mukhopadhyay,Mobile App,2,28
+T00052,C0437,A7136,,"Wilkinson, Norris and Johnson Branch",Account Closure Request,Client raised account closure request.,2022-04-18,2022-05-14,Critical,Escalated,Card replaced and activated.,Advik Bhagat,In-person,3,26
+T00053,C0304,A4023,393,Johnson and Sons Branch,Debit Card Delivery Delay,System detected debit card delivery delay.,2020-01-21,2020-02-05,High,Open,Card replaced and activated.,Wriddhish Mangal,In-person,2,15
+T00054,C0220,A7989,199,"Lee, Escobar and Torres Branch",Debit Card Delivery Delay,System detected debit card delivery delay.,2017-11-24,2017-12-23,Low,Closed,Pending customer verification.,Chaitaly Vaidya,Phone,4,29
+T00055,C0167,A8005,,Evans Ltd Branch,UPI Payment Failed,Customer reported upi payment failed.,2022-03-30,2022-04-14,Low,Resolved,Pending customer verification.,Upkaar Bava,Phone,3,15
+T00056,C0085,A9529,,Richardson-Griffith Branch,Online Transfer Failed,System detected online transfer failed.,2020-12-14,2021-01-07,High,Escalated,Escalated to technical team.,Rehaan Balakrishnan,In-person,2,24
+T00057,C0228,A1977,424,"Marquez, Reese and Dawson Branch",EMI Auto-debit Failed,Client raised emi auto-debit failed.,2023-05-01,2023-05-26,Critical,Resolved,KYC documents verified.,Owen Mahajan,In-person,1,25
+T00058,C0425,A3181,256,"Johnson, Arias and Kramer Branch",Loan Payment Delay,Customer reported loan payment delay.,2017-01-04,2017-01-27,High,In Progress,KYC documents verified.,Wriddhish Mangal,Mobile App,1,23
+T00059,C0105,A0201,,Gutierrez PLC Branch,Cheque Bounce,System detected cheque bounce.,2019-12-10,2019-12-12,Low,Open,Card replaced and activated.,Veda Samra,Email,5,2
+T00062,C0106,A4336,423,Johnson Group Branch,Interest Rate Dispute,System detected interest rate dispute.,2016-12-12,2016-12-18,Low,In Progress,Escalated to technical team.,Gabriel Mutti,In-person,4,6
+T00063,C0050,A1167,,Velez LLC Branch,Loan Foreclosure,Customer reported loan foreclosure.,2023-11-01,2023-11-20,Critical,Open,Loan schedule updated.,Harish Anne,Phone,3,19
+T00064,C0370,A2331,43,Duncan Group Branch,Loan Foreclosure,System detected loan foreclosure.,2023-11-21,2023-12-15,Low,Escalated,KYC documents verified.,Rehaan Balakrishnan,Mobile App,3,24
+T00065,C0343,A8200,,Nelson Ltd Branch,EMI Auto-debit Failed,System detected emi auto-debit failed.,2021-09-15,2021-09-29,High,Open,Issue resolved successfully.,Harish Anne,Email,3,14
+T00066,C0002,A9442,,Garcia Group Branch,Account Frozen,System detected account frozen.,2016-12-18,2017-01-08,Medium,Closed,Card replaced and activated.,Wriddhish Sarraf,Mobile App,1,21
+T00067,C0034,A7701,,Chang-Lucas Branch,Unauthorized Transaction,System detected unauthorized transaction.,2018-08-08,2018-09-05,Critical,Escalated,Escalated to technical team.,Gaurika Pillay,Mobile App,5,28
+T00068,C0406,A0602,343,Clark Inc Branch,KYC Update Required,Customer reported kyc update required.,2017-10-30,2017-11-24,Critical,Escalated,Issue resolved successfully.,Kalpit Ahuja,In-person,5,25
+T00069,C0182,A8168,,Aguirre Group Branch,Account Closure Request,System detected account closure request.,2017-04-13,2017-04-18,Critical,Escalated,Issue resolved successfully.,Ria Ghose,Phone,2,5
+T00070,C0343,A5092,,"Allen, Church and Cook Branch",Account Closure Request,Customer reported account closure request.,2016-01-17,2016-02-13,Critical,Open,KYC documents verified.,Advik Bhagat,Phone,4,27
+T00071,C0232,A4782,,"Malone, Stewart and Stephens Branch",Account Access Issue,System detected account access issue.,2020-05-30,,Medium,Escalated,Pending customer verification.,Ikbal Sidhu,Phone,1,
+T00072,C0300,A4527,429,Vega-Valentine Branch,Loan Foreclosure,Client raised loan foreclosure.,2023-11-01,2023-11-28,Critical,In Progress,Card replaced and activated.,Falguni Bhandari,Mobile App,3,27
+T00073,C0159,A5447,,Massey-Reed Branch,EMI Auto-debit Failed,Customer reported emi auto-debit failed.,2018-08-11,,Critical,In Progress,Refund processed.,Kashvi Doctor,Mobile App,1,
+T00074,C0434,A5214,,Mullen-Obrien Branch,UPI Payment Failed,Client raised upi payment failed.,2019-04-11,2019-05-03,Medium,Escalated,Issue resolved successfully.,Ranveer Roy,In-person,1,22
+T00075,C0173,A7214,,Warner-Shelton Branch,KYC Update Required,Client raised kyc update required.,2020-02-15,2020-02-20,Medium,Open,Card replaced and activated.,Aarnav Sangha,In-person,3,5
+T00077,C0190,A4709,,Mcbride and Sons Branch,UPI Payment Failed,Client raised upi payment failed.,2019-11-13,,Low,Escalated,Pending customer verification.,Gabriel Mutti,In-person,1,
+T00078,C0249,A0754,,"Solis, Simpson and Martin Branch",Unauthorized Transaction,Customer reported unauthorized transaction.,2018-04-16,2018-04-30,Critical,Closed,KYC documents verified.,Aarnav Sangha,Phone,2,14
+T00079,C0129,A2869,,"Nguyen, Skinner and Le Branch",Account Frozen,Client raised account frozen.,2019-04-16,2019-04-24,Medium,In Progress,Card replaced and activated.,Wriddhish Sarraf,In-person,4,8
+T00080,C0427,A4184,,"Williams, Johnson and Williams Branch",Loan Foreclosure,Client raised loan foreclosure.,2020-03-20,,Medium,Open,Card replaced and activated.,Ekani Oza,In-person,4,
+T00081,C0408,A4098,,"Austin, Rogers and Ayala Branch",Mismatch in Account Statement,System detected mismatch in account statement.,2017-03-26,,Low,In Progress,Card replaced and activated.,Owen Mahajan,In-person,5,
+T00082,C0107,A4848,98,Bright Inc Branch,Debit Card Delivery Delay,Client raised debit card delivery delay.,2022-05-20,2022-05-21,Low,Closed,KYC documents verified.,Veda Samra,In-person,2,1
+T00083,C0332,A9947,541,Douglas and Sons Branch,UPI Payment Failed,Client raised upi payment failed.,2017-02-17,2017-03-11,Medium,Open,KYC documents verified.,Wriddhish Sarraf,Email,3,22
+T00084,C0427,A7223,,"Taylor, Hopkins and Morales Branch",Cheque Bounce,System detected cheque bounce.,2023-03-19,2023-04-18,Critical,In Progress,Pending customer verification.,Ranveer Roy,In-person,5,30
+T00085,C0031,A8222,,"Malone, Stewart and Stephens Branch",Account Frozen,System detected account frozen.,2017-11-18,,High,Open,Card replaced and activated.,Chaitaly Vaidya,Phone,2,
+T00086,C0380,A6512,404,Hanson-Carter Branch,Loan Payment Delay,System detected loan payment delay.,2019-06-05,2019-06-23,High,Resolved,Loan schedule updated.,Upkaar Bava,In-person,1,18
+T00087,C0260,A3831,61,"Burns, Patterson and White Branch",Account Access Issue,Client raised account access issue.,2021-04-18,2021-05-08,Critical,Resolved,KYC documents verified.,Lavanya Hans,Email,2,20
+T00088,C0216,A0743,544,Thomas LLC Branch,Interest Rate Dispute,System detected interest rate dispute.,2020-07-10,2020-07-18,High,Closed,Card replaced and activated.,Owen Mahajan,Phone,4,8
+T00089,C0358,A1623,,Peters PLC Branch,Account Access Issue,System detected account access issue.,2018-02-19,2018-03-03,Critical,In Progress,Refund processed.,Ekani Oza,Email,3,12
+T00090,C0147,A8921,208,"Holmes, Harrell and Woods Branch",Mismatch in Account Statement,Customer reported mismatch in account statement.,2018-02-04,2018-02-08,Medium,Closed,Issue resolved successfully.,Leena Apte,In-person,2,4
+T00091,C0039,A2064,436,Bell PLC Branch,Account Access Issue,Customer reported account access issue.,2023-08-01,2023-08-20,High,In Progress,Refund processed.,Triya Mukhopadhyay,Email,3,19
+T00092,C0165,A2371,,Jones-Baker Branch,Mismatch in Account Statement,Customer reported mismatch in account statement.,2023-12-15,2024-01-06,Medium,Open,Escalated to technical team.,Aarnav Sangha,Phone,5,22
+T00093,C0292,A5305,513,Wolf-Harmon Branch,Loan Payment Delay,System detected loan payment delay.,2015-08-03,2015-08-17,Critical,Resolved,Loan schedule updated.,Owen Mahajan,Email,4,14
+T00094,C0219,A8255,,"Miller, Baker and Owen Branch",Mismatch in Account Statement,Client raised mismatch in account statement.,2015-06-27,2015-07-27,High,Escalated,KYC documents verified.,Ria Ghose,Email,4,30
+T00095,C0030,A6581,,Daniel-Dunn Branch,Loan Payment Delay,Customer reported loan payment delay.,2020-07-01,2020-07-16,High,Closed,Pending customer verification.,Chaitaly Vaidya,Phone,3,15
+T00096,C0458,A9591,102,"Solis, Simpson and Martin Branch",Online Transfer Failed,Customer reported online transfer failed.,2021-09-12,2021-09-27,Low,Closed,KYC documents verified.,Wriddhish Mangal,Phone,4,15
+T00097,C0333,A7399,,"Miles, Patterson and Murray Branch",Loan Payment Delay,System detected loan payment delay.,2020-02-01,2020-02-25,Critical,Resolved,KYC documents verified.,Wishi Chhabra,In-person,2,24
+T00098,C0152,A7771,512,"Horne, Gomez and Zavala Branch",EMI Auto-debit Failed,Customer reported emi auto-debit failed.,2015-12-16,2015-12-20,Low,Closed,Loan schedule updated.,Falguni Bhandari,In-person,1,4
+T00099,C0246,A6731,,Tapia-Flynn Branch,EMI Auto-debit Failed,Customer reported emi auto-debit failed.,2023-06-01,2023-07-01,High,Closed,Escalated to technical team.,Ekani Oza,Email,5,30
+T00100,C0051,A8314,407,"Lee, Escobar and Torres Branch",Interest Rate Dispute,System detected interest rate dispute.,2020-05-29,2020-06-02,Low,Resolved,Loan schedule updated.,Harish Anne,Mobile App,5,4
+T00102,C0408,A5752,431,"Taylor, David and Brown Branch",Loan Payment Delay,Customer reported loan payment delay.,2016-08-09,2016-08-22,Low,Open,KYC documents verified.,Udyati Mody,Phone,4,13
+T00103,C0341,A6879,101,Hartman and Sons Branch,UPI Payment Failed,Client raised upi payment failed.,2019-02-24,2019-03-07,Low,Open,Pending customer verification.,Chanakya Natt,Email,1,11
+T00104,C0491,A4459,,Roberts PLC Branch,Cheque Bounce,Customer reported cheque bounce.,2020-06-12,2020-06-26,Low,Resolved,Card replaced and activated.,Ekanta Devan,In-person,5,14
+T00106,C0055,A8150,461,"Jenkins, Chambers and Williams Branch",Loan Foreclosure,Customer reported loan foreclosure.,2019-04-07,2019-04-15,Critical,Open,Card replaced and activated.,Ria Ghose,Mobile App,1,8
+T00107,C0131,A5130,,Mckee-Moore Branch,Loan Payment Delay,System detected loan payment delay.,2022-12-16,2022-12-26,Low,Resolved,Pending customer verification.,Aarnav Sangha,Mobile App,3,10
+T00108,C0300,A1444,,Stevens PLC Branch,Online Transfer Failed,Customer reported online transfer failed.,2017-09-23,2017-10-06,Critical,Resolved,KYC documents verified.,Niharika Aggarwal,Phone,3,13
+T00109,C0100,A2755,,Gutierrez-Nolan Branch,Account Closure Request,System detected account closure request.,2016-04-12,2016-04-19,High,In Progress,Pending customer verification.,Ekanta Devan,Phone,3,7
+T00110,C0195,A3233,,Ramirez-Brown Branch,Unauthorized Transaction,Client raised unauthorized transaction.,2023-07-11,2023-07-14,Critical,Escalated,Refund processed.,Owen Mahajan,Mobile App,5,3
+T00111,C0431,A5296,180,"Edwards, Dunlap and Fernandez Branch",Cheque Bounce,Client raised cheque bounce.,2015-10-07,2015-10-28,Low,Resolved,Loan schedule updated.,Chaitaly Vaidya,In-person,4,21
+T00112,C0058,A7405,289,Thomas LLC Branch,Interest Rate Dispute,System detected interest rate dispute.,2018-03-21,2018-04-18,Low,Escalated,Refund processed.,Owen Mahajan,Phone,3,28
+T00113,C0193,A9913,,Simmons and Sons Branch,Account Closure Request,System detected account closure request.,2015-09-11,2015-10-07,Low,Closed,KYC documents verified.,Chanakya Natt,Email,2,26
+T00114,C0018,A7173,,Sanchez-Montes Branch,Account Closure Request,System detected account closure request.,2021-11-02,2021-11-14,Critical,Escalated,Refund processed.,Niharika Aggarwal,Email,3,12
+T00115,C0411,A1080,90,Orozco PLC Branch,EMI Auto-debit Failed,Client raised emi auto-debit failed.,2022-08-10,2022-08-19,Medium,Resolved,Issue resolved successfully.,Owen Mahajan,Phone,3,9
+T00116,C0195,A5083,553,"Morrison, Morrison and Camacho Branch",Loan Foreclosure,Customer reported loan foreclosure.,2022-12-13,,Low,Escalated,Loan schedule updated.,Ekani Oza,Email,3,
+T00117,C0070,A5061,,Harris Ltd Branch,Account Frozen,Customer reported account frozen.,2018-10-31,,Medium,In Progress,Pending customer verification.,Chaitaly Vaidya,In-person,1,
+T00118,C0450,A8318,,Thomas LLC Branch,KYC Update Required,Customer reported kyc update required.,2023-08-05,2023-08-25,Medium,In Progress,Refund processed.,Gabriel Mutti,Phone,4,20
+T00119,C0343,A0716,119,"Long, Chavez and Whitehead Branch",Interest Rate Dispute,Customer reported interest rate dispute.,2023-01-26,2023-02-10,Medium,Resolved,Refund processed.,Aarnav Sangha,Mobile App,2,15
+T00120,C0222,A6027,,Knight Ltd Branch,Online Transfer Failed,System detected online transfer failed.,2018-02-28,2018-03-17,Medium,In Progress,Refund processed.,Vansha Sood,Phone,3,17
+T00122,C0475,A7362,,Navarro-Moore Branch,Account Access Issue,System detected account access issue.,2016-01-11,,High,Open,Card replaced and activated.,Leena Apte,Mobile App,5,
+T00123,C0330,A6127,163,Smith Inc Branch,Interest Rate Dispute,Client raised interest rate dispute.,2015-12-01,2015-12-02,High,In Progress,Pending customer verification.,Leena Apte,In-person,4,1
+T00124,C0332,A2274,,"Smith, Mcdonald and Johnson Branch",Card Not Working,System detected card not working.,2015-01-22,,Medium,In Progress,Loan schedule updated.,Ekapad Jhaveri,Mobile App,1,
+T00125,C0252,A4721,309,Richardson and Sons Branch,UPI Payment Failed,Customer reported upi payment failed.,2015-07-15,2015-08-05,Low,Escalated,Loan schedule updated.,Falguni Bhandari,Email,5,21
+T00126,C0131,A9422,,"Solomon, Williams and White Branch",Interest Rate Dispute,Customer reported interest rate dispute.,2018-04-08,2018-04-28,Critical,In Progress,KYC documents verified.,Gaurika Pillay,Email,5,20
+T00127,C0035,A5909,,Lewis-Travis Branch,Online Transfer Failed,Customer reported online transfer failed.,2021-02-06,2021-02-23,Critical,Escalated,Issue resolved successfully.,Wriddhish Sarraf,Mobile App,3,17
+T00128,C0122,A4156,83,Wolf-Harmon Branch,Loan Foreclosure,Client raised loan foreclosure.,2015-10-04,2015-10-28,Low,Closed,KYC documents verified.,Kashvi Doctor,In-person,2,24
+T00129,C0189,A0727,,Douglas and Sons Branch,Loan Foreclosure,System detected loan foreclosure.,2022-03-17,2022-04-11,Critical,In Progress,Refund processed.,Ranveer Roy,Email,4,25
+T00130,C0282,A0606,393,Jackson-Smith Branch,Interest Rate Dispute,Client raised interest rate dispute.,2023-11-15,2023-11-17,Critical,Closed,Card replaced and activated.,Wishi Chhabra,Email,2,2
+T00132,C0481,A6335,,Shepard Ltd Branch,Account Closure Request,Client raised account closure request.,2020-07-25,2020-08-06,High,Open,KYC documents verified.,Lavanya Hans,Email,4,12
+T00133,C0466,A9871,,Harris Ltd Branch,Loan Foreclosure,System detected loan foreclosure.,2018-08-08,2018-08-19,High,Escalated,Loan schedule updated.,Gabriel Mutti,Mobile App,2,11
+T00135,C0295,A6656,,"Humphrey, Mitchell and Buck Branch",Unauthorized Transaction,Client raised unauthorized transaction.,2023-05-30,2023-05-31,Critical,Open,Pending customer verification.,Chaitaly Vaidya,Phone,3,1
+T00136,C0172,A5934,,Russell LLC Branch,Account Frozen,System detected account frozen.,2015-05-13,2015-06-04,High,Escalated,Refund processed.,Chaitaly Vaidya,Phone,5,22
+T00137,C0285,A6013,182,"Owens, Hanson and Vincent Branch",Card Not Working,System detected card not working.,2018-02-15,2018-02-19,Critical,Closed,Issue resolved successfully.,Wishi Chhabra,In-person,4,4
+T00138,C0494,A3516,,Hess-Miller Branch,Mismatch in Account Statement,Customer reported mismatch in account statement.,2020-07-04,2020-07-09,Critical,In Progress,KYC documents verified.,Bhavya Dutta,Email,3,5
+T00140,C0219,A2276,,Murray LLC Branch,Interest Rate Dispute,System detected interest rate dispute.,2015-04-18,2015-05-07,Medium,Closed,Issue resolved successfully.,Chaitaly Vaidya,In-person,4,19
+T00141,C0278,A7843,,"Long, Chavez and Whitehead Branch",Loan Foreclosure,Customer reported loan foreclosure.,2021-06-12,2021-06-23,Critical,Escalated,KYC documents verified.,Udyati Mody,In-person,2,11
+T00142,C0437,A9033,,Morgan Inc Branch,Mismatch in Account Statement,Customer reported mismatch in account statement.,2016-06-12,2016-07-12,Low,Closed,Pending customer verification.,Rehaan Balakrishnan,Phone,2,30
+T00143,C0283,A5287,354,Patterson LLC Branch,EMI Auto-debit Failed,Client raised emi auto-debit failed.,2020-10-26,,High,In Progress,KYC documents verified.,Rehaan Balakrishnan,Email,5,
+T00144,C0059,A2763,225,Berry-Cabrera Branch,Interest Rate Dispute,Client raised interest rate dispute.,2022-01-01,2022-01-21,Low,Open,Issue resolved successfully.,Leena Apte,In-person,2,20
+T00145,C0175,A9374,,Merritt PLC Branch,Online Transfer Failed,System detected online transfer failed.,2015-05-05,2015-05-26,High,Escalated,Pending customer verification.,Aarnav Sangha,Mobile App,3,21
+T00146,C0187,A7431,,Hopkins-Johnston Branch,Account Frozen,Customer reported account frozen.,2016-10-09,2016-10-25,High,Closed,Pending customer verification.,Niharika Aggarwal,In-person,3,16
+T00147,C0008,A6533,,Jones-Baker Branch,Account Access Issue,System detected account access issue.,2020-10-10,2020-10-21,Low,Resolved,Card replaced and activated.,Harish Anne,Phone,1,11
+T00148,C0231,A0830,,"Lane, Barton and Henson Branch",Account Closure Request,Customer reported account closure request.,2021-11-25,2021-12-23,High,Closed,KYC documents verified.,Niharika Aggarwal,Phone,2,28
+T00149,C0221,A8164,,"Ortega, Swanson and Clark Branch",KYC Update Required,Client raised kyc update required.,2018-06-17,2018-06-20,Critical,In Progress,Pending customer verification.,Owen Mahajan,In-person,1,3
+T00150,C0378,A0829,,Lin Inc Branch,Online Transfer Failed,Customer reported online transfer failed.,2022-05-03,2022-05-13,Low,Escalated,Pending customer verification.,Triya Mukhopadhyay,In-person,3,10
+T00151,C0401,A6607,387,Hanson-Carter Branch,Loan Payment Delay,System detected loan payment delay.,2015-07-29,2015-08-05,Critical,Closed,Escalated to technical team.,Advik Bhagat,Email,2,7
+T00152,C0159,A1585,452,Adams LLC Branch,Interest Rate Dispute,Client raised interest rate dispute.,2018-10-20,2018-11-01,Low,Open,Issue resolved successfully.,Ranveer Roy,In-person,4,12
+T00153,C0126,A8509,545,"Austin, Rogers and Ayala Branch",Interest Rate Dispute,Client raised interest rate dispute.,2020-10-12,2020-11-11,High,Closed,Escalated to technical team.,Udyati Mody,Mobile App,5,30
+T00154,C0308,A4912,,Ortiz LLC Branch,KYC Update Required,Client raised kyc update required.,2019-02-17,2019-02-21,High,Open,Loan schedule updated.,Veda Samra,In-person,5,4
+T00155,C0058,A9464,,"Miles, Patterson and Murray Branch",Loan Foreclosure,Client raised loan foreclosure.,2021-07-18,2021-08-04,Critical,In Progress,Refund processed.,Gaurika Pillay,Phone,1,17
+T00156,C0455,A9381,297,Torres-Green Branch,KYC Update Required,System detected kyc update required.,2019-12-12,2019-12-17,Critical,Open,KYC documents verified.,Ranveer Roy,Phone,5,5
+T00158,C0378,A7933,,"Jackson, Sanders and Webb Branch",Cheque Bounce,System detected cheque bounce.,2018-02-16,2018-02-24,Medium,Escalated,Escalated to technical team.,Veda Samra,In-person,5,8
+T00159,C0054,A4481,319,Lewis Ltd Branch,KYC Update Required,Customer reported kyc update required.,2022-08-03,2022-09-01,High,Open,Escalated to technical team.,Gabriel Mutti,Email,3,29
+T00160,C0166,A7248,,"Allen, Martin and Mosley Branch",Cheque Bounce,Client raised cheque bounce.,2017-05-26,2017-06-13,High,In Progress,Issue resolved successfully.,Vansha Sood,Phone,2,18
+T00161,C0160,A0832,,Brown-Roberts Branch,EMI Auto-debit Failed,System detected emi auto-debit failed.,2015-08-04,2015-08-15,Low,In Progress,Issue resolved successfully.,Falguni Bhandari,Phone,4,11
+T00162,C0099,A7794,,Johnson-Hunter Branch,Interest Rate Dispute,System detected interest rate dispute.,2023-06-24,,Low,Open,KYC documents verified.,Owen Mahajan,Phone,5,
+T00163,C0488,A0612,,"Sullivan, Bradford and Becker Branch",Card Not Working,System detected card not working.,2016-12-21,,Critical,In Progress,KYC documents verified.,Wriddhish Mangal,In-person,1,
+T00165,C0124,A7669,43,"Malone, Stewart and Stephens Branch",Account Frozen,Client raised account frozen.,2016-04-06,2016-04-30,Medium,Open,KYC documents verified.,Niharika Aggarwal,In-person,5,24
+T00166,C0437,A3165,,"Sullivan, Bradford and Becker Branch",Mismatch in Account Statement,System detected mismatch in account statement.,2022-03-01,,High,Open,Card replaced and activated.,Gaurika Pillay,Email,2,
+T00167,C0005,A2304,280,Johnson-Hunter Branch,Loan Foreclosure,System detected loan foreclosure.,2017-10-13,2017-10-26,High,Closed,KYC documents verified.,Owen Mahajan,Email,3,13
+T00168,C0340,A5891,221,Smith Inc Branch,KYC Update Required,Client raised kyc update required.,2016-04-29,2016-05-05,High,Open,KYC documents verified.,Ikbal Sidhu,In-person,3,6
+T00169,C0342,A3619,,"Shepard, Gonzales and Cooper Branch",Debit Card Delivery Delay,System detected debit card delivery delay.,2020-05-12,2020-06-05,Critical,Closed,Card replaced and activated.,Kashvi Doctor,Phone,2,24
+T00170,C0010,A9762,,Johnson Group Branch,Account Closure Request,Client raised account closure request.,2020-12-03,2020-12-06,Low,Open,Refund processed.,Falguni Bhandari,Phone,5,3
+T00171,C0158,A8793,412,"Gillespie, Powers and Smith Branch",Account Access Issue,System detected account access issue.,2020-11-01,2020-11-23,Low,Closed,Card replaced and activated.,Aarnav Sangha,Email,4,22
+T00172,C0135,A2162,,"Miller, Hill and Leonard Branch",UPI Payment Failed,System detected upi payment failed.,2015-08-25,2015-09-16,Low,Escalated,Escalated to technical team.,Advik Bhagat,Email,2,22
+T00173,C0066,A9476,345,Hopkins-Johnston Branch,Card Not Working,Customer reported card not working.,2018-11-12,2018-11-30,Critical,Open,Escalated to technical team.,Lavanya Hans,Phone,2,18
+T00174,C0374,A6888,,"Jones, Page and Kennedy Branch",Account Closure Request,System detected account closure request.,2019-04-16,2019-05-16,Critical,Open,KYC documents verified.,Gaurika Pillay,Phone,3,30
+T00175,C0270,A1944,,Morris-Prince Branch,Account Access Issue,Customer reported account access issue.,2019-05-29,2019-06-22,Low,Resolved,Card replaced and activated.,Gaurika Pillay,Mobile App,5,24
+T00176,C0266,A6215,211,"Phillips, Hamilton and Campos Branch",Account Closure Request,Customer reported account closure request.,2018-11-18,2018-11-25,Low,Escalated,Loan schedule updated.,Kashvi Doctor,Email,2,7
+T00177,C0487,A3377,228,"Horne, Gomez and Zavala Branch",EMI Auto-debit Failed,Customer reported emi auto-debit failed.,2015-05-18,2015-06-09,Low,Escalated,Card replaced and activated.,Harish Anne,Phone,1,22
+T00179,C0357,A4945,,Keller PLC Branch,Cheque Bounce,Customer reported cheque bounce.,2020-11-05,2020-11-15,Medium,Escalated,Loan schedule updated.,Veda Samra,Email,3,10
+T00180,C0292,A6245,,Hartman-Vargas Branch,Unauthorized Transaction,Client raised unauthorized transaction.,2019-07-31,2019-08-13,Critical,In Progress,Refund processed.,Harish Anne,In-person,2,13
+T00181,C0306,A7587,,Hahn Group Branch,KYC Update Required,Customer reported kyc update required.,2019-09-03,2019-09-08,High,In Progress,Escalated to technical team.,Wriddhish Sarraf,Email,4,5
+T00182,C0246,A6080,,Pena-Anderson Branch,Loan Foreclosure,Client raised loan foreclosure.,2017-02-19,2017-03-04,Low,Open,Pending customer verification.,Aarnav Sangha,Phone,4,13
+T00183,C0327,A3423,472,Aguirre-Bowman Branch,Interest Rate Dispute,Customer reported interest rate dispute.,2015-03-04,2015-03-11,Medium,Escalated,Pending customer verification.,Falguni Bhandari,In-person,3,7
+T00184,C0062,A6237,,Martin Ltd Branch,Online Transfer Failed,System detected online transfer failed.,2019-01-11,2019-01-23,Critical,Open,Refund processed.,Ekapad Jhaveri,Mobile App,3,12
+T00185,C0028,A3329,445,Sullivan and Sons Branch,Loan Foreclosure,Client raised loan foreclosure.,2015-07-07,2015-07-15,Critical,Resolved,Pending customer verification.,Kalpit Ahuja,In-person,2,8
+T00186,C0434,A6224,,Walters-Lee Branch,Interest Rate Dispute,System detected interest rate dispute.,2022-05-05,,Critical,Escalated,Card replaced and activated.,Chanakya Natt,In-person,2,
+T00187,C0244,A2294,370,Robbins LLC Branch,Loan Payment Delay,Client raised loan payment delay.,2021-01-29,,Low,Open,Card replaced and activated.,Ranveer Roy,Phone,1,
+T00188,C0336,A2475,48,"Williams, Johnson and Williams Branch",Loan Foreclosure,Client raised loan foreclosure.,2020-02-11,2020-03-02,Critical,Escalated,Issue resolved successfully.,Ria Ghose,Mobile App,1,20
+T00189,C0094,A0275,,Myers-Hall Branch,EMI Auto-debit Failed,Client raised emi auto-debit failed.,2018-03-20,2018-04-16,Critical,In Progress,Issue resolved successfully.,Ikbal Sidhu,Email,5,27
+T00190,C0322,A2440,51,Evans Ltd Branch,Cheque Bounce,Customer reported cheque bounce.,2020-11-26,2020-12-08,High,Escalated,Card replaced and activated.,Owen Mahajan,Phone,2,12
+T00191,C0129,A4915,,Weaver-Brown Branch,KYC Update Required,System detected kyc update required.,2022-04-15,2022-04-18,Critical,Closed,Card replaced and activated.,Leena Apte,Email,2,3
+T00192,C0145,A1355,,James Group Branch,Mismatch in Account Statement,Customer reported mismatch in account statement.,2022-03-26,2022-04-14,Low,In Progress,Pending customer verification.,Triya Mukhopadhyay,Mobile App,3,19
+T00193,C0108,A0763,,"Fitzgerald, Day and Goodwin Branch",Debit Card Delivery Delay,Client raised debit card delivery delay.,2018-02-22,,Low,In Progress,Refund processed.,Niharika Aggarwal,Email,2,
+T00194,C0428,A9618,,Lucero LLC Branch,Account Closure Request,Customer reported account closure request.,2022-12-29,,High,In Progress,Loan schedule updated.,Harish Anne,Mobile App,5,
+T00195,C0095,A5436,,"Gonzales, Diaz and Green Branch",EMI Auto-debit Failed,Customer reported emi auto-debit failed.,2016-07-27,2016-08-19,High,Open,Issue resolved successfully.,Lavanya Hans,Phone,1,23
+T00196,C0211,A5581,,Evans-Baker Branch,UPI Payment Failed,System detected upi payment failed.,2018-08-29,2018-09-07,Critical,In Progress,Escalated to technical team.,Falguni Bhandari,Mobile App,4,9
+T00197,C0081,A3044,373,Robertson and Sons Branch,Loan Foreclosure,Customer reported loan foreclosure.,2021-12-08,2021-12-16,Critical,In Progress,KYC documents verified.,Upkaar Bava,In-person,3,8
+T00198,C0418,A1746,261,"Andrade, Gomez and Bishop Branch",Loan Payment Delay,Customer reported loan payment delay.,2018-06-16,2018-07-11,Critical,Escalated,Loan schedule updated.,Falguni Bhandari,Mobile App,1,25
+T00199,C0315,A0431,16,"Edwards, Dixon and Lopez Branch",Interest Rate Dispute,Customer reported interest rate dispute.,2016-01-17,2016-02-12,High,Escalated,Card replaced and activated.,Kashvi Doctor,Email,5,26
+T00200,C0270,A3978,,"Mack, Mcmillan and Campbell Branch",Cheque Bounce,System detected cheque bounce.,2016-11-25,2016-12-05,Medium,Open,Pending customer verification.,Lavanya Hans,In-person,4,10
+T00201,C0197,A4912,,"Walton, Hodges and Galloway Branch",EMI Auto-debit Failed,Client raised emi auto-debit failed.,2019-01-19,2019-01-27,Critical,Closed,Loan schedule updated.,Kalpit Ahuja,Mobile App,1,8
+T00202,C0378,A2220,219,Rogers Group Branch,KYC Update Required,System detected kyc update required.,2019-06-09,2019-06-29,Critical,Resolved,Card replaced and activated.,Advik Bhagat,Phone,3,20
+T00204,C0088,A4593,406,Atkins-Gay Branch,Unauthorized Transaction,Client raised unauthorized transaction.,2021-04-28,2021-05-16,Low,Escalated,KYC documents verified.,Kalpit Ahuja,Mobile App,3,18
+T00205,C0470,A1134,,Carroll-Robinson Branch,Cheque Bounce,Client raised cheque bounce.,2016-07-24,2016-08-01,Medium,Escalated,Refund processed.,Upkaar Bava,Email,4,8
+T00206,C0016,A9797,,Vaughn Ltd Branch,Mismatch in Account Statement,Client raised mismatch in account statement.,2020-12-28,2021-01-27,Critical,Closed,Issue resolved successfully.,Aarnav Sangha,In-person,5,30
+T00207,C0016,A9730,425,Zimmerman PLC Branch,Unauthorized Transaction,Customer reported unauthorized transaction.,2017-10-13,2017-10-25,Critical,Resolved,Refund processed.,Lavanya Hans,Email,1,12
+T00208,C0193,A1616,412,"Collins, Neal and Lane Branch",Interest Rate Dispute,System detected interest rate dispute.,2023-05-18,2023-06-06,Critical,Escalated,Refund processed.,Gaurika Pillay,Phone,3,19
+T00210,C0474,A8538,189,"Lopez, Santana and Johnson Branch",Loan Foreclosure,Customer reported loan foreclosure.,2016-02-04,2016-02-27,Low,Open,Refund processed.,Niharika Aggarwal,Email,2,23
+T00211,C0114,A3997,,Simpson-Boyle Branch,Account Access Issue,System detected account access issue.,2018-09-17,2018-10-02,Medium,In Progress,KYC documents verified.,Gaurika Pillay,Mobile App,4,15
+T00212,C0224,A0479,,"Williams, Mcfarland and Alvarez Branch",Account Access Issue,Customer reported account access issue.,2019-10-26,2019-11-18,High,Open,Loan schedule updated.,Ekanta Devan,Phone,3,23
+T00213,C0222,A5341,,Lewis LLC Branch,Online Transfer Failed,Client raised online transfer failed.,2017-12-10,2017-12-26,High,Closed,Card replaced and activated.,Vansha Sood,Mobile App,5,16
+T00214,C0109,A1872,501,Chang-Lucas Branch,Loan Foreclosure,Client raised loan foreclosure.,2020-02-19,2020-03-17,High,Closed,Loan schedule updated.,Chaitaly Vaidya,Phone,3,27
+T00215,C0010,A1932,423,"Bell, Parker and Owen Branch",EMI Auto-debit Failed,Client raised emi auto-debit failed.,2017-01-19,2017-01-24,Critical,Escalated,Pending customer verification.,Veda Samra,Phone,5,5
+T00216,C0166,A2734,516,Peters PLC Branch,Loan Foreclosure,Customer reported loan foreclosure.,2017-02-05,2017-02-20,Critical,In Progress,Pending customer verification.,Advik Bhagat,Mobile App,5,15
+T00217,C0091,A8282,,Murray-Wright Branch,Account Frozen,System detected account frozen.,2020-07-07,2020-08-03,Medium,Open,Loan schedule updated.,Ria Ghose,Phone,3,27
+T00218,C0053,A0536,528,Myers-Hall Branch,Debit Card Delivery Delay,System detected debit card delivery delay.,2018-03-28,2018-04-12,Low,Closed,Issue resolved successfully.,Wishi Chhabra,In-person,5,15
+T00219,C0395,A0682,,Knight Ltd Branch,Loan Foreclosure,Customer reported loan foreclosure.,2019-10-08,2019-11-04,High,Open,Card replaced and activated.,Wishi Chhabra,In-person,1,27
+T00220,C0497,A7194,,Welch-Powers Branch,Debit Card Delivery Delay,Client raised debit card delivery delay.,2017-08-28,2017-09-21,High,Closed,KYC documents verified.,Lavanya Hans,Phone,5,24
+T00221,C0170,A2282,,"Clark, Kaiser and Ray Branch",Cheque Bounce,Client raised cheque bounce.,2015-09-01,2015-09-19,Medium,Resolved,KYC documents verified.,Rehaan Balakrishnan,In-person,5,18
+T00222,C0493,A4381,457,Lozano-Wilson Branch,Card Not Working,Client raised card not working.,2023-05-31,2023-06-30,Medium,In Progress,Pending customer verification.,Ranveer Roy,In-person,2,30
+T00223,C0008,A6435,319,Peters PLC Branch,Loan Payment Delay,System detected loan payment delay.,2022-02-03,2022-02-17,High,Resolved,Card replaced and activated.,Veda Samra,In-person,5,14
+T00224,C0152,A0041,,Mason Group Branch,Interest Rate Dispute,Customer reported interest rate dispute.,2020-02-21,2020-03-15,Critical,In Progress,Card replaced and activated.,Advik Bhagat,Phone,4,23
+T00225,C0043,A4400,,Green-Noble Branch,Debit Card Delivery Delay,System detected debit card delivery delay.,2018-10-15,2018-10-20,High,Open,Issue resolved successfully.,Ekanta Devan,Mobile App,1,5
+T00227,C0295,A5906,94,Graham PLC Branch,Loan Foreclosure,Client raised loan foreclosure.,2022-06-14,,Medium,Escalated,KYC documents verified.,Chaitaly Vaidya,Email,1,
+T00228,C0280,A3497,328,Johnson-Hunter Branch,Loan Foreclosure,Customer reported loan foreclosure.,2021-08-28,2021-09-19,Critical,In Progress,Card replaced and activated.,Chaitaly Vaidya,Phone,4,22
+T00229,C0375,A1464,535,Perez Ltd Branch,EMI Auto-debit Failed,Client raised emi auto-debit failed.,2019-02-14,,Medium,Open,Loan schedule updated.,Owen Mahajan,Email,5,
+T00230,C0447,A2689,536,Edwards PLC Branch,Interest Rate Dispute,Customer reported interest rate dispute.,2017-05-22,2017-05-27,Low,Open,Pending customer verification.,Kashvi Doctor,Email,5,5
+T00231,C0392,A6292,,"Taylor, Mckay and Orozco Branch",Cheque Bounce,Client raised cheque bounce.,2018-07-12,2018-07-20,Low,In Progress,Loan schedule updated.,Vansha Sood,In-person,1,8
+T00232,C0477,A4943,,Bell PLC Branch,Cheque Bounce,Client raised cheque bounce.,2020-09-18,2020-10-01,Low,In Progress,Card replaced and activated.,Upkaar Bava,Email,2,13
+T00233,C0254,A8186,,Molina-Potts Branch,Account Closure Request,System detected account closure request.,2015-02-19,,Medium,Escalated,Refund processed.,Advik Bhagat,Mobile App,3,
+T00234,C0075,A8952,,Clark-Williams Branch,Loan Payment Delay,Customer reported loan payment delay.,2023-08-22,2023-09-10,High,In Progress,Issue resolved successfully.,Ikbal Sidhu,Email,4,19
+T00235,C0088,A8301,,"Bird, Weber and Cain Branch",EMI Auto-debit Failed,System detected emi auto-debit failed.,2020-08-14,2020-08-28,Low,Closed,Loan schedule updated.,Vansha Sood,Phone,3,14
+T00237,C0388,A4006,,Johnson and Sons Branch,Card Not Working,System detected card not working.,2016-04-20,2016-05-10,Medium,Open,Issue resolved successfully.,Gabriel Mutti,Phone,1,20
+T00238,C0378,A2685,,Cortez-Brown Branch,EMI Auto-debit Failed,System detected emi auto-debit failed.,2020-11-12,2020-12-09,Medium,Resolved,Pending customer verification.,Ekapad Jhaveri,In-person,1,27
+T00239,C0405,A0481,,Andrews Ltd Branch,EMI Auto-debit Failed,Client raised emi auto-debit failed.,2018-01-19,2018-01-28,Low,Escalated,Card replaced and activated.,Udyati Mody,In-person,1,9
+T00240,C0353,A8186,416,Huynh-Jones Branch,Debit Card Delivery Delay,Customer reported debit card delivery delay.,2017-11-10,2017-12-09,Medium,Closed,Issue resolved successfully.,Leena Apte,Email,2,29
+T00241,C0331,A0754,439,Curtis-Diaz Branch,Interest Rate Dispute,Customer reported interest rate dispute.,2016-09-06,2016-10-04,High,In Progress,Card replaced and activated.,Ikbal Sidhu,In-person,3,28
+T00242,C0196,A1277,133,Hurley-Reynolds Branch,Loan Payment Delay,System detected loan payment delay.,2022-07-20,,Low,Escalated,Refund processed.,Rehaan Balakrishnan,In-person,3,
+T00243,C0500,A1416,27,"Austin, Rogers and Ayala Branch",Cheque Bounce,Customer reported cheque bounce.,2017-04-01,2017-04-27,Critical,Resolved,Loan schedule updated.,Veda Samra,Phone,5,26
+T00244,C0177,A4017,549,Russell-Richard Branch,Interest Rate Dispute,Client raised interest rate dispute.,2019-08-07,2019-08-25,Low,Resolved,Issue resolved successfully.,Kashvi Doctor,Mobile App,3,18
+T00245,C0341,A1704,,Bell PLC Branch,Unauthorized Transaction,Client raised unauthorized transaction.,2017-09-02,2017-09-04,High,Open,Issue resolved successfully.,Ikbal Sidhu,Phone,5,2
+T00246,C0196,A6768,,Hurley-Reynolds Branch,Online Transfer Failed,Customer reported online transfer failed.,2023-05-22,2023-05-26,Critical,Open,Loan schedule updated.,Owen Mahajan,Email,4,4
+T00248,C0265,A3322,,"Lam, Jones and Ortega Branch",Unauthorized Transaction,System detected unauthorized transaction.,2021-07-22,2021-07-26,Critical,Resolved,Card replaced and activated.,Ekanta Devan,In-person,2,4
+T00249,C0262,A7405,,"Warren, Tanner and Combs Branch",Loan Foreclosure,System detected loan foreclosure.,2016-05-06,2016-06-01,Low,In Progress,Refund processed.,Wriddhish Mangal,In-person,2,26
+T00250,C0202,A1495,,Martin-Hardy Branch,Cheque Bounce,System detected cheque bounce.,2019-06-12,2019-07-04,Medium,Open,Card replaced and activated.,Wriddhish Mangal,Mobile App,5,22
+T00251,C0491,A9014,482,Moore-Hodges Branch,Loan Payment Delay,Customer reported loan payment delay.,2016-02-22,,Medium,In Progress,Refund processed.,Upkaar Bava,In-person,1,
+T00252,C0490,A9541,,Phillips PLC Branch,Account Access Issue,Client raised account access issue.,2015-11-04,2015-11-07,Critical,In Progress,Issue resolved successfully.,Triya Mukhopadhyay,In-person,1,3
+T00253,C0117,A0700,154,"Nelson, Hardy and Fox Branch",Interest Rate Dispute,Client raised interest rate dispute.,2021-06-08,2021-07-02,Critical,In Progress,Escalated to technical team.,Kalpit Ahuja,Phone,3,24
+T00254,C0334,A4586,,"Morse, Foley and Johnson Branch",Account Access Issue,Client raised account access issue.,2015-05-22,2015-06-11,High,Escalated,Card replaced and activated.,Triya Mukhopadhyay,Mobile App,1,20
+T00255,C0265,A1438,117,"Thomas, Brock and Hansen Branch",Loan Payment Delay,System detected loan payment delay.,2019-09-14,2019-10-13,High,Escalated,Loan schedule updated.,Aarnav Sangha,Mobile App,3,29
+T00256,C0369,A9268,16,"Martin, Flores and Miller Branch",Loan Foreclosure,Customer reported loan foreclosure.,2018-01-12,2018-01-23,Critical,Closed,Escalated to technical team.,Kashvi Doctor,Phone,2,11
+T00257,C0062,A1641,,Clark and Sons Branch,Account Closure Request,Client raised account closure request.,2017-12-27,2018-01-22,Low,In Progress,Loan schedule updated.,Wriddhish Mangal,Mobile App,3,26
+T00259,C0453,A8883,227,"Howard, Tate and Nguyen Branch",Interest Rate Dispute,Customer reported interest rate dispute.,2015-06-05,2015-06-13,High,Closed,Pending customer verification.,Aarnav Sangha,Phone,3,8
+T00260,C0208,A2908,451,Moore-Soto Branch,Unauthorized Transaction,Client raised unauthorized transaction.,2016-08-28,2016-09-27,High,Open,Escalated to technical team.,Gabriel Mutti,Mobile App,5,30
+T00262,C0089,A9650,24,"Sullivan, Bradford and Becker Branch",Unauthorized Transaction,Client raised unauthorized transaction.,2023-03-26,2023-03-31,Critical,Closed,Issue resolved successfully.,Chanakya Natt,In-person,5,5
+T00263,C0330,A3620,,Mcclain Inc Branch,Account Access Issue,System detected account access issue.,2016-07-30,2016-08-02,High,In Progress,KYC documents verified.,Triya Mukhopadhyay,Email,3,3
+T00264,C0415,A7318,94,"Lopez, Tucker and Collins Branch",Cheque Bounce,Client raised cheque bounce.,2017-10-19,2017-10-31,Low,Open,Card replaced and activated.,Bhavya Dutta,Mobile App,2,12
+T00265,C0111,A6784,,Simmons-Cole Branch,Mismatch in Account Statement,System detected mismatch in account statement.,2018-12-09,2018-12-13,Medium,In Progress,Card replaced and activated.,Chaitaly Vaidya,Email,3,4
+T00266,C0443,A0329,530,Hartman-Vargas Branch,Loan Payment Delay,Client raised loan payment delay.,2016-03-04,2016-03-10,Low,Resolved,Loan schedule updated.,Vansha Sood,Mobile App,1,6
+T00267,C0408,A7067,,Choi PLC Branch,Interest Rate Dispute,Customer reported interest rate dispute.,2019-11-14,2019-11-18,Medium,Escalated,KYC documents verified.,Falguni Bhandari,In-person,3,4
+T00268,C0325,A4873,136,Richardson and Sons Branch,Loan Foreclosure,Customer reported loan foreclosure.,2019-05-29,2019-06-25,Critical,Open,Escalated to technical team.,Advik Bhagat,Mobile App,2,27
+T00269,C0355,A1590,167,Wood-Bell Branch,Account Frozen,System detected account frozen.,2022-02-27,2022-03-02,Critical,Escalated,Card replaced and activated.,Triya Mukhopadhyay,In-person,1,3
+T00270,C0098,A8915,485,Thomas PLC Branch,Interest Rate Dispute,System detected interest rate dispute.,2019-04-12,2019-04-27,Medium,Resolved,Loan schedule updated.,Leena Apte,Phone,1,15
+T00271,C0372,A1405,,Stevens-Braun Branch,Debit Card Delivery Delay,Customer reported debit card delivery delay.,2019-08-23,,Low,Escalated,Refund processed.,Udyati Mody,Mobile App,5,
+T00272,C0452,A7780,,Smith Inc Branch,EMI Auto-debit Failed,Customer reported emi auto-debit failed.,2015-11-20,2015-12-18,Medium,Open,Refund processed.,Bhavya Dutta,Phone,2,28
+T00273,C0276,A3472,367,"Marquez, Reese and Dawson Branch",EMI Auto-debit Failed,Client raised emi auto-debit failed.,2019-10-01,2019-10-23,High,Resolved,KYC documents verified.,Ikbal Sidhu,Email,1,22
+T00274,C0438,A6359,,Evans-Baker Branch,Mismatch in Account Statement,Customer reported mismatch in account statement.,2018-02-05,2018-03-07,Critical,Open,Card replaced and activated.,Ranveer Roy,Phone,5,30
+T00275,C0478,A9633,,Warner-Shelton Branch,Cheque Bounce,Client raised cheque bounce.,2021-04-23,2021-05-19,High,Escalated,Escalated to technical team.,Upkaar Bava,Mobile App,5,26
+T00276,C0198,A9978,372,Mullen-Obrien Branch,Debit Card Delivery Delay,System detected debit card delivery delay.,2018-02-02,2018-02-22,Low,Escalated,Escalated to technical team.,Gabriel Mutti,Phone,1,20
+T00277,C0361,A7786,,Chapman-Goodman Branch,Cheque Bounce,System detected cheque bounce.,2015-03-24,2015-04-19,High,Escalated,Refund processed.,Gabriel Mutti,Email,2,26
+T00278,C0467,A2202,,Clark-Smith Branch,Cheque Bounce,Client raised cheque bounce.,2019-12-20,2019-12-31,Critical,Closed,KYC documents verified.,Chaitaly Vaidya,Phone,4,11
+T00279,C0157,A3464,,Bruce-Kidd Branch,Mismatch in Account Statement,Customer reported mismatch in account statement.,2023-07-08,2023-07-20,Medium,Open,Escalated to technical team.,Gabriel Mutti,Mobile App,2,12
+T00281,C0350,A6504,,Black-Schmidt Branch,Account Frozen,Customer reported account frozen.,2017-09-17,2017-10-07,Critical,Closed,Loan schedule updated.,Ekani Oza,In-person,2,20
+T00282,C0040,A4238,425,Evans-Clark Branch,Debit Card Delivery Delay,Customer reported debit card delivery delay.,2019-05-03,2019-05-31,Medium,In Progress,KYC documents verified.,Kalpit Ahuja,In-person,4,28
+T00283,C0328,A8410,,Roberts-Silva Branch,Account Closure Request,Customer reported account closure request.,2023-08-10,2023-08-26,Medium,Closed,Refund processed.,Ria Ghose,Phone,3,16
+T00284,C0206,A9968,,"Roman, Lynch and Davis Branch",Account Closure Request,System detected account closure request.,2022-12-15,2022-12-29,High,Escalated,Escalated to technical team.,Kalpit Ahuja,Mobile App,3,14
+T00285,C0472,A8531,,Evans-Baker Branch,Mismatch in Account Statement,System detected mismatch in account statement.,2015-01-31,2015-02-22,High,Resolved,KYC documents verified.,Ekanta Devan,Mobile App,1,22
+T00286,C0063,A5510,,"Wheeler, Henderson and Weeks Branch",Account Closure Request,Client raised account closure request.,2018-02-08,2018-03-03,High,In Progress,Pending customer verification.,Udyati Mody,Phone,1,23
+T00287,C0314,A9831,,Jackson-Macias Branch,Loan Foreclosure,System detected loan foreclosure.,2022-08-20,2022-08-21,High,Resolved,Card replaced and activated.,Upkaar Bava,Mobile App,1,1
+T00288,C0112,A9553,179,Davis-Hancock Branch,Loan Foreclosure,System detected loan foreclosure.,2022-12-31,2023-01-18,High,Closed,Escalated to technical team.,Wriddhish Mangal,Phone,5,18
+T00289,C0117,A2968,500,Jackson-Smith Branch,EMI Auto-debit Failed,Client raised emi auto-debit failed.,2016-06-08,2016-07-02,High,Open,Pending customer verification.,Ekani Oza,Phone,3,24
+T00290,C0472,A6890,458,Martin LLC Branch,Loan Payment Delay,System detected loan payment delay.,2021-07-26,2021-08-23,Low,Closed,Loan schedule updated.,Vansha Sood,Email,4,28
+T00291,C0377,A3188,340,Frazier and Sons Branch,EMI Auto-debit Failed,Customer reported emi auto-debit failed.,2022-08-20,2022-08-30,Medium,Resolved,Card replaced and activated.,Owen Mahajan,Mobile App,2,10
+T00292,C0271,A5184,,Harris Ltd Branch,Interest Rate Dispute,Client raised interest rate dispute.,2020-06-20,2020-06-26,Low,Open,Card replaced and activated.,Wishi Chhabra,Phone,2,6
+T00293,C0132,A9442,,"Woods, Patterson and Owens Branch",Debit Card Delivery Delay,System detected debit card delivery delay.,2023-07-25,2023-07-30,Critical,Escalated,Card replaced and activated.,Veda Samra,Mobile App,1,5
+T00294,C0344,A0619,,"Peters, Mercer and Floyd Branch",UPI Payment Failed,Client raised upi payment failed.,2015-02-27,,Medium,Open,KYC documents verified.,Ria Ghose,Phone,2,
+T00295,C0154,A5642,166,"Wallace, Reynolds and Williams Branch",Loan Payment Delay,System detected loan payment delay.,2019-04-21,2019-05-01,High,Escalated,KYC documents verified.,Udyati Mody,In-person,4,10
+T00296,C0298,A2193,,"Griffin, White and Miller Branch",Unauthorized Transaction,System detected unauthorized transaction.,2020-06-30,2020-07-07,Low,In Progress,Pending customer verification.,Ekapad Jhaveri,Phone,2,7
+T00297,C0252,A0360,116,Brooks Group Branch,Loan Foreclosure,Client raised loan foreclosure.,2019-02-10,2019-03-08,Low,Closed,Issue resolved successfully.,Gaurika Pillay,Email,1,26
+T00298,C0209,A0791,,Petersen-Alvarado Branch,Account Frozen,Client raised account frozen.,2019-04-07,2019-04-16,Medium,In Progress,KYC documents verified.,Gaurika Pillay,Email,3,9
+T00299,C0478,A6896,,Richard-Lowe Branch,Unauthorized Transaction,System detected unauthorized transaction.,2018-01-10,2018-02-02,Low,Closed,KYC documents verified.,Vansha Sood,Email,3,23
+T00300,C0070,A1868,,"Sanchez, Cooper and Suarez Branch",Mismatch in Account Statement,Client raised mismatch in account statement.,2021-10-30,2021-11-08,Medium,Resolved,KYC documents verified.,Lavanya Hans,In-person,2,9
+T00301,C0260,A0646,,Cortez-Brown Branch,Interest Rate Dispute,Customer reported interest rate dispute.,2022-09-19,,Low,Open,KYC documents verified.,Chaitaly Vaidya,Email,5,
+T00302,C0430,A8096,,Martinez-Bell Branch,EMI Auto-debit Failed,Customer reported emi auto-debit failed.,2023-09-28,2023-10-22,High,In Progress,Card replaced and activated.,Rehaan Balakrishnan,In-person,4,24
+T00303,C0279,A0821,,Warner-Shelton Branch,Interest Rate Dispute,Client raised interest rate dispute.,2015-06-11,,High,Escalated,KYC documents verified.,Ekanta Devan,Email,1,
+T00304,C0183,A0159,,Chavez and Sons Branch,Account Frozen,Client raised account frozen.,2016-11-29,2016-12-28,High,Open,Escalated to technical team.,Advik Bhagat,In-person,2,29
+T00305,C0169,A1866,,"Acosta, Murphy and Rojas Branch",EMI Auto-debit Failed,System detected emi auto-debit failed.,2020-02-13,2020-02-26,Critical,In Progress,Issue resolved successfully.,Ranveer Roy,Email,2,13
+T00307,C0044,A0473,,Jones-Baker Branch,Account Frozen,Customer reported account frozen.,2020-06-22,2020-07-06,Low,Resolved,KYC documents verified.,Niharika Aggarwal,Email,5,14
+T00308,C0301,A9448,,"Powell, Palmer and Martin Branch",Online Transfer Failed,Client raised online transfer failed.,2022-07-06,,Low,Escalated,KYC documents verified.,Ekapad Jhaveri,Phone,4,
+T00309,C0434,A5665,291,Campbell PLC Branch,EMI Auto-debit Failed,Client raised emi auto-debit failed.,2021-04-05,,Critical,Escalated,Refund processed.,Chanakya Natt,Email,4,
+T00310,C0421,A5254,211,Evans Ltd Branch,Online Transfer Failed,System detected online transfer failed.,2018-02-13,2018-02-21,Medium,Open,Card replaced and activated.,Bhavya Dutta,Mobile App,1,8
+T00311,C0123,A8167,395,Blair-Rivas Branch,Loan Payment Delay,System detected loan payment delay.,2020-07-30,2020-07-31,Critical,Open,Loan schedule updated.,Falguni Bhandari,Email,1,1
+T00312,C0178,A9900,,Rogers Group Branch,Account Frozen,System detected account frozen.,2021-04-22,2021-05-14,High,Open,Refund processed.,Harish Anne,Mobile App,3,22
+T00313,C0381,A9178,,Mullen-Obrien Branch,Loan Payment Delay,Client raised loan payment delay.,2019-01-28,2019-02-01,Medium,Open,Escalated to technical team.,Ekani Oza,In-person,5,4
+T00314,C0447,A8553,,Brown LLC Branch,Account Frozen,Customer reported account frozen.,2015-07-07,,Critical,Open,Escalated to technical team.,Vansha Sood,Phone,2,
+T00315,C0103,A1979,27,Atkins-Gay Branch,Loan Payment Delay,System detected loan payment delay.,2023-10-06,2023-10-17,Low,Closed,Issue resolved successfully.,Kashvi Doctor,Mobile App,4,11
+T00316,C0221,A9656,63,Brooks Group Branch,Interest Rate Dispute,Client raised interest rate dispute.,2020-08-05,2020-08-29,Critical,Closed,Refund processed.,Ikbal Sidhu,Phone,5,24
+T00317,C0284,A2846,435,Robinson-Sweeney Branch,Interest Rate Dispute,System detected interest rate dispute.,2022-05-17,2022-06-15,Medium,Resolved,Card replaced and activated.,Niharika Aggarwal,In-person,4,29
+T00319,C0031,A4761,,Rogers-King Branch,Loan Foreclosure,Customer reported loan foreclosure.,2016-06-27,,High,Open,Refund processed.,Ekani Oza,Mobile App,5,
+T00320,C0301,A9350,,Perez-Griffin Branch,KYC Update Required,Customer reported kyc update required.,2020-12-26,2021-01-23,Low,Open,Card replaced and activated.,Ranveer Roy,Email,1,28
+T00321,C0235,A3276,,Newman-Peterson Branch,Loan Foreclosure,System detected loan foreclosure.,2016-10-21,,Medium,Open,KYC documents verified.,Aarnav Sangha,In-person,2,
+T00322,C0086,A8867,136,Lynch Ltd Branch,Loan Foreclosure,Client raised loan foreclosure.,2020-01-28,2020-02-25,Medium,Closed,Card replaced and activated.,Harish Anne,In-person,1,28
+T00323,C0497,A6252,,Thomas PLC Branch,Interest Rate Dispute,Client raised interest rate dispute.,2023-11-03,,Low,Open,KYC documents verified.,Wishi Chhabra,Phone,5,
+T00324,C0050,A7260,,Patterson LLC Branch,UPI Payment Failed,Client raised upi payment failed.,2022-11-26,2022-12-08,Medium,In Progress,Escalated to technical team.,Bhavya Dutta,Phone,1,12
+T00325,C0152,A3064,,Ramirez-Brown Branch,Cheque Bounce,Client raised cheque bounce.,2016-05-03,2016-05-17,High,In Progress,Pending customer verification.,Owen Mahajan,In-person,1,14
+T00326,C0267,A5416,,Martin Ltd Branch,Interest Rate Dispute,Client raised interest rate dispute.,2016-09-26,2016-10-26,Low,Closed,Refund processed.,Gaurika Pillay,In-person,4,30
+T00327,C0358,A9383,525,Smith PLC Branch,EMI Auto-debit Failed,System detected emi auto-debit failed.,2022-12-08,2022-12-16,Critical,Open,Escalated to technical team.,Harish Anne,Phone,3,8
+T00328,C0355,A5425,474,"Roberts, Murphy and Lewis Branch",Online Transfer Failed,Client raised online transfer failed.,2023-06-10,2023-06-26,Low,Open,KYC documents verified.,Ekani Oza,Mobile App,2,16
+T00329,C0014,A3995,,Olsen and Sons Branch,Loan Payment Delay,System detected loan payment delay.,2018-08-07,2018-09-02,High,Closed,KYC documents verified.,Rehaan Balakrishnan,Email,5,26
+T00330,C0341,A6144,,"Morse, Foley and Johnson Branch",Account Access Issue,System detected account access issue.,2018-04-29,,Low,Open,Pending customer verification.,Kashvi Doctor,Email,1,
+T00331,C0108,A3454,,Wright Ltd Branch,Account Access Issue,Client raised account access issue.,2019-10-04,,Critical,Open,KYC documents verified.,Gaurika Pillay,Phone,1,
+T00332,C0107,A7524,28,Martin LLC Branch,EMI Auto-debit Failed,System detected emi auto-debit failed.,2015-10-28,2015-11-23,Critical,Escalated,Card replaced and activated.,Wriddhish Sarraf,Mobile App,4,26
+T00333,C0197,A5184,420,"Reyes, Campbell and Walton Branch",EMI Auto-debit Failed,Client raised emi auto-debit failed.,2016-04-29,2016-05-20,Low,Open,Escalated to technical team.,Ikbal Sidhu,Email,3,21
+T00334,C0210,A4938,341,Johnson and Sons Branch,Loan Foreclosure,Customer reported loan foreclosure.,2019-11-28,2019-12-25,Critical,In Progress,Loan schedule updated.,Harish Anne,Phone,4,27
+T00335,C0334,A8942,,Bright Inc Branch,Account Closure Request,Client raised account closure request.,2016-08-13,2016-09-11,High,Open,Loan schedule updated.,Wriddhish Mangal,Phone,1,29
+T00336,C0216,A0685,,Matthews Group Branch,Cheque Bounce,Customer reported cheque bounce.,2019-06-03,2019-06-06,High,In Progress,Card replaced and activated.,Triya Mukhopadhyay,Phone,2,3
+T00337,C0087,A3015,,"Miller, Baker and Owen Branch",Loan Foreclosure,Client raised loan foreclosure.,2017-11-01,2017-11-07,Low,Closed,Card replaced and activated.,Wriddhish Sarraf,Email,3,6
+T00338,C0294,A1104,90,Graham PLC Branch,EMI Auto-debit Failed,Customer reported emi auto-debit failed.,2023-02-20,2023-03-03,High,Closed,Issue resolved successfully.,Triya Mukhopadhyay,Phone,3,11
+T00339,C0495,A7961,424,"Moore, Brown and Brown Branch",Loan Foreclosure,System detected loan foreclosure.,2022-05-24,2022-06-12,Critical,In Progress,Issue resolved successfully.,Niharika Aggarwal,Phone,2,19
+T00340,C0202,A7146,,"Wheeler, Henderson and Weeks Branch",Account Closure Request,System detected account closure request.,2016-07-04,2016-07-15,Critical,Escalated,Escalated to technical team.,Kashvi Doctor,In-person,4,11
+T00341,C0243,A9039,209,Wright PLC Branch,Mismatch in Account Statement,Client raised mismatch in account statement.,2021-10-20,2021-10-29,Medium,Resolved,KYC documents verified.,Triya Mukhopadhyay,Email,1,9
+T00342,C0107,A0306,,Beltran-Nelson Branch,Debit Card Delivery Delay,Customer reported debit card delivery delay.,2021-07-11,2021-08-05,Low,Closed,Escalated to technical team.,Falguni Bhandari,Mobile App,2,25
+T00343,C0341,A5994,101,"Morrison, Morrison and Camacho Branch",Loan Payment Delay,System detected loan payment delay.,2023-08-29,2023-09-26,High,Closed,Issue resolved successfully.,Gaurika Pillay,Phone,5,28
+T00344,C0386,A2718,,"Choi, Hebert and Bush Branch",Loan Foreclosure,Customer reported loan foreclosure.,2017-01-03,2017-01-22,Critical,Resolved,Issue resolved successfully.,Harish Anne,Mobile App,2,19
+T00345,C0398,A1030,153,"Adams, Mitchell and Schneider Branch",Account Closure Request,System detected account closure request.,2015-06-25,2015-07-12,Critical,Escalated,Issue resolved successfully.,Leena Apte,In-person,1,17
+T00346,C0491,A8543,,"Nelson, Randall and Thornton Branch",Unauthorized Transaction,System detected unauthorized transaction.,2017-12-14,2018-01-02,Critical,Resolved,Loan schedule updated.,Wriddhish Sarraf,Email,5,19
+T00347,C0498,A4122,,Davis-Long Branch,Mismatch in Account Statement,System detected mismatch in account statement.,2017-07-01,2017-07-13,Critical,Escalated,Loan schedule updated.,Ria Ghose,Phone,4,12
+T00348,C0261,A2714,475,"Phillips, Hamilton and Campos Branch",Loan Payment Delay,Client raised loan payment delay.,2022-03-20,2022-03-25,Medium,Escalated,Refund processed.,Niharika Aggarwal,Email,4,5
+T00349,C0378,A7845,518,Vaughn Ltd Branch,EMI Auto-debit Failed,Client raised emi auto-debit failed.,2016-10-22,2016-11-05,Medium,In Progress,KYC documents verified.,Udyati Mody,Email,5,14
+T00350,C0040,A2407,412,Bennett and Sons Branch,Debit Card Delivery Delay,Client raised debit card delivery delay.,2017-01-07,2017-01-20,Low,Resolved,Issue resolved successfully.,Kalpit Ahuja,Mobile App,5,13
+T00351,C0416,A7724,493,Salazar Group Branch,Debit Card Delivery Delay,Customer reported debit card delivery delay.,2019-08-10,2019-09-05,High,In Progress,KYC documents verified.,Gaurika Pillay,In-person,4,26
+T00352,C0147,A9774,203,Fleming-Washington Branch,Interest Rate Dispute,Customer reported interest rate dispute.,2019-04-28,2019-04-29,Low,In Progress,Card replaced and activated.,Triya Mukhopadhyay,Email,5,1
+T00353,C0034,A8247,477,Welch-Powers Branch,Online Transfer Failed,Client raised online transfer failed.,2022-05-24,2022-06-13,Critical,Closed,Card replaced and activated.,Ekani Oza,Email,5,20
+T00354,C0454,A7029,,Thompson-Holmes Branch,Interest Rate Dispute,Client raised interest rate dispute.,2020-05-28,2020-06-10,Low,Escalated,Pending customer verification.,Wishi Chhabra,Mobile App,2,13
+T00355,C0327,A1374,,Chavez-Pierce Branch,Card Not Working,Client raised card not working.,2021-02-05,2021-02-12,Low,Closed,Loan schedule updated.,Ekanta Devan,Email,4,7
+T00356,C0037,A3366,,"Edwards, Dunlap and Fernandez Branch",Debit Card Delivery Delay,System detected debit card delivery delay.,2016-03-12,2016-04-02,High,Closed,Card replaced and activated.,Owen Mahajan,In-person,5,21
+T00357,C0499,A4515,,Evans-Baker Branch,Account Frozen,Customer reported account frozen.,2019-08-20,2019-09-07,High,Closed,Loan schedule updated.,Veda Samra,In-person,3,18
+T00358,C0482,A9465,,Stevens-Braun Branch,Mismatch in Account Statement,Client raised mismatch in account statement.,2019-06-19,2019-07-17,Low,In Progress,Card replaced and activated.,Aarnav Sangha,Phone,1,28
+T00359,C0309,A3514,,"Acosta, Murphy and Rojas Branch",Loan Foreclosure,Client raised loan foreclosure.,2023-12-25,2024-01-17,Low,In Progress,Card replaced and activated.,Wriddhish Sarraf,Email,1,23
+T00360,C0336,A2382,,"Burns, Patterson and White Branch",Account Access Issue,System detected account access issue.,2019-11-19,2019-11-28,Low,Closed,Issue resolved successfully.,Ekapad Jhaveri,Mobile App,4,9
+T00361,C0161,A8537,,"Bird, Weber and Cain Branch",Mismatch in Account Statement,Customer reported mismatch in account statement.,2021-09-13,2021-10-08,Critical,Escalated,Issue resolved successfully.,Kalpit Ahuja,In-person,2,25
+T00362,C0243,A0551,,"Camacho, Brown and Terry Branch",Loan Foreclosure,Customer reported loan foreclosure.,2022-07-23,2022-07-31,Medium,Open,Escalated to technical team.,Kashvi Doctor,Mobile App,3,8
+T00363,C0073,A6475,,"Powell, Hamilton and Brown Branch",Loan Payment Delay,Customer reported loan payment delay.,2020-10-21,2020-11-13,High,Closed,Loan schedule updated.,Ekani Oza,In-person,3,23
+T00364,C0149,A3708,,"Smith, Jenkins and Hampton Branch",Unauthorized Transaction,System detected unauthorized transaction.,2019-07-13,2019-07-22,Low,Closed,Issue resolved successfully.,Udyati Mody,In-person,3,9
+T00365,C0100,A1918,,Horton-Jimenez Branch,Account Frozen,System detected account frozen.,2023-11-24,2023-12-17,Critical,In Progress,Refund processed.,Niharika Aggarwal,Mobile App,4,23
+T00366,C0168,A9615,,"Carter, Armstrong and Bailey Branch",UPI Payment Failed,Customer reported upi payment failed.,2017-11-22,2017-12-13,Medium,Resolved,Card replaced and activated.,Ekani Oza,Email,3,21
+T00367,C0262,A4068,284,Lewis Ltd Branch,Loan Payment Delay,Client raised loan payment delay.,2022-07-22,2022-08-02,Medium,Escalated,Escalated to technical team.,Ekani Oza,Phone,5,11
+T00368,C0433,A4409,,"Morgan, Walker and Brown Branch",Account Access Issue,System detected account access issue.,2022-08-30,,Medium,In Progress,KYC documents verified.,Harish Anne,In-person,2,
+T00369,C0345,A3756,,"Li, Camacho and Cline Branch",Loan Payment Delay,Customer reported loan payment delay.,2021-12-08,2022-01-02,Low,Escalated,Loan schedule updated.,Ria Ghose,Email,4,25
+T00370,C0324,A6082,,Lee-Brown Branch,Account Frozen,Customer reported account frozen.,2021-06-11,,High,Escalated,Pending customer verification.,Kashvi Doctor,Phone,1,
+T00371,C0421,A8614,,Smith Group Branch,KYC Update Required,Client raised kyc update required.,2021-01-23,2021-02-04,Medium,Escalated,Issue resolved successfully.,Gabriel Mutti,Mobile App,3,12
+T00372,C0099,A0138,,Hodges LLC Branch,Interest Rate Dispute,Client raised interest rate dispute.,2019-04-04,2019-04-15,High,In Progress,Loan schedule updated.,Wishi Chhabra,Phone,3,11
+T00373,C0060,A7723,499,Johnson-Wilson Branch,EMI Auto-debit Failed,System detected emi auto-debit failed.,2020-08-04,2020-08-18,Critical,Resolved,Card replaced and activated.,Chanakya Natt,Phone,5,14
+T00374,C0058,A3745,,Warner-Shelton Branch,KYC Update Required,Customer reported kyc update required.,2017-08-23,2017-09-20,Medium,In Progress,Card replaced and activated.,Aarnav Sangha,Email,2,28
+T00375,C0322,A6907,452,James Group Branch,Interest Rate Dispute,System detected interest rate dispute.,2022-01-27,2022-02-20,High,Closed,Refund processed.,Owen Mahajan,Email,4,24
+T00376,C0362,A1622,352,Townsend-Black Branch,Loan Payment Delay,System detected loan payment delay.,2017-11-07,2017-11-28,High,Resolved,Escalated to technical team.,Ekani Oza,In-person,3,21
+T00378,C0307,A1285,,Herrera LLC Branch,Mismatch in Account Statement,Customer reported mismatch in account statement.,2020-03-14,2020-03-19,High,Escalated,KYC documents verified.,Vansha Sood,Mobile App,1,5
+T00379,C0096,A1297,447,Johnson Group Branch,Interest Rate Dispute,System detected interest rate dispute.,2018-07-08,2018-07-18,Critical,Resolved,KYC documents verified.,Owen Mahajan,Mobile App,4,10
+T00380,C0389,A2742,,"Glenn, Villa and Perry Branch",Cheque Bounce,Client raised cheque bounce.,2016-05-27,2016-06-18,Low,In Progress,Pending customer verification.,Upkaar Bava,Email,1,22
+T00381,C0189,A1046,,Mullen-Obrien Branch,UPI Payment Failed,Customer reported upi payment failed.,2015-04-18,2015-05-05,Low,Resolved,Loan schedule updated.,Ranveer Roy,Email,4,17
+T00382,C0303,A5069,370,Thompson-Holmes Branch,EMI Auto-debit Failed,Customer reported emi auto-debit failed.,2018-03-09,2018-03-14,Low,Resolved,Refund processed.,Ikbal Sidhu,In-person,4,5
+T00384,C0118,A8746,,Anderson-Dunn Branch,Loan Payment Delay,System detected loan payment delay.,2020-05-26,2020-06-21,High,Resolved,Card replaced and activated.,Wishi Chhabra,Phone,3,26
+T00386,C0065,A4909,,"Williams, Johnson and Williams Branch",UPI Payment Failed,Customer reported upi payment failed.,2023-12-13,2023-12-21,High,In Progress,Card replaced and activated.,Triya Mukhopadhyay,Mobile App,4,8
+T00387,C0384,A4095,,Townsend-Black Branch,Account Access Issue,System detected account access issue.,2022-03-30,2022-04-12,Low,Escalated,KYC documents verified.,Harish Anne,In-person,3,13
+T00388,C0401,A8716,,Chapman-Goodman Branch,Loan Payment Delay,Client raised loan payment delay.,2015-10-08,2015-10-18,Critical,Closed,Card replaced and activated.,Wishi Chhabra,Mobile App,2,10
+T00389,C0375,A5254,460,Ramirez-Kennedy Branch,Interest Rate Dispute,Client raised interest rate dispute.,2020-12-31,2021-01-04,Low,In Progress,Issue resolved successfully.,Ranveer Roy,Email,4,4
+T00390,C0428,A3559,,"Griffin, White and Miller Branch",Account Frozen,Client raised account frozen.,2023-10-24,2023-11-05,Low,Resolved,Issue resolved successfully.,Advik Bhagat,Phone,1,12
+T00391,C0020,A4367,3,"Morrison, Morrison and Camacho Branch",Interest Rate Dispute,Customer reported interest rate dispute.,2020-04-09,2020-05-08,Low,In Progress,Card replaced and activated.,Kashvi Doctor,Mobile App,2,29
+T00392,C0419,A0550,,Perez Group Branch,Account Access Issue,System detected account access issue.,2023-08-24,2023-09-15,Critical,Resolved,Escalated to technical team.,Chanakya Natt,Email,5,22
+T00393,C0141,A8535,346,Becker-Boone Branch,EMI Auto-debit Failed,Customer reported emi auto-debit failed.,2022-02-28,2022-03-12,Medium,Escalated,Escalated to technical team.,Ria Ghose,Phone,3,12
+T00394,C0436,A9580,110,"Ross, Hayes and Erickson Branch",Debit Card Delivery Delay,System detected debit card delivery delay.,2017-09-22,2017-09-24,Medium,Resolved,Refund processed.,Chaitaly Vaidya,Phone,2,2
+T00395,C0221,A8191,,"Andrade, Gomez and Bishop Branch",UPI Payment Failed,Client raised upi payment failed.,2018-10-18,,Low,Open,Escalated to technical team.,Wriddhish Sarraf,Phone,5,
+T00396,C0188,A1760,,"Garcia, Bradford and Thomas Branch",UPI Payment Failed,Client raised upi payment failed.,2018-07-21,,High,Escalated,KYC documents verified.,Kalpit Ahuja,Email,4,
+T00397,C0129,A5869,291,Johnson Ltd Branch,Interest Rate Dispute,Customer reported interest rate dispute.,2015-06-11,2015-06-26,Medium,Closed,Escalated to technical team.,Niharika Aggarwal,Mobile App,3,15
+T00398,C0298,A9809,521,Sanchez PLC Branch,Interest Rate Dispute,Customer reported interest rate dispute.,2016-09-26,2016-10-23,Critical,In Progress,Issue resolved successfully.,Vansha Sood,In-person,5,27
+T00400,C0254,A4639,,Green-Noble Branch,Loan Foreclosure,Customer reported loan foreclosure.,2018-08-12,2018-08-29,Low,In Progress,Pending customer verification.,Wriddhish Mangal,Email,2,17
+T00401,C0458,A1754,371,"Coffey, Curtis and Garrison Branch",KYC Update Required,Client raised kyc update required.,2015-05-11,2015-06-07,High,Open,Escalated to technical team.,Harish Anne,Email,1,27
+T00402,C0424,A3420,,Scott LLC Branch,Card Not Working,System detected card not working.,2015-11-24,2015-12-15,Critical,Resolved,Refund processed.,Gabriel Mutti,Email,5,21
+T00403,C0390,A4356,,Garcia Group Branch,Online Transfer Failed,Customer reported online transfer failed.,2018-05-29,2018-06-05,Low,In Progress,Loan schedule updated.,Upkaar Bava,Phone,2,7
+T00404,C0217,A8622,,Martin-Hardy Branch,KYC Update Required,Client raised kyc update required.,2017-01-02,2017-01-20,Low,Closed,Escalated to technical team.,Gaurika Pillay,Mobile App,4,18
+T00405,C0400,A1706,,Huynh-Jones Branch,Loan Foreclosure,Customer reported loan foreclosure.,2021-03-02,2021-03-13,Critical,Resolved,Escalated to technical team.,Falguni Bhandari,In-person,3,11
+T00406,C0454,A6756,,"Jenkins, Chambers and Williams Branch",Online Transfer Failed,Customer reported online transfer failed.,2018-08-17,2018-09-05,Critical,Closed,KYC documents verified.,Wishi Chhabra,In-person,4,19
+T00408,C0422,A4522,410,"Medina, Reeves and Booker Branch",EMI Auto-debit Failed,Customer reported emi auto-debit failed.,2020-02-29,2020-03-05,High,Resolved,Issue resolved successfully.,Owen Mahajan,Mobile App,5,5
+T00409,C0246,A3563,,Fisher Ltd Branch,Mismatch in Account Statement,Client raised mismatch in account statement.,2023-11-22,2023-12-08,Low,Closed,KYC documents verified.,Rehaan Balakrishnan,Email,5,16
+T00410,C0457,A6252,,"Nguyen, Skinner and Le Branch",Mismatch in Account Statement,System detected mismatch in account statement.,2023-08-24,2023-09-22,Critical,Open,Refund processed.,Kashvi Doctor,Phone,5,29
+T00411,C0109,A0188,323,Hawkins-Nguyen Branch,EMI Auto-debit Failed,Customer reported emi auto-debit failed.,2020-11-17,2020-12-05,Low,Escalated,Card replaced and activated.,Kashvi Doctor,Email,2,18
+T00412,C0485,A7077,,Evans-Mercado Branch,Account Frozen,Client raised account frozen.,2016-08-29,2016-09-01,Low,Closed,Card replaced and activated.,Wishi Chhabra,Email,4,3
+T00413,C0136,A8222,,Rodriguez LLC Branch,Online Transfer Failed,Customer reported online transfer failed.,2016-06-18,2016-07-04,Critical,Escalated,KYC documents verified.,Owen Mahajan,Phone,5,16
+T00414,C0367,A8590,190,"Mason, Kelly and Marquez Branch",Loan Foreclosure,Client raised loan foreclosure.,2017-12-26,2018-01-06,Low,Open,KYC documents verified.,Lavanya Hans,Mobile App,3,11
+T00415,C0429,A5707,474,Peterson-Graves Branch,Loan Foreclosure,Client raised loan foreclosure.,2021-08-29,2021-09-23,Critical,Closed,Pending customer verification.,Bhavya Dutta,Email,2,25
+T00416,C0022,A3272,116,Brown LLC Branch,Loan Payment Delay,Client raised loan payment delay.,2023-03-03,,Low,In Progress,Loan schedule updated.,Ikbal Sidhu,Phone,3,
+T00417,C0042,A0226,,Johnson-Wilson Branch,Card Not Working,System detected card not working.,2016-03-31,2016-04-16,Medium,Closed,Pending customer verification.,Kalpit Ahuja,In-person,5,16
+T00418,C0129,A7914,,"Gutierrez, Richards and Pace Branch",Account Closure Request,Client raised account closure request.,2022-06-30,2022-07-19,Low,Resolved,Pending customer verification.,Leena Apte,In-person,2,19
+T00419,C0078,A4445,,Black Inc Branch,Cheque Bounce,Client raised cheque bounce.,2015-02-04,2015-02-26,High,Open,Issue resolved successfully.,Rehaan Balakrishnan,Mobile App,2,22
+T00420,C0321,A6238,,Garcia-Robinson Branch,Online Transfer Failed,Customer reported online transfer failed.,2020-06-08,,Medium,In Progress,Loan schedule updated.,Bhavya Dutta,Email,1,
+T00421,C0308,A4054,426,"Roman, Lynch and Davis Branch",Interest Rate Dispute,System detected interest rate dispute.,2019-05-31,2019-06-01,High,In Progress,Loan schedule updated.,Wishi Chhabra,Email,3,1
+T00422,C0264,A6344,,"Huff, Bryant and Thomas Branch",Account Closure Request,System detected account closure request.,2018-02-21,2018-03-04,Medium,Open,KYC documents verified.,Upkaar Bava,Phone,4,11
+T00423,C0350,A3939,,Black Group Branch,Interest Rate Dispute,System detected interest rate dispute.,2018-07-03,,Medium,In Progress,KYC documents verified.,Ranveer Roy,Phone,2,
+T00424,C0065,A5063,,Wolf-Rollins Branch,Debit Card Delivery Delay,Customer reported debit card delivery delay.,2023-08-21,2023-09-20,High,Open,Loan schedule updated.,Falguni Bhandari,Email,2,30
+T00425,C0327,A5204,,Padilla-Cunningham Branch,KYC Update Required,System detected kyc update required.,2023-08-02,2023-08-16,Critical,Resolved,Pending customer verification.,Kashvi Doctor,Phone,1,14
+T00426,C0086,A2156,542,Sutton-Huang Branch,Debit Card Delivery Delay,Client raised debit card delivery delay.,2021-11-11,2021-12-01,Medium,In Progress,KYC documents verified.,Ria Ghose,In-person,1,20
+T00427,C0006,A7809,,Johnson Ltd Branch,Interest Rate Dispute,Customer reported interest rate dispute.,2021-10-12,2021-11-02,Critical,Escalated,Card replaced and activated.,Ranveer Roy,Phone,2,21
+T00428,C0264,A3708,,Lynch Ltd Branch,KYC Update Required,Customer reported kyc update required.,2015-03-03,,Medium,In Progress,Issue resolved successfully.,Chanakya Natt,Mobile App,5,
+T00429,C0227,A8028,,"Solis, Simpson and Martin Branch",Card Not Working,Client raised card not working.,2017-10-07,2017-11-01,Critical,Resolved,Card replaced and activated.,Vansha Sood,Email,5,25
+T00430,C0132,A1792,,Pitts Inc Branch,Account Access Issue,Client raised account access issue.,2015-06-23,,Critical,Open,Loan schedule updated.,Upkaar Bava,Email,2,
+T00431,C0383,A4771,16,Edwards PLC Branch,Loan Foreclosure,Client raised loan foreclosure.,2018-06-01,2018-06-11,Low,Closed,Pending customer verification.,Bhavya Dutta,Mobile App,1,10
+T00432,C0437,A8203,43,Garcia-Watkins Branch,Interest Rate Dispute,System detected interest rate dispute.,2021-07-25,,High,Escalated,Issue resolved successfully.,Chanakya Natt,Mobile App,5,
+T00433,C0049,A3309,119,Clark Inc Branch,EMI Auto-debit Failed,Client raised emi auto-debit failed.,2018-08-20,2018-09-19,Low,Open,Issue resolved successfully.,Gabriel Mutti,Mobile App,3,30
+T00434,C0037,A1398,,"Gonzales, Diaz and Green Branch",KYC Update Required,Client raised kyc update required.,2020-09-26,2020-10-02,Critical,Open,Refund processed.,Chanakya Natt,In-person,5,6
+T00435,C0099,A2460,,Garrett-Rubio Branch,KYC Update Required,System detected kyc update required.,2017-01-02,2017-01-04,High,Escalated,Escalated to technical team.,Wriddhish Sarraf,Phone,1,2
+T00436,C0126,A2156,499,"Li, Camacho and Cline Branch",Account Frozen,Client raised account frozen.,2023-08-02,2023-08-17,Low,Closed,Card replaced and activated.,Harish Anne,Phone,5,15
+T00437,C0461,A7795,,Hartman and Sons Branch,Account Access Issue,Client raised account access issue.,2015-11-22,2015-11-23,High,Closed,KYC documents verified.,Falguni Bhandari,Phone,1,1
+T00438,C0262,A3029,34,"Stout, Baker and Bowman Branch",Card Not Working,Client raised card not working.,2018-11-30,2018-12-28,High,Resolved,Issue resolved successfully.,Leena Apte,Email,4,28
+T00439,C0477,A2921,,Johnson Group Branch,Debit Card Delivery Delay,Client raised debit card delivery delay.,2021-11-08,2021-12-01,Medium,Escalated,KYC documents verified.,Owen Mahajan,In-person,1,23
+T00440,C0129,A1526,87,"Hill, Ramos and Brennan Branch",Loan Payment Delay,System detected loan payment delay.,2019-04-02,,Critical,In Progress,Issue resolved successfully.,Gabriel Mutti,In-person,3,
+T00441,C0437,A8636,,Smith-Jacobson Branch,Loan Payment Delay,Client raised loan payment delay.,2022-10-21,2022-10-23,Low,Escalated,KYC documents verified.,Gabriel Mutti,In-person,4,2
+T00443,C0385,A2948,,Baldwin and Sons Branch,Account Frozen,Client raised account frozen.,2017-03-03,2017-03-04,Low,In Progress,Refund processed.,Vansha Sood,Mobile App,4,1
+T00444,C0216,A0746,104,Alvarez PLC Branch,Account Access Issue,System detected account access issue.,2022-02-24,2022-03-17,Low,Resolved,Escalated to technical team.,Udyati Mody,In-person,1,21
+T00445,C0449,A1866,319,Alvarez PLC Branch,Loan Foreclosure,System detected loan foreclosure.,2023-02-15,2023-02-16,Critical,Escalated,Refund processed.,Leena Apte,Phone,4,1
+T00447,C0052,A8780,456,Ramirez-Kennedy Branch,Account Closure Request,Customer reported account closure request.,2022-09-08,2022-10-08,Medium,Resolved,Refund processed.,Ria Ghose,In-person,4,30
+T00448,C0108,A8754,,"Mathews, Rodriguez and Lambert Branch",Mismatch in Account Statement,System detected mismatch in account statement.,2019-05-15,2019-05-19,High,Open,Escalated to technical team.,Lavanya Hans,Email,4,4
+T00449,C0054,A3894,,"Stewart, Wilson and Dalton Branch",Unauthorized Transaction,Customer reported unauthorized transaction.,2018-05-24,2018-06-03,High,Open,Refund processed.,Kalpit Ahuja,Email,4,10
+T00450,C0252,A8291,,Gonzalez-Martin Branch,Account Closure Request,System detected account closure request.,2020-08-10,2020-08-21,High,Resolved,Pending customer verification.,Kashvi Doctor,Email,5,11
+T00451,C0487,A2175,,Bell PLC Branch,Online Transfer Failed,Customer reported online transfer failed.,2020-02-25,2020-03-24,Low,Resolved,Issue resolved successfully.,Gaurika Pillay,Email,3,28
+T00452,C0259,A7650,119,Pena-Walker Branch,Loan Foreclosure,Client raised loan foreclosure.,2023-08-05,2023-08-15,Medium,Resolved,Pending customer verification.,Kalpit Ahuja,In-person,3,10
+T00453,C0453,A8721,,Hartman-Vargas Branch,Unauthorized Transaction,System detected unauthorized transaction.,2022-07-11,2022-07-16,Low,Open,Loan schedule updated.,Falguni Bhandari,Email,2,5
+T00454,C0179,A8889,,Ward and Sons Branch,UPI Payment Failed,System detected upi payment failed.,2018-01-15,2018-02-07,Medium,In Progress,Issue resolved successfully.,Rehaan Balakrishnan,In-person,5,23
+T00455,C0478,A7269,5,Taylor PLC Branch,Loan Payment Delay,Customer reported loan payment delay.,2020-04-12,,Critical,Escalated,Pending customer verification.,Gabriel Mutti,Mobile App,5,
+T00456,C0245,A5827,219,"Wallace, Reynolds and Williams Branch",Interest Rate Dispute,Client raised interest rate dispute.,2017-03-22,2017-04-13,Medium,Open,Refund processed.,Aarnav Sangha,Mobile App,1,22
+T00457,C0006,A7465,,Anderson-Dunn Branch,Account Access Issue,Customer reported account access issue.,2022-12-19,2023-01-04,Medium,Closed,Escalated to technical team.,Ikbal Sidhu,In-person,4,16
+T00458,C0059,A3005,,Moreno PLC Branch,Loan Payment Delay,System detected loan payment delay.,2018-08-23,2018-08-24,Low,Resolved,Card replaced and activated.,Bhavya Dutta,Phone,3,1
+T00460,C0036,A7553,,"Acosta, Murphy and Rojas Branch",Unauthorized Transaction,System detected unauthorized transaction.,2017-09-04,2017-09-22,Critical,Open,Escalated to technical team.,Kalpit Ahuja,Mobile App,4,18
+T00461,C0496,A9294,,"Griffin, White and Miller Branch",Loan Payment Delay,Client raised loan payment delay.,2017-08-25,2017-09-16,Critical,Open,Loan schedule updated.,Vansha Sood,Mobile App,3,22
+T00462,C0317,A9095,,Reyes-Kelley Branch,Loan Payment Delay,Client raised loan payment delay.,2016-12-22,2017-01-04,Low,Closed,Refund processed.,Advik Bhagat,Mobile App,3,13
+T00463,C0444,A8099,103,"Ramirez, Ray and Harvey Branch",Account Closure Request,Customer reported account closure request.,2016-07-23,,Medium,In Progress,Card replaced and activated.,Falguni Bhandari,In-person,4,
+T00464,C0356,A9469,50,Blair-Rivas Branch,Loan Foreclosure,System detected loan foreclosure.,2022-08-23,,High,Open,Loan schedule updated.,Ria Ghose,Mobile App,2,
+T00466,C0247,A9670,,Adams LLC Branch,KYC Update Required,Client raised kyc update required.,2022-12-25,2023-01-07,Medium,In Progress,Card replaced and activated.,Ranveer Roy,Phone,5,13
+T00467,C0451,A6302,,Johnson LLC Branch,Loan Foreclosure,Customer reported loan foreclosure.,2016-09-23,2016-10-21,Medium,Open,Issue resolved successfully.,Wriddhish Sarraf,Email,2,28
+T00468,C0332,A7975,,Stevens PLC Branch,UPI Payment Failed,System detected upi payment failed.,2016-07-10,2016-07-31,Critical,Closed,Card replaced and activated.,Vansha Sood,Phone,4,21
+T00469,C0432,A8347,,"Green, Holder and Cooke Branch",Unauthorized Transaction,System detected unauthorized transaction.,2020-01-18,2020-01-26,Low,Closed,Card replaced and activated.,Wriddhish Mangal,Phone,5,8
+T00470,C0061,A4412,,"Long, Chavez and Whitehead Branch",Debit Card Delivery Delay,System detected debit card delivery delay.,2021-06-18,2021-06-20,High,Open,Loan schedule updated.,Veda Samra,Email,2,2
+T00471,C0435,A8625,,"Thomas, Brock and Hansen Branch",Loan Payment Delay,Customer reported loan payment delay.,2015-11-17,2015-12-07,Critical,Open,KYC documents verified.,Wriddhish Sarraf,In-person,5,20
+T00472,C0200,A0865,,Johnson-Wilson Branch,Account Closure Request,System detected account closure request.,2015-02-14,2015-03-03,High,Escalated,Escalated to technical team.,Aarnav Sangha,In-person,3,17
+T00473,C0224,A2745,,"Pratt, Perkins and Garcia Branch",UPI Payment Failed,Client raised upi payment failed.,2021-09-13,2021-10-07,High,Open,KYC documents verified.,Veda Samra,Phone,5,24
+T00474,C0329,A0846,,Scott-Olson Branch,Loan Payment Delay,Customer reported loan payment delay.,2022-01-01,2022-01-17,Low,Resolved,Escalated to technical team.,Ranveer Roy,In-person,3,16
+T00475,C0427,A4210,,"Allen, Church and Cook Branch",EMI Auto-debit Failed,Customer reported emi auto-debit failed.,2021-10-09,2021-10-28,Critical,Resolved,Refund processed.,Chanakya Natt,In-person,2,19
+T00476,C0207,A7945,,Cunningham Inc Branch,Unauthorized Transaction,Client raised unauthorized transaction.,2015-05-16,2015-05-19,Medium,Escalated,Refund processed.,Lavanya Hans,Mobile App,2,3
+T00477,C0126,A7212,483,Lee-Reyes Branch,Card Not Working,Customer reported card not working.,2023-03-27,,Low,In Progress,Card replaced and activated.,Upkaar Bava,Mobile App,3,
+T00478,C0340,A7804,220,Velez LLC Branch,Interest Rate Dispute,Customer reported interest rate dispute.,2022-11-30,2022-12-09,High,Escalated,Card replaced and activated.,Gaurika Pillay,In-person,5,9
+T00479,C0346,A0673,,Reyes-Kelley Branch,KYC Update Required,Client raised kyc update required.,2022-02-23,2022-03-23,High,Resolved,Escalated to technical team.,Wishi Chhabra,Email,3,28
+T00480,C0293,A9572,,Allen-Guzman Branch,Loan Foreclosure,Client raised loan foreclosure.,2022-07-28,2022-08-21,Medium,Closed,Escalated to technical team.,Gaurika Pillay,Phone,3,24
+T00481,C0281,A8973,,Evans Group Branch,Online Transfer Failed,Customer reported online transfer failed.,2015-10-06,2015-10-10,Critical,Resolved,Pending customer verification.,Ekapad Jhaveri,In-person,3,4
+T00482,C0459,A3164,133,"Taylor, Hopkins and Morales Branch",Loan Foreclosure,Customer reported loan foreclosure.,2016-01-12,2016-02-01,Low,Open,Issue resolved successfully.,Wriddhish Mangal,Phone,4,20
+T00483,C0042,A9275,,Sutton-Huang Branch,Account Frozen,Client raised account frozen.,2022-10-20,2022-10-30,Low,Escalated,Escalated to technical team.,Kashvi Doctor,Mobile App,3,10
+T00484,C0470,A4217,,Johnson Group Branch,KYC Update Required,System detected kyc update required.,2018-02-09,2018-02-22,Low,Resolved,Refund processed.,Wishi Chhabra,Phone,4,13
+T00485,C0332,A1138,,Scott LLC Branch,Loan Foreclosure,System detected loan foreclosure.,2017-04-01,2017-04-07,Low,In Progress,Loan schedule updated.,Kashvi Doctor,Mobile App,2,6
+T00486,C0226,A1741,,Aguirre Group Branch,Debit Card Delivery Delay,Client raised debit card delivery delay.,2016-02-28,2016-03-02,High,Escalated,Issue resolved successfully.,Triya Mukhopadhyay,Mobile App,2,3
+T00487,C0098,A0015,,Thomas LLC Branch,Account Closure Request,System detected account closure request.,2017-12-27,2018-01-07,Low,Closed,KYC documents verified.,Kashvi Doctor,Mobile App,4,11
+T00488,C0214,A7145,,Jackson-Macias Branch,Loan Payment Delay,Client raised loan payment delay.,2023-10-04,,Medium,Open,Card replaced and activated.,Gabriel Mutti,Mobile App,1,
+T00489,C0412,A9294,465,"Holmes, Harrell and Woods Branch",Loan Foreclosure,Customer reported loan foreclosure.,2018-05-25,2018-06-15,High,Closed,Refund processed.,Niharika Aggarwal,Email,4,21
+T00490,C0245,A4751,14,"Li, Camacho and Cline Branch",Loan Foreclosure,Customer reported loan foreclosure.,2015-06-11,,High,Escalated,Issue resolved successfully.,Wriddhish Sarraf,In-person,4,
+T00491,C0451,A1391,,Russell-Patel Branch,EMI Auto-debit Failed,Client raised emi auto-debit failed.,2016-07-27,2016-07-28,Medium,Escalated,Card replaced and activated.,Chaitaly Vaidya,In-person,4,1
+T00492,C0094,A8749,,"Robertson, Moore and Howell Branch",Interest Rate Dispute,Client raised interest rate dispute.,2015-03-09,2015-03-11,Low,Escalated,Issue resolved successfully.,Kalpit Ahuja,Mobile App,5,2
+T00493,C0108,A2441,,Baldwin and Sons Branch,Loan Foreclosure,Customer reported loan foreclosure.,2015-06-01,2015-06-17,Critical,Closed,Issue resolved successfully.,Harish Anne,Phone,1,16
+T00494,C0323,A2823,,Taylor PLC Branch,Unauthorized Transaction,Client raised unauthorized transaction.,2023-11-25,2023-12-15,Low,Open,Issue resolved successfully.,Veda Samra,Phone,1,20
+T00495,C0169,A3321,1,Daniel-Dunn Branch,Loan Payment Delay,Client raised loan payment delay.,2023-04-11,2023-04-22,Medium,Resolved,Refund processed.,Aarnav Sangha,Phone,1,11
+T00496,C0236,A9718,478,Ramirez-Brown Branch,Loan Foreclosure,Client raised loan foreclosure.,2016-05-09,2016-06-03,Medium,Escalated,Pending customer verification.,Ikbal Sidhu,Email,2,25
+T00497,C0230,A1638,,Davis-Long Branch,Loan Payment Delay,Customer reported loan payment delay.,2015-03-06,,Low,In Progress,Issue resolved successfully.,Gabriel Mutti,In-person,4,
+T00498,C0497,A7799,233,"Harris, Robles and Rogers Branch",EMI Auto-debit Failed,Client raised emi auto-debit failed.,2022-03-05,2022-03-20,Low,Closed,Pending customer verification.,Gabriel Mutti,Mobile App,5,15
+T00499,C0093,A1443,243,"Steele, Marsh and Richardson Branch",Loan Payment Delay,Client raised loan payment delay.,2015-01-19,2015-01-26,Low,Closed,Escalated to technical team.,Wriddhish Mangal,Phone,4,7
+T00500,C0047,A3410,35,"Wheeler, Henderson and Weeks Branch",Mismatch in Account Statement,System detected mismatch in account statement.,2016-04-06,2016-04-28,Critical,In Progress,Pending customer verification.,Gaurika Pillay,Email,1,22
+T00501,C0045,A5967,286,Gutierrez PLC Branch,Account Closure Request,Customer reported account closure request.,2017-10-26,2017-11-21,Low,Open,Loan schedule updated.,Chanakya Natt,Phone,1,26
+T00502,C0157,A7948,358,Petersen-Alvarado Branch,EMI Auto-debit Failed,Client raised emi auto-debit failed.,2017-08-21,2017-09-09,High,In Progress,Refund processed.,Ekanta Devan,In-person,2,19
+T00503,C0053,A1607,,Murray LLC Branch,Loan Payment Delay,System detected loan payment delay.,2017-03-30,2017-04-07,Critical,Open,Card replaced and activated.,Ranveer Roy,Phone,5,8
+T00504,C0157,A7455,174,Morris-Prince Branch,Loan Foreclosure,System detected loan foreclosure.,2016-07-12,2016-07-19,High,In Progress,Escalated to technical team.,Ranveer Roy,Email,5,7
+T00505,C0407,A0978,206,Jones LLC Branch,Loan Foreclosure,Client raised loan foreclosure.,2020-03-21,2020-03-27,Medium,Closed,Pending customer verification.,Owen Mahajan,Phone,1,6
+T00506,C0072,A6746,,Robbins LLC Branch,Account Frozen,System detected account frozen.,2017-06-05,2017-07-02,Low,Escalated,KYC documents verified.,Wriddhish Mangal,Phone,2,27
+T00507,C0088,A5363,,Rodriguez LLC Branch,Account Closure Request,Client raised account closure request.,2021-08-20,,Low,Escalated,Issue resolved successfully.,Leena Apte,Mobile App,5,
+T00508,C0425,A0551,,Booth-Daniels Branch,EMI Auto-debit Failed,Customer reported emi auto-debit failed.,2020-05-17,,Critical,Escalated,Pending customer verification.,Chaitaly Vaidya,Email,4,
+T00509,C0145,A3572,387,"Flores, French and Freeman Branch",Loan Foreclosure,Customer reported loan foreclosure.,2017-09-06,2017-09-09,Critical,Closed,KYC documents verified.,Owen Mahajan,Email,4,3
+T00510,C0276,A7599,,Chavez and Sons Branch,Interest Rate Dispute,Client raised interest rate dispute.,2019-07-19,2019-08-16,Critical,Open,Refund processed.,Wriddhish Sarraf,Email,4,28
+T00511,C0321,A5455,370,Lynch Ltd Branch,EMI Auto-debit Failed,Client raised emi auto-debit failed.,2023-06-11,2023-07-01,Low,Closed,Escalated to technical team.,Ekapad Jhaveri,Email,5,20
+T00512,C0456,A5964,373,"Vargas, Vang and Murphy Branch",Loan Payment Delay,Client raised loan payment delay.,2019-02-06,2019-02-08,Medium,In Progress,Escalated to technical team.,Harish Anne,Email,4,2
+T00513,C0393,A9505,,Mendez-White Branch,Account Closure Request,System detected account closure request.,2023-07-14,2023-07-26,Critical,Resolved,Issue resolved successfully.,Chaitaly Vaidya,In-person,3,12
+T00514,C0273,A7413,,"Coffey, Curtis and Garrison Branch",Loan Foreclosure,Client raised loan foreclosure.,2016-05-17,2016-06-04,High,Escalated,Loan schedule updated.,Ekani Oza,Email,2,18
+T00515,C0113,A7502,541,"Herrera, Rollins and Hill Branch",Loan Payment Delay,Customer reported loan payment delay.,2017-01-02,2017-01-05,High,Open,KYC documents verified.,Ranveer Roy,Mobile App,2,3
+T00516,C0149,A3347,85,Green-Keith Branch,Interest Rate Dispute,Client raised interest rate dispute.,2022-08-27,2022-09-01,Low,Resolved,Pending customer verification.,Chaitaly Vaidya,Email,2,5
+T00517,C0470,A8514,,Andrews Ltd Branch,Interest Rate Dispute,System detected interest rate dispute.,2018-11-05,2018-12-01,Critical,Escalated,Escalated to technical team.,Owen Mahajan,Phone,3,26
+T00519,C0151,A4674,,Morgan Inc Branch,UPI Payment Failed,Customer reported upi payment failed.,2022-12-10,2023-01-01,Medium,In Progress,Issue resolved successfully.,Leena Apte,In-person,5,22
+T00520,C0132,A2073,339,Knight Ltd Branch,Card Not Working,System detected card not working.,2017-01-25,2017-02-17,Medium,Resolved,Card replaced and activated.,Falguni Bhandari,Phone,5,23
+T00523,C0266,A1841,,Vaughn Ltd Branch,Cheque Bounce,Customer reported cheque bounce.,2016-07-25,2016-07-29,Critical,Closed,Refund processed.,Harish Anne,Mobile App,3,4
+T00524,C0318,A1516,234,"Powell, Jones and Hamilton Branch",Account Access Issue,System detected account access issue.,2022-03-11,2022-03-28,Medium,Open,Issue resolved successfully.,Falguni Bhandari,Mobile App,1,17
+T00525,C0265,A8386,182,Adams LLC Branch,Card Not Working,System detected card not working.,2018-07-25,2018-08-11,Critical,In Progress,KYC documents verified.,Wriddhish Mangal,Mobile App,3,17
+T00526,C0020,A6327,471,Hurley-Reynolds Branch,EMI Auto-debit Failed,Client raised emi auto-debit failed.,2018-11-13,2018-11-28,Critical,Escalated,Refund processed.,Bhavya Dutta,In-person,2,15
+T00527,C0389,A6945,34,Vega-Valentine Branch,Loan Foreclosure,Customer reported loan foreclosure.,2021-08-02,2021-08-07,Critical,Open,Issue resolved successfully.,Lavanya Hans,In-person,4,5
+T00529,C0097,A9589,,Rogers Group Branch,UPI Payment Failed,Customer reported upi payment failed.,2023-04-19,2023-04-20,Medium,Resolved,Escalated to technical team.,Wriddhish Sarraf,Mobile App,1,1
+T00530,C0108,A4714,88,Perez-Griffin Branch,Loan Payment Delay,System detected loan payment delay.,2022-09-18,2022-09-19,Critical,Open,Loan schedule updated.,Ekapad Jhaveri,In-person,5,1
+T00531,C0182,A7873,,"Thompson, Cooper and King Branch",Mismatch in Account Statement,Customer reported mismatch in account statement.,2022-01-16,2022-02-08,High,Closed,KYC documents verified.,Owen Mahajan,Email,3,23
+T00532,C0279,A2669,237,Hahn Group Branch,Loan Payment Delay,System detected loan payment delay.,2020-03-03,,High,Escalated,KYC documents verified.,Ikbal Sidhu,In-person,1,
+T00533,C0211,A4750,,Scott-Olson Branch,Loan Foreclosure,Customer reported loan foreclosure.,2015-11-11,2015-12-06,Low,Closed,Refund processed.,Chanakya Natt,In-person,3,25
+T00534,C0495,A4933,,Hall PLC Branch,Debit Card Delivery Delay,System detected debit card delivery delay.,2022-09-20,2022-10-08,Medium,Open,Pending customer verification.,Udyati Mody,In-person,3,18
+T00535,C0446,A7945,74,"Zavala, Ferguson and Williams Branch",EMI Auto-debit Failed,Client raised emi auto-debit failed.,2016-10-29,2016-11-03,Low,Escalated,Card replaced and activated.,Ikbal Sidhu,Email,1,5
+T00536,C0344,A2151,,"Reyes, Campbell and Walton Branch",Mismatch in Account Statement,System detected mismatch in account statement.,2018-06-30,2018-07-05,High,In Progress,KYC documents verified.,Rehaan Balakrishnan,Email,1,5
+T00537,C0341,A3644,,Robinson-Sweeney Branch,Unauthorized Transaction,Customer reported unauthorized transaction.,2016-08-06,2016-08-16,Medium,Open,Card replaced and activated.,Gabriel Mutti,Email,1,10
+T00538,C0080,A0309,,"Walton, Hodges and Galloway Branch",UPI Payment Failed,Client raised upi payment failed.,2015-06-24,2015-06-26,Low,Escalated,Issue resolved successfully.,Ikbal Sidhu,In-person,1,2
+T00539,C0424,A1086,,"Steele, Marsh and Richardson Branch",Account Closure Request,Client raised account closure request.,2023-06-18,2023-06-22,Medium,Closed,Pending customer verification.,Chanakya Natt,In-person,1,4
+T00541,C0475,A9343,494,Lewis-Travis Branch,Account Access Issue,System detected account access issue.,2021-06-26,2021-07-13,Medium,Closed,Issue resolved successfully.,Ekapad Jhaveri,Email,2,17
+T00542,C0267,A8261,190,Ortiz LLC Branch,Loan Payment Delay,Customer reported loan payment delay.,2021-08-11,2021-09-02,High,Escalated,Card replaced and activated.,Kalpit Ahuja,Phone,4,22
+T00543,C0327,A1849,51,Ramsey-Carr Branch,Loan Foreclosure,Client raised loan foreclosure.,2016-03-27,2016-04-12,Low,Open,Escalated to technical team.,Veda Samra,Email,4,16
+T00544,C0391,A4647,,"Austin, Rogers and Ayala Branch",Account Frozen,Customer reported account frozen.,2018-07-01,2018-07-28,Critical,Resolved,Refund processed.,Lavanya Hans,Phone,1,27
+T00545,C0012,A7794,520,Hardin-Rodriguez Branch,Loan Payment Delay,Customer reported loan payment delay.,2022-07-24,2022-07-28,Medium,Escalated,Card replaced and activated.,Gabriel Mutti,Email,2,4
+T00546,C0191,A1061,,"Humphrey, Mitchell and Buck Branch",KYC Update Required,Customer reported kyc update required.,2018-10-19,2018-11-16,Medium,Escalated,KYC documents verified.,Veda Samra,In-person,5,28
+T00547,C0396,A9727,,"Malone, Stewart and Stephens Branch",Interest Rate Dispute,System detected interest rate dispute.,2023-12-25,2024-01-07,Critical,Escalated,Loan schedule updated.,Wishi Chhabra,Phone,4,13
+T00548,C0493,A1771,505,Becker-Boone Branch,Loan Payment Delay,Customer reported loan payment delay.,2020-07-29,2020-08-03,Critical,Open,Pending customer verification.,Upkaar Bava,In-person,2,5
+T00549,C0339,A4961,,Mann and Sons Branch,Account Frozen,System detected account frozen.,2022-05-31,2022-06-25,Medium,Resolved,KYC documents verified.,Veda Samra,Mobile App,5,25
+T00550,C0179,A4288,,Johnson-Wilson Branch,Card Not Working,System detected card not working.,2021-01-23,2021-02-17,Low,Escalated,Card replaced and activated.,Niharika Aggarwal,Mobile App,4,25
+T00551,C0196,A7532,533,"Pratt, Perkins and Garcia Branch",Cheque Bounce,Customer reported cheque bounce.,2021-03-30,2021-04-24,Critical,Escalated,Pending customer verification.,Rehaan Balakrishnan,Mobile App,4,25
+T00552,C0336,A1793,,Bright Group Branch,Account Frozen,Client raised account frozen.,2022-09-08,2022-09-24,Medium,Closed,Issue resolved successfully.,Upkaar Bava,In-person,4,16
+T00553,C0384,A9684,,Massey-Reed Branch,Interest Rate Dispute,Customer reported interest rate dispute.,2018-12-15,2018-12-25,Low,Closed,Issue resolved successfully.,Ranveer Roy,In-person,3,10
+T00554,C0155,A9568,,"Obrien, Wilson and Morgan Branch",KYC Update Required,System detected kyc update required.,2022-01-04,2022-01-08,High,Escalated,Escalated to technical team.,Leena Apte,Phone,2,4
+T00555,C0225,A3845,,"Wallace, Reynolds and Williams Branch",Loan Payment Delay,System detected loan payment delay.,2022-09-19,2022-09-29,Medium,Open,Loan schedule updated.,Niharika Aggarwal,Email,4,10
+T00556,C0366,A6922,413,Pierce Inc Branch,Interest Rate Dispute,System detected interest rate dispute.,2022-10-21,2022-10-22,Low,Escalated,Issue resolved successfully.,Gabriel Mutti,Phone,3,1
+T00557,C0107,A8139,,"Martin, Flores and Miller Branch",Cheque Bounce,System detected cheque bounce.,2022-06-26,2022-07-16,Critical,In Progress,Card replaced and activated.,Wriddhish Sarraf,Email,5,20
+T00559,C0009,A1103,,Ortiz LLC Branch,Mismatch in Account Statement,System detected mismatch in account statement.,2018-11-23,2018-12-14,High,Escalated,KYC documents verified.,Falguni Bhandari,In-person,2,21
+T00560,C0125,A6789,430,"Nelson, Sanchez and Burch Branch",Loan Payment Delay,Client raised loan payment delay.,2020-10-11,2020-11-05,Medium,Closed,Card replaced and activated.,Kalpit Ahuja,Mobile App,3,25
+T00561,C0319,A8729,,Rodriguez LLC Branch,Account Access Issue,System detected account access issue.,2023-02-24,2023-03-13,Critical,In Progress,Pending customer verification.,Ranveer Roy,In-person,4,17
+T00562,C0134,A6722,,Hartman-Vargas Branch,KYC Update Required,System detected kyc update required.,2015-09-21,2015-10-19,High,In Progress,Escalated to technical team.,Gaurika Pillay,Phone,4,28
+T00563,C0453,A3908,402,"Suarez, Rhodes and Bolton Branch",Interest Rate Dispute,System detected interest rate dispute.,2015-04-24,2015-05-21,Low,In Progress,Pending customer verification.,Wishi Chhabra,Phone,1,27
+T00564,C0465,A4234,,Miller Inc Branch,EMI Auto-debit Failed,System detected emi auto-debit failed.,2016-12-21,2016-12-23,Low,Open,Refund processed.,Triya Mukhopadhyay,Email,3,2
+T00565,C0021,A9857,,Johnson Ltd Branch,Loan Foreclosure,Client raised loan foreclosure.,2019-07-26,,Low,Escalated,Refund processed.,Ekapad Jhaveri,Phone,2,
+T00566,C0450,A1834,,Frazier and Sons Branch,UPI Payment Failed,Client raised upi payment failed.,2020-11-07,2020-11-26,High,Escalated,Issue resolved successfully.,Harish Anne,Email,3,19
+T00567,C0467,A5396,,Leon PLC Branch,Account Access Issue,Customer reported account access issue.,2023-05-06,2023-05-20,Low,In Progress,Pending customer verification.,Wishi Chhabra,Mobile App,4,14
+T00568,C0290,A4167,,Bennett and Sons Branch,Interest Rate Dispute,Client raised interest rate dispute.,2019-03-15,2019-03-19,Critical,Escalated,KYC documents verified.,Harish Anne,In-person,2,4
+T00569,C0300,A5948,,Ortiz LLC Branch,Debit Card Delivery Delay,Customer reported debit card delivery delay.,2018-06-16,2018-07-15,Low,In Progress,Escalated to technical team.,Falguni Bhandari,Mobile App,3,29
+T00571,C0100,A3447,,Sanchez PLC Branch,UPI Payment Failed,Client raised upi payment failed.,2022-01-30,2022-02-25,Critical,Open,Escalated to technical team.,Wriddhish Mangal,Email,4,26
+T00572,C0001,A7719,,"Patton, Maddox and Jackson Branch",Account Closure Request,Customer reported account closure request.,2018-09-24,2018-10-23,Medium,Resolved,Loan schedule updated.,Chaitaly Vaidya,In-person,4,29
+T00573,C0341,A9866,,"Powell, Jones and Hamilton Branch",Loan Foreclosure,Customer reported loan foreclosure.,2015-04-23,2015-05-14,Critical,In Progress,Issue resolved successfully.,Upkaar Bava,Phone,3,21
+T00574,C0200,A5141,370,"Williams, Green and Dunlap Branch",Mismatch in Account Statement,Customer reported mismatch in account statement.,2017-10-19,2017-11-13,Critical,Resolved,Card replaced and activated.,Veda Samra,Phone,3,25
+T00575,C0109,A2843,,Nguyen Inc Branch,Unauthorized Transaction,System detected unauthorized transaction.,2017-03-24,2017-04-05,Critical,Closed,Pending customer verification.,Ria Ghose,Email,5,12
+T00576,C0051,A3748,,"Edwards, Dixon and Lopez Branch",Unauthorized Transaction,Customer reported unauthorized transaction.,2017-03-23,2017-04-20,Critical,Closed,Card replaced and activated.,Vansha Sood,In-person,2,28
+T00577,C0483,A1460,303,Hardin-Rodriguez Branch,Interest Rate Dispute,Client raised interest rate dispute.,2021-05-12,2021-06-04,Critical,Open,Pending customer verification.,Gabriel Mutti,Phone,2,23
+T00578,C0325,A4362,,Lewis Ltd Branch,Account Access Issue,Client raised account access issue.,2019-04-14,2019-05-12,Medium,Resolved,KYC documents verified.,Gaurika Pillay,Phone,4,28
+T00579,C0410,A2956,,Carroll-Robinson Branch,Account Access Issue,Client raised account access issue.,2015-04-28,2015-05-07,Critical,In Progress,Escalated to technical team.,Owen Mahajan,Mobile App,1,9
+T00580,C0209,A0170,442,"Smith, Mcdonald and Johnson Branch",KYC Update Required,Client raised kyc update required.,2018-08-17,,Critical,Escalated,KYC documents verified.,Vansha Sood,In-person,1,
+T00581,C0340,A1562,297,Thomas-Calhoun Branch,Debit Card Delivery Delay,Client raised debit card delivery delay.,2017-08-19,2017-08-31,Low,Open,Escalated to technical team.,Udyati Mody,Mobile App,3,12
+T00582,C0244,A6467,350,Sullivan and Sons Branch,Interest Rate Dispute,System detected interest rate dispute.,2021-04-10,2021-04-16,Critical,In Progress,Issue resolved successfully.,Niharika Aggarwal,Mobile App,2,6
+T00583,C0460,A4267,493,Coleman-Riggs Branch,Cheque Bounce,System detected cheque bounce.,2016-06-07,2016-07-04,High,Resolved,Loan schedule updated.,Advik Bhagat,In-person,5,27
+T00584,C0059,A5129,,"Thompson, Cooper and King Branch",UPI Payment Failed,Customer reported upi payment failed.,2018-07-16,2018-08-01,Critical,Open,Pending customer verification.,Ranveer Roy,Email,2,16
+T00585,C0028,A3001,,"Pratt, Perkins and Garcia Branch",Loan Payment Delay,System detected loan payment delay.,2016-10-31,2016-11-14,Low,Escalated,Escalated to technical team.,Gabriel Mutti,Mobile App,4,14
+T00586,C0082,A8078,,Garcia-Watkins Branch,Account Access Issue,System detected account access issue.,2016-08-29,2016-09-01,Medium,In Progress,KYC documents verified.,Udyati Mody,In-person,5,3
+T00587,C0159,A9596,,"Lee, Escobar and Torres Branch",Unauthorized Transaction,System detected unauthorized transaction.,2015-01-17,2015-02-05,Low,In Progress,Refund processed.,Veda Samra,Email,3,19
+T00588,C0010,A0426,,Gutierrez PLC Branch,Debit Card Delivery Delay,Customer reported debit card delivery delay.,2022-08-19,2022-08-31,High,In Progress,Issue resolved successfully.,Chaitaly Vaidya,Mobile App,4,12
+T00589,C0494,A7440,,Chapman-Goodman Branch,Loan Foreclosure,Client raised loan foreclosure.,2015-01-24,2015-01-26,Critical,Resolved,KYC documents verified.,Ekapad Jhaveri,Phone,2,2
+T00590,C0316,A0798,350,Friedman-Martin Branch,Interest Rate Dispute,System detected interest rate dispute.,2015-08-16,2015-09-03,Medium,In Progress,Refund processed.,Wriddhish Mangal,Mobile App,1,18
+T00591,C0122,A0337,141,Adkins Inc Branch,UPI Payment Failed,Customer reported upi payment failed.,2023-09-28,2023-10-19,Low,Resolved,Card replaced and activated.,Aarnav Sangha,Mobile App,3,21
+T00593,C0468,A6923,,Richardson-Griffith Branch,Card Not Working,Client raised card not working.,2019-11-14,2019-11-17,High,Escalated,KYC documents verified.,Harish Anne,Phone,4,3
+T00594,C0170,A8639,20,Powell-Schwartz Branch,EMI Auto-debit Failed,Client raised emi auto-debit failed.,2019-11-27,2019-12-23,High,In Progress,Loan schedule updated.,Lavanya Hans,In-person,5,26
+T00595,C0302,A0782,,Gutierrez-Nolan Branch,KYC Update Required,Customer reported kyc update required.,2020-10-03,2020-10-17,Critical,Closed,Refund processed.,Wishi Chhabra,In-person,3,14
+T00596,C0303,A9594,,Johnson Group Branch,Account Frozen,Customer reported account frozen.,2015-03-08,2015-03-30,Medium,Escalated,Issue resolved successfully.,Chaitaly Vaidya,Mobile App,3,22
+T00597,C0480,A5144,,Clark Inc Branch,Interest Rate Dispute,Customer reported interest rate dispute.,2020-01-17,2020-01-26,Medium,In Progress,Issue resolved successfully.,Ekapad Jhaveri,In-person,1,9
+T00598,C0270,A7108,427,Murphy-Johnston Branch,Interest Rate Dispute,Client raised interest rate dispute.,2016-04-22,2016-05-13,Critical,Resolved,Loan schedule updated.,Advik Bhagat,In-person,4,21
+T00599,C0144,A4959,121,"Herrera, Rollins and Hill Branch",Card Not Working,Customer reported card not working.,2015-02-26,2015-03-25,Low,In Progress,Card replaced and activated.,Wriddhish Sarraf,Phone,2,27
+T00600,C0076,A7140,24,Peterson-Graves Branch,EMI Auto-debit Failed,Customer reported emi auto-debit failed.,2023-08-19,2023-09-04,Critical,Escalated,Card replaced and activated.,Ria Ghose,Mobile App,5,16
