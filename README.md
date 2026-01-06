@@ -73,15 +73,16 @@ BankSight-Transaction-Intelligence-Dashboard/
 1. Clone the repository
 ```bash
 git clone https://github.com/Rudra-Barman/BankSight-Transaction-Intelligence-Dashboard
+```
 
 2. Install required libraries
-
+```bash
 pip install pandas sqlalchemy psycopg2 streamlit
-
+```
 3. Run the Streamlit app
-
+```bash
 streamlit run app.py
----
+```
 
 ## 📈 Project Outcome
 - Structured banking database with relational integrity  
