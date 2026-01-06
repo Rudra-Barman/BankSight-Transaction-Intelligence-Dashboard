@@ -26,16 +26,26 @@ actionable insights into customer behavior, operational performance, and potenti
 
 ---
 
-## 📂 Project Structure
+## 📁 Project Structure
+
+```text
 BankSight-Transaction-Intelligence-Dashboard/
 │
-├── 01_Data_Cleaning/ # Data cleaning & preprocessing notebooks
-├── 02_SQL_Database/ # Database schema & CREATE TABLE scripts
-├── 03_SQL_Queries/ # 15+ analytical SQL queries & explanations
-├── 04_Streamlit_App/ # Streamlit application source code
-├── 05_Documentation/ # Project PPT & user guide
-├── Datasets/ # Cleaned datasets (CSV)
+├── 01_Data_Cleaning/        # Data cleaning & preprocessing notebooks
+│
+├── 02_SQL_Database/        # Database schema & CREATE TABLE scripts
+│
+├── 03_SQL_Queries/         # 15+ analytical SQL queries & explanations
+│
+├── 04_Streamlit_App/       # Streamlit application source code
+│
+├── 05_Documentation/       # Project PPT & user guide
+│
+├── Datasets/               # Cleaned datasets (CSV)
+│
 └── README.md
+```
+
 
 
 ---
